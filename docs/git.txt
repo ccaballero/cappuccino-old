@@ -1,0 +1,55 @@
+
+Controlador de versiones:
+
+init
+    inicializa un repositorio vacio.
+
+status
+    muestra el estado actual de los ficheros versionados.
+
+add
+    agrega ficheros o directorios al repositorio de git.
+
+commit
+    crea un nuevo estado de version.
+
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
+
+log
+    muestra el historial de cambios en el repositorio.
+    
+diff
+    muestra las diferencias entre dos estados del repositorio.
+
+clone
+    bare (mirror)
+    non-bare
+
+
+Protocolos sobre los que trabaja:
+    SSH
+    GIT
+    HTTP
+    HTTPS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
