@@ -1,0 +1,139 @@
+\documentclass[letter,12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{textcomp}
+\renewcommand*\familydefault{\sfdefault}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8x]{inputenc}
+
+\usepackage[pdftex]{graphicx}
+\usepackage{pifont}
+\usepackage[
+pdfauthor={Carlos Eduardo Caballero Burgoa},%
+pdftitle={cappuchino},%
+colorlinks,%
+citecolor=black,%
+filecolor=black,%
+linkcolor=black,%
+%urlcolor=black
+pdftex]{hyperref}
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\pagestyle{fancy}
+
+% Para la primera página
+\fancypagestyle{plain}{
+\fancyhead[l]{}
+\fancyhead[r]{}
+\fancyhead[c]{}
+\renewcommand{\headrulewidth}{0.5pt}
+\fancyfoot[l]{SCESI \\ Sociedad Científica de Estudiantes de Sistemas e Informática}
+\fancyfoot[c]{}
+\fancyfoot[r]{\thepage/\pageref{LastPage}}
+\renewcommand{\footrulewidth}{0.5pt}}
+
+% Para el resto de páginas
+\lhead{Proyecto Cappuchino}
+\chead{}
+\renewcommand{\headrulewidth}{0.4pt}
+\lfoot{SCESI \\ Sociedad Científica de Estudiantes de Sistemas e Informática \\ 
+\url {http://www.scesi.org}}
+\cfoot{}
+\rfoot{\thepage/\pageref{LastPage}}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\title{\bf Proyecto Cappuchino}
+\author{Carlos Eduardo Caballero Burgoa}
+
+\begin{document}
+\maketitle
+\begin{center}\url {http://www.scesi.org}\end{center}
+\pagebreak
+
+\tableofcontents
+\pagebreak
+
+\section{Introducción}
+Como parte de las construcciones de software orientado a soluciones primigenias, este documento
+trata los asuntos referentes al desarrollo de un sistema para la manipulación de horarios en
+la facultad de ciencias y tecnología.
+
+\section{Antecedentes}
+Cada semestre en la facultad de ciencias y tecnología, se pasa por un proceso clásico: compra de
+matricula, publicación de horarios, e inscripción en el websiss.
+
+En semestres bajos e intermedios, el proceso de seleccionar las materias que uno va a tomar para
+el semestre, posee un gran esfuerzo de análisis, para que todas estas materias no colisionen, y que
+ademas (si se puede), posean características que le convengan al estudiante, según sus propios criterios
+y disponibilidades de tiempo.
+
+En este proceso, se toman en cuenta muchas cosas entre otras:
+
+\begin{itemize}
+\item Minimizar las colisiones entre horarios.
+\item Preferencia por un grupo en especifico.
+\item Reducción de los puentes entre clases.
+\item Restringir a una tiempos de disponibilidad que se posee.
+\end{itemize}
+
+Todo esto concluye a realizar de este proceso, un trabajo moroso y hasta cierto punto agobiente,
+particularmente cuando se tienen muchas posibilidades.
+
+\section{Definición del Problema}
+
+Por lo mencionado anteriormente se define el problema como:
+
+La amplia variedad de posibilidades (ya sean materias o grupos) en la facultad conlleva a un gasto
+innecesario de tiempo en la planificación de un horario adecuado para cualquier estudiante.
+
+\section{Objetivo General}
+Desarrollar un sistema web que permita a un estudiante seleccionar del amplio conjunto de
+posibilidades de horarios para un semestre, aquel que considere mas prudente, para agilizar
+y viabilizar una solución mas consciente.
+
+\section{Objetivos Específicos}
+\begin{itemize}
+\item Automatizar el volcado de información desde los servidores de la facultad hacia el mismo sistema.
+\item Facilitar a un estudiante la selección de grupos para un semestre.
+\item Administrar de forma fácil el registro y gestión de usuarios del sistema.
+\end{itemize}
+
+\section{Proceso de desarrollo}
+A continuación se detallan los pasos a seguir:
+
+\begin{enumerate}
+\item Construcción de los modelos necesarios tal que estos puedan albergar la estructura de la
+información que se tiene a disposición.
+\item Creación de la base de datos que pueda albergar la información requerida.
+\item Construcción de las interfaces necesarias para el uso fácil del sistema.
+\item Construcción de los controladores necesarios para la validación y filtrado de la información
+entrante.
+\item Desarrollo de un script que facilite el proceso de volcado de información desde los archivos
+PDF provistos por la facultad.
+\item Poner el sitio construido a un servidor en producción (cappuchino.scesi.org).
+\end{enumerate}
+
+\section{Herramientas}
+En el axiomático caso de que a alguien le importe lo que estamos haciendo, se utilizaran herramientas
+que faciliten el intercambio de código, e ideas que puedan mejorar la solución propuesta, entre otras
+estas son:
+
+\begin{enumerate}
+\item FOS GNU/Linux: Como parte de la evaluación y a modo de contribución a este proyecto.
+\item Apache2: Para el despliegue del sistema construido.
+\item Git: Como herramienta de versionamiento y a futuro liberar el código del sistema en
+el repositorio de proyectos github (https://github.com/).
+\item NetBeans: Como IDE de desarrollo para PHP5.
+\end{enumerate}
+
+\section{Justificación}
+Construir un sistema que ayude a los estudiantes a probar las opciones que tiene a la hora de tomar
+materias, agilizará el tiempo de decisión, ademas de poder ver todas las posibilidades que tiene.
+
+Esto sería muy útil en cuestiones de tiempo y compromiso con lo que cada quien crea lo prudente a la
+hora de tomarse en serio su educación superior.
+
+\end{document}
