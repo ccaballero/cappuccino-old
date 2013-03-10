@@ -57,9 +57,20 @@ body {
     float: left;
 }
 
-#header ul li a:hover {}
+#header ul li a:hover {
+    text-decoration: underline;
+}
 
-#footer {}
+#header ul li.active a {
+    color: #B4D562;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#footer {
+    padding-top: 20px;
+}
+
 #footer ul {
     margin: 0px;
     padding: 0px;
@@ -82,7 +93,7 @@ body {
 #footer ul li a:hover {}
 
 #wrapper {
-    width: 960px;
+    max-width: 960px;
     margin: 0px auto;
 }
 
@@ -97,16 +108,38 @@ body {
     text-decoration: underline;
 }
 
+#content h2 {
+    font-family: 'GeoSansLight';
+    font-size: 24px;
+    font-weight: normal;
+    margin: 0px;
+    padding: 10px 10px 0px 15px;
+    color: #B4D562;
+    text-shadow: 2px 2px 4px #DBE479;
+}
+
+#content h3 {
+    font-family: 'GeoSansLight';
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0px;
+    padding: 10px 10px 0px 20px;
+    color: #748038;
+    text-shadow: 2px 2px 4px #DBE479;
+}
+
 #content p {
     font-family: 'GeoSansLight';
     font-size: 12px;
     color: #262C0A;
-    padding: 5px 0px;
+    padding: 5px;
     line-height: 20px;
+    text-align: justify;
 }
 
 #content .wizard {
-    padding: 20px 0px 20px 0px;
+    float: left;
+    padding: 10px 0px;
 }
 
 #content .wizard .step {
@@ -115,7 +148,7 @@ body {
     height: 125px;
     background-color: #DBE479;
     padding: 0px 7px 0px 13px;
-    margin-right: 30px;
+    margin: 5px 30px 15px 5px;
     border-radius: 20px;
     box-shadow: 0px 0px 3px 3px #748038;
 }
@@ -126,13 +159,13 @@ body {
     font-size: 16px;
     color: #262C0A;
     margin-bottom: 0px;
+    padding: 10px 0px 0px 0px;
 }
 
 #content .wizard .step p {
     color: #748038;
     padding: 0px;
-    margin-top: 5px;
-    margin-bottom: 0px;
+    margin: 5px 5px 0px 0px;
 }
 
 #content .start {
@@ -140,23 +173,49 @@ body {
     text-align: center;
 }
 
-#content .start p a {
+#content .start ul {}
+#content .start ul li {
+    margin: 10px 0px;
+}
+
+#content .start ul li a,
+#content .start ul li input[type="submit"] {
     font-family: 'GeoSansLight';
     font-size: 30px;
+    background-color: #262C0A;
     color: #DBE479;
     text-decoration: none;
-    background-color: #262C0A;
     padding: 5px 15px;
     border-radius: 20px;
+    border: none;
 }
-    
+
+#content ul {
+    list-style: none;
+}
+
 #content table {
     width: 100%;
+}
+
+#content table tr th {
+    background-color: #748038;
+    color: #F9F9B9;
+}
+
+#content table tr td {
+    background-color: #DBE479;
 }
 
 #content table tr th,
 #content table tr td {
     font-family: "Copperplate Light", "Copperplate Gothic Light", serif;
     font-size: 14px;
-    background-color: #B4D562;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 450px) {
+    #header ul li {
+        width: 100%;
+    }
 }
