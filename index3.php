@@ -45,7 +45,7 @@
                         <li><input type="checkbox" />&nbsp;Calculo III</li>
                         <li><input type="checkbox" />&nbsp;Calculo IV</li>
                     </ul>
-                
+
                     <h2>Lic. XXX XXX XXX</h2>
                     <ul>
                         <li><input type="checkbox" />&nbsp;Calculo I</li>
@@ -53,10 +53,12 @@
                         <li><input type="checkbox" />&nbsp;Calculo III</li>
                         <li><input type="checkbox" />&nbsp;Calculo IV</li>
                     </ul>
-                
+
                     <div class="start">
-                        <p><a href="#">&laquo; Volver &nbsp;</a>
-                        <input type="submit" value="&nbsp; Ir a paso 3 &raquo;" /></p>
+                        <ul>
+                            <li><a href="#">&laquo; Volver &nbsp;</a></li>
+                            <li><input type="submit" value="&nbsp; Ir a paso 3 &raquo;" /></li>
+                        </ul>
                     </div>
                     <div class="clear"></div>
                 </form>
