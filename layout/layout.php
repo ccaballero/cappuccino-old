@@ -23,11 +23,11 @@
     <body>
         <div id="header">
             <ul>
-                <li><a href="index.php">Inicio</a></li>
-                <li><a href="index2.php">Carreras</a></li>
-                <li><a href="index3.php">Materias</a></li>
-                <li><a href="index4.php">Grupos</a></li>
-                <li class="active"><a href="index5.php">Horarios</a></li>
+                <li><a href="/inicio">Inicio</a></li>
+                <li><a href="/carreras">Carreras</a></li>
+                <li><a href="/materias">Materias</a></li>
+                <li><a href="/grupos">Grupos</a></li>
+                <li class="active"><a href="/horarios">Horarios</a></li>
             </ul>
             <div class="clear"></div>
         </div>

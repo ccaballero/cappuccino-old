@@ -10,7 +10,7 @@ function get_view() {
 }
 
 $valid_pages = array(
-    '',
+    'inicio',
     'carreras',
     'materias',
     'grupos',
@@ -18,19 +18,16 @@ $valid_pages = array(
 );
 
 $_page = $_GET['page'];
+if (empty($_page)) {
+    $_page = 'inicio';
+}
 
-foreach ($valid_pages as $count => $page) {
+foreach ($valid_pages as $page) {
     if ($page === $_page) {
         $PAGE = $_page;
-        $_count = $count + 1;
         include 'layout/layout.php';
         exit;
     }
 }
 
 echo 'pagina invalida';
-
-
-
-
-
