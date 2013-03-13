@@ -5,17 +5,17 @@ class Singleton {
     
     private function __construct() {}
     
-    public static function init() {
-        $this->instance = $this;
-    }
-    
     public static function getInstance() {
-        return $this->instance;
+        if (self::$instance == null) {
+            self::$instance = new self();
+        }
+        return self::$instance;
     }
 }
 
-$s = new Singleton();
 
+$s = Singleton::getInstance();
+var_dump($s);
 
 
 
