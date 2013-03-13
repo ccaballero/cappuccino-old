@@ -41,6 +41,7 @@ las carreras que se usted selecciono previamente:</p>
                 <a href="#">&laquo; Volver &nbsp;</a>
             </li>
             <li>
+                <input type="hidden" name="paso" value="4" />
                 <input type="submit" value="&nbsp; Ir a paso 4 &raquo;" />
             </li>
         </ul>

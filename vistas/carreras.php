@@ -14,7 +14,10 @@ la selección de sus horarios:</p>
     <div class="start">
         <ul>
             <li><a href="#">&laquo; Volver &nbsp;</a></li>
-            <li><input type="submit" value="&nbsp; Ir a paso 2 &raquo;" /></li>
+            <li>
+                <input type="hidden" name="paso" value="2" />
+                <input type="submit" value="&nbsp; Ir a paso 2 &raquo;" />
+            </li>
         </ul>
     </div>
     <div class="clear"></div>

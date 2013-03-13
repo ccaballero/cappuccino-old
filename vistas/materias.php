@@ -22,7 +22,10 @@ las carreras que se usted selecciono previamente:</p>
     <div class="start">
         <ul>
             <li><a href="#">&laquo; Volver &nbsp;</a></li>
-            <li><input type="submit" value="&nbsp; Ir a paso 3 &raquo;" /></li>
+            <li>
+                <input type="hidden" name="paso" value="3" />
+                <input type="submit" value="&nbsp; Ir a paso 3 &raquo;" />
+            </li>
         </ul>
     </div>
     <div class="clear"></div>

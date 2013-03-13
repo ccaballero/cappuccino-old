@@ -12,12 +12,3 @@ class Singleton {
         return self::$instance;
     }
 }
-
-
-$s = Singleton::getInstance();
-var_dump($s);
-
-
-
-
-

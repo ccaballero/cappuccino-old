@@ -1,13 +1,6 @@
 <?php
 
-global $PAGE;
-
-function get_view() {
-    global $PAGE;
-    
-    include 'vistas/' . $PAGE . '.php';
-    return;
-}
+include 'lib/libs.php';
 
 $valid_pages = array(
     'inicio',
@@ -20,6 +13,11 @@ $valid_pages = array(
 $_page = $_GET['page'];
 if (empty($_page)) {
     $_page = 'inicio';
+}
+
+if(!empty($_POST)) {
+    $paso = $_POST['paso'];
+    $_page = $valid_pages[$paso];
 }
 
 foreach ($valid_pages as $page) {

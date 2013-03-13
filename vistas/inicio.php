@@ -27,11 +27,15 @@ aquellos elementos que requiere.</p>
 <p>Para comenzar el proceso correspondiente a la gestión
 XX/XXXX, usted debe presionar en el boton comenzar:</p>
 
+<form method="post" action="">
 <div class="start">
     <ul>
         <li>
-            <a href="#">&nbsp;Comenzar&nbsp;&raquo;</a>
+            <input type="hidden" name="paso" value="1" />
+            <input type="submit" value="&nbsp;Comenzar&nbsp;&raquo;" />
         </li>
     </ul>
 </div>
+</form>
+
 <div class="clear"></div>
