@@ -1,0 +1,15 @@
+<VirtualHost *:80>
+    ServerName cappuchino.local
+
+    DocumentRoot /var/www/cappuchino.local
+
+    ErrorLog /var/www/cappuchino.local/logs/error.log
+    CustomLog /var/www/cappuchino.local/logs/access.log "%t %a %m %U%q"
+
+    <Directory "/var/www/cappuchino.local/">
+        DirectoryIndex index.php
+        AllowOverride All
+        Order allow,deny
+        Allow from all
+    </Directory>
+</VirtualHost>
