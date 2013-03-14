@@ -6,6 +6,9 @@ syntax: glob
 *.bak
 *.log
 
+*.oob
+*.cdb
+
 *.toc
 *.aux
 *.nav
