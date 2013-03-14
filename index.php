@@ -1,6 +1,14 @@
 <?php
 
 include 'lib/libs.php';
+include 'lib/config.php';
+include 'lib/conexion.php';
+
+global $CONFIG;
+$CONFIG = new Config();
+
+$conector = Conector::getInstance();
+$db = $conector->getConexion();
 
 $valid_pages = array(
     'inicio',
