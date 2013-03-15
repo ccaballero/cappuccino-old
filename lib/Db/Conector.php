@@ -1,6 +1,6 @@
 <?php
 
-class Conector {
+class Db_Conector {
     private static $instance;
     
     private function __construct() {}

@@ -1,6 +1,6 @@
 <?php
 
-class Carrera {
+class Models_Carrera {
     public $codigo = array();
     public $materias = array();
     
@@ -27,5 +27,9 @@ class Carrera {
             
     public function getMaterias() {
         return $this->materias;
+    }
+    
+    public function __toString() {
+        return $this->codigo;
     }
 }

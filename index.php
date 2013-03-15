@@ -1,14 +1,14 @@
 <?php
 
 include 'lib/libs.php';
-include 'lib/config.php';
-include 'lib/conexion.php';
+global $LIST;
 
 global $CONFIG;
 $CONFIG = new Config();
 
-$conector = Conector::getInstance();
-$db = $conector->getConexion();
+global $DB;
+$conector = Db_Conector::getInstance();
+$DB = $conector->getConexion();
 
 $valid_pages = array(
     'inicio',
@@ -28,12 +28,15 @@ if(!empty($_POST)) {
     $_page = $valid_pages[$paso];
 }
 
-foreach ($valid_pages as $page) {
-    if ($page === $_page) {
-        $PAGE = $_page;
-        include 'layout/layout.php';
-        exit;
-    }
+try {
+    $controlador = 'Actions_' . ucfirst($_page);
+    $action = new $controlador();
+    $componente = $action->run();
+
+    $PAGE = $_page;
+    include 'layout/layout.php';
+
+} catch (Exception $e) {
+    echo 'pagina invalida';
 }
 
-echo 'pagina invalida';

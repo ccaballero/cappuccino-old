@@ -8,12 +8,12 @@ Youre All That I See    F9F9B9
 
 @font-face {
     font-family: 'GeoSansLight';
-    src: url('/fonts/GeosansLight.ttf');
+    src: url('/media/fonts/GeosansLight.ttf');
 }
 
 @font-face {
     font-family: 'GeoSansLightOblique';
-    src: url('/fonts/GeosansLight-Oblique.ttf');
+    src: url('/media/fonts/GeosansLight-Oblique.ttf');
 }
 
 * {

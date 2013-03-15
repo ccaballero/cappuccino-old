@@ -4,11 +4,11 @@ la selección de sus horarios:</p>
 
 <form method="post" action="">
     <ul>
-        <li><input type="checkbox" />&nbsp;Lic. en XXX XXX XXX</li>
-        <li><input type="checkbox" />&nbsp;Lic. en XXX XXX XXX</li>
-        <li><input type="checkbox" />&nbsp;Lic. en XXX XXX XXX</li>
-        <li><input type="checkbox" />&nbsp;Lic. en XXX XXX XXX</li>
-        <li><input type="checkbox" />&nbsp;Lic. en XXX XXX XXX</li>
+    <?php 
+        global $LIST;
+        foreach ($LIST as $carrera) { ?>
+        <li><input type="checkbox" />&nbsp;<?php echo $carrera->get ?></li>
+    <?php } ?>
     </ul>
 
     <div class="start">
