@@ -7,8 +7,8 @@ global $CONFIG;
 $CONFIG = new Config();
 
 global $DB;
-$conector = Db_Conector::getInstance();
-$DB = $conector->getConexion();
+//$conector = Db_Conector::getInstance();
+//$DB = $conector->getConexion();
 
 $valid_pages = array(
     'inicio',
