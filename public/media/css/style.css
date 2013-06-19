@@ -26,7 +26,7 @@ html, body, div {
 }
 
 body {
-    background: #F9F9B9 url('/media/1229641.png') repeat-x 60px -76px;
+    background: #F9F9B9 url('/media/1229641.png') repeat-x 60px -90px;
 }
 
 .clear {
@@ -84,7 +84,7 @@ body {
 #footer ul li a {
     font-family: 'GeoSansLightOblique';
     font-size: 13px;
-    color: #748038;
+    color: #262C0A;
     text-decoration: none;
     padding: 5px 10px;
     float: left;
@@ -130,7 +130,7 @@ body {
 
 #content p {
     font-family: 'GeoSansLight';
-    font-size: 12px;
+    font-size: 14px;
     color: #262C0A;
     padding: 5px;
     line-height: 20px;
