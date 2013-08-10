@@ -1,32 +1,35 @@
 <?php
 
-class Grupo {
-
+class Models_Grupo {
+    public $codigo;
     public $docente;
-    public $horario = array();
+    public $horarios = array();
     
-    public function __construct($docente = '', $horario = array()) {
+    public function __construct($codigo ='', $docente = '', $horarios = array()) {
+        $this->setCodigo($codigo);
         $this->setDocente($docente);
-        $this->setHorario($horario);
+        $this->setHorarios($horarios);
     }
-    
+    public function setCodigo($codigo){
+        $this->codigo=$codigo;
+    }
     public function setDocente($docente) {
         $this->docente = $docente;
     }
     
-    public function agregarHora(Horario $hora) {
-        $this->horario[] = $hora;
+    public function addHorario(Models_Horario $horario) {
+        $this->horarios[] = $horario;
     }
     
-    public function setHorario($horario) {
-        $this->horario = $horario;
+    public function setHorarios($horarios) {
+        $this->horarios = $horarios;
     }
     
     public function getDocente() {
         return $this->docente;
     }
     
-    public function getHorario() {
-        return $this->horario;
+    public function getHorarios() {
+        return $this->horarios;
     }
 }

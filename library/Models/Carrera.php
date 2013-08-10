@@ -1,35 +1,44 @@
 <?php
 
 class Models_Carrera {
-    public $codigo = array();
-    public $materias = array();
-    
-    public function __construct($codigo = '', $materias = array()) {
+    public $codigo;
+    public $nombre;
+    public $niveles = array();
+
+    public function __construct($codigo, $nombre) {
         $this->setCodigo($codigo);
-        $this->setMaterias($materias);
+        $this->setNombre($nombre);
     }
-    
+
     public function setCodigo($codigo) {
         $this->codigo = $codigo;
     }
-    
-    public function agregarMateria(Materia $materia) {
-        $this->materias[] = $materia;
+
+    public function setNombre($nombre) {
+        $this->nombre = $nombre;
     }
-    
-    public function setMaterias($materias) {
+
+    public function addNivel(Models_Nivel $nivel) {
+        $this->niveles[] = $nivel;
+    }
+
+    public function setNiveles($niveles) {
         $this->materias = $materias;
     }
-    
+
     public function getCodigo() {
         return $this->codigo;
     }
-            
-    public function getMaterias() {
-        return $this->materias;
+
+    public function getNombre() {
+        return $this->nombre;
     }
-    
+
+    public function getNiveles() {
+        return $this->niveles;
+    }
+
     public function __toString() {
-        return $this->codigo;
+        return $this->nombre . ' (' . $this->codigo . ')';
     }
 }

@@ -1,25 +1,25 @@
 <?php
 
-class Materia {
-    public $semestre;
+class Models_Materia {
+    public $nombre;
     public $codigo;
     public $grupos = array();
     
-    public function __construct($semestre = '', $codigo = '', $grupos = array()) {
-        $this->setSemestre($semestre);
+    public function __construct( $codigo = '', $nombre = '',$grupos = array()) {
         $this->setCodigo($codigo);
+        $this->setNombre($nombre);
         $this->setGrupos($grupos);
     }
     
-    public function setSemestre($semestre) {
-        $this->semestre = $semestre;
+    public function setNombre($nombre) {
+        $this->nombre = $nombre;
     }
 
     public function setCodigo($codigo) {
         $this->codigo = $codigo;
     }
     
-    public function agregarGrupo(Grupo $grupo) {
+    public function addGrupo(Models_Grupo $grupo) {
         $this->grupos[] = $grupo;
     }
     
@@ -27,8 +27,8 @@ class Materia {
         $this->grupos = $grupos;
     }
     
-    public function getSemestre() {
-        return $this->semestre;
+    public function getNombre() {
+        return $this->nombre;
     }
 
     public function getCodigo() {

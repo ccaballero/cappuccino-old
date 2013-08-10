@@ -1,14 +1,21 @@
 <?php
 
-class Horario {
+class Models_Horario {
+
     public $dia;
     public $hora;
     public $aula;
+    public $duracion;
 
-    public function __construct($dia = null, $hora = null, $aula = null) {
+    public function __construct($dia = '', $hora = '', $duracion = '', $aula = '') {
         $this->setDia($dia);
         $this->setHora($hora);
+        $this->setDuracion($duracion);
         $this->setAula($aula);
+    }
+
+    public function setDuracion($duracion) {
+        $this->duracion = $duracion;
     }
 
     public function setDia($dia) {
@@ -23,6 +30,10 @@ class Horario {
         $this->aula = $aula;
     }
 
+    public function getDuracion() {
+        return $this->duracion;
+    }
+    
     public function getDia() {
         return $this->dia;
     }
@@ -33,5 +44,6 @@ class Horario {
 
     public function getAula() {
         return $this->aula;
-    } 
+    }
+
 }
