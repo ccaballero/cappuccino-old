@@ -5,7 +5,7 @@ class Models_Carrera {
     public $nombre;
     public $niveles = array();
 
-    public function __construct($codigo, $nombre) {
+    public function __construct($codigo = '', $nombre = '') {
         $this->setCodigo($codigo);
         $this->setNombre($nombre);
     }
@@ -18,8 +18,8 @@ class Models_Carrera {
         $this->nombre = $nombre;
     }
 
-    public function addNivel(Models_Nivel $nivel) {
-        $this->niveles[] = $nivel;
+    public function addNivel($codigo, Models_Nivel $nivel) {
+        $this->niveles[$codigo] = $nivel;
     }
 
     public function setNiveles($niveles) {
