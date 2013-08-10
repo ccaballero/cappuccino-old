@@ -27,7 +27,10 @@ $view = new Views_View();
 $view->setLayoutPath(APPLICATION_PATH . '/templates/');
 $view->setLayout('default.php');
 
-$request = $_GET['page'];
+$request = '';
+if (isset($_GET['page'])) {
+    $request = $_GET['page'];
+}
 $controller = new Actions_404($view);
 
 if (array_key_exists($request, $accepted_requests)) {
