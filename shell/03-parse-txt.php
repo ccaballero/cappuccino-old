@@ -33,29 +33,55 @@ class ParseTxt {
     }
 
     public function parser() {
-        $putput = array();
+        $output = array();
         $carreras = array();
+
+        $group_flag = false;
+        
         $carrera = null;
+        $nivel = null;
+        $materia = null;
         
         foreach ($this->lines as $line) {
             if (preg_match(
                 '/Plan: LICENCIATURA EN (?P<nombre>.*)\((?P<codigo>\d+)\)/',
-                $line, $output)) {
+                    $line, $output)) {
                 $codigo = $output['codigo'];
+                $nombre = $output['nombre'];
                 if (!isset($carreras[$codigo])) {
-                    $carrera = new Models_Carrera(
-                        $output['codigo'], $output['nombre']);
+                    $carrera = new Models_Carrera($codigo, $nombre);
                     $carreras[$codigo] = $carrera;
                 } else {
                     $carrera = $carreras[$codigo];
                 }
             }
-            if (preg_match('/Nivel de Estudios:(?P<nivel>[A-Z])/',
-                         $line, $output)) {
-                $nivel = $output['nivel'];
-                $carrera->addNivel($nivel, new Models_Nivel($nivel));
+            if (preg_match(
+                '/Nivel de Estudios:(?P<codigo>[A-Z])/',
+                    $line, $output)) {
+                $codigo = $output['codigo'];
+                if (!array_key_exists($codigo, $carrera->getNiveles())) {
+                    $nivel = new Models_Nivel($codigo);
+                    $carrera->addNivel($codigo, $nivel);
+                } else {
+                    $nivel = $carrera->getNiveles()[$codigo];
+                }
+            }
+            if (preg_match(
+                '/\(?\*?\)? ?(?P<codigo>\d{7}) (?P<nombre>.*)/',
+                    $line, $output)) {
+                $codigo = $output['codigo'];
+                $nombre = $output['nombre'];
+                if (!array_key_exists($codigo, $nivel->getMaterias())) {
+                    $materia = new Models_Materia($codigo, $nombre);
+                    $nivel->addMateria($codigo, $materia);
+                } else {
+                    $materia = $nivel->getMaterias()[$codigo];
+                }
+//                $group_flag = false;
+//                $group_flag = true;
             }
        }
+       
        return $carreras;
     }
 }
@@ -63,5 +89,6 @@ class ParseTxt {
 $dir = __DIR__ . '/../data/horarios/1-2013/419701.txt';
 $parser = new ParseTxt();
 $parser->readFile($dir);
-$tree = $parser->parser();
-var_dump($tree);
+$carreras = $parser->parser();
+
+echo implode(PHP_EOL, $carreras);
