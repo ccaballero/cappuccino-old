@@ -1,0 +1,948 @@
+{
+    "codigo":"359201",
+    "nombre":"FISICA",
+    "niveles":[
+        {
+            "codigo":"A",
+            "materias":[
+                {
+                    "codigo":"2006018",
+                    "nombre":"FISICA BASICA I",
+                    "grupos":[
+                        {
+                            "codigo":"9",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"624",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692B",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"693A",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008010",
+                    "nombre":"GEOMETRIA ANALITICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"617",
+                                    "docente":"SORUCO MAITA JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"617B",
+                                    "docente":"SORUCO MAITA JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"691C",
+                                    "docente":"SORUCO MAITA JOSE ANTONIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008053",
+                    "nombre":"ALGEBRA I",
+                    "grupos":[
+                        {
+                            "codigo":"5",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"625D",
+                                    "docente":"CARRASCO CALVO ALVARO HERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"617C",
+                                    "docente":"CARRASCO CALVO ALVARO HERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692G",
+                                    "docente":"LIMACHE PEREZ ANTONIETA JUANA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008054",
+                    "nombre":"CALCULO I",
+                    "grupos":[
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"690D",
+                                    "docente":"ANCARI VILLCA SAUL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692A",
+                                    "docente":"RELOS PACO SANTIAGO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"624",
+                                    "docente":"RELOS PACO SANTIAGO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"B",
+            "materias":[
+                {
+                    "codigo":"1803010",
+                    "nombre":"INGLES I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"692G",
+                                    "docente":"CESPEDES GUIZADA BENITA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692A",
+                                    "docente":"CESPEDES GUIZADA BENITA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2004046",
+                    "nombre":"QUIMICA GENERAL",
+                    "grupos":[
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"VEGA ALFARO WILFREDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"VEGA ALFARO WILFREDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"VEGA ALFARO WILFREDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006019",
+                    "nombre":"FISICA BASICA II",
+                    "grupos":[
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"691E",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"691D",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008056",
+                    "nombre":"CALCULO II",
+                    "grupos":[
+                        {
+                            "codigo":"9",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"693B",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"692A",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"691D",
+                                    "docente":"ANCARI VILLCA SAUL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008240",
+                    "nombre":"ALGEBRA LINEAL Y MATRICIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"693C",
+                                    "docente":"SALINAS PERICON WALTER OSCAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"625C",
+                                    "docente":"SALINAS PERICON WALTER OSCAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"SALINAS PERICON WALTER OSCAR"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"C",
+            "materias":[
+                {
+                    "codigo":"1803011",
+                    "nombre":"INGLES II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"691C",
+                                    "docente":"CLAURE RICHARD PATRICIA ANGELICA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006020",
+                    "nombre":"FISICA BASICA III",
+                    "grupos":[
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692E",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"617",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692E",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008014",
+                    "nombre":"ANALISIS VECTORIAL Y TENSORIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"617",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"617",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"623",
+                                    "docente":"FLORES TABOADA DANNY ARIEL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008029",
+                    "nombre":"PROBABILIDAD Y ESTADISTICA",
+                    "grupos":[
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692F",
+                                    "docente":"TRUJILLO ARANIBAR WILSON"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"692F",
+                                    "docente":"URE\u00d1A MELGAREJO LIZTH"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"692F",
+                                    "docente":"TRUJILLO ARANIBAR WILSON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008058",
+                    "nombre":"ECUACIONES DIFERENCIALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"607",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692C",
+                                    "docente":"BARRIOS BLANCO MELVA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"607",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"D",
+            "materias":[
+                {
+                    "codigo":"2004001",
+                    "nombre":"RECURSOS NATURALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692A",
+                                    "docente":"ARZABE MAURE JOSE OMAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"612",
+                                    "docente":"ARZABE MAURE JOSE OMAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006031",
+                    "nombre":"FISICA BASICA IV",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"621A",
+                                    "docente":"VISCARRA VARGAS MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"VISCARRA VARGAS MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"VISCARRA VARGAS MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"621A",
+                                    "docente":"VISCARRA VARGAS MARCO ANTONIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006089",
+                    "nombre":"FISICA COMPUTACIONAL I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"FISCOM",
+                                    "docente":"FLORES FLORES FREDDY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"FISCOM",
+                                    "docente":"FLORES FLORES FREDDY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008156",
+                    "nombre":"CALCULO COMPLEJO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"612",
+                                    "docente":"ROJAS ZURITA RAMIRO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692A",
+                                    "docente":"ROJAS ZURITA RAMIRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"617C",
+                                    "docente":"ROJAS ZURITA RAMIRO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"E",
+            "materias":[
+                {
+                    "codigo":"2006033",
+                    "nombre":"FISICA TEORICA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"619",
+                                    "docente":"TORRICO CHAVEZ CESAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"619",
+                                    "docente":"TORRICO CHAVEZ CESAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006034",
+                    "nombre":"ELECTRONICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"FISCOM",
+                                    "docente":"AGREDA CORRALES LUIS ROBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"FISCOM",
+                                    "docente":"AGREDA CORRALES LUIS ROBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006090",
+                    "nombre":"FISICA COMPUTACIONAL II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"FISCOM",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"FISCOM",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008157",
+                    "nombre":"TRANSFORMADAS INTEGRALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"692B",
+                                    "docente":"CARRASCO CALVO ALVARO HERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"624",
+                                    "docente":"CARRASCO CALVO ALVARO HERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"CARRASCO CALVO ALVARO HERNANDO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"F",
+            "materias":[
+                {
+                    "codigo":"2006001",
+                    "nombre":"METODOS MATEMATICOS DE LA FISICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"621A",
+                                    "docente":"LUCANO LUCANO MARCELO JAVIER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"621A",
+                                    "docente":"LUCANO LUCANO MARCELO JAVIER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006037",
+                    "nombre":"TERMODINAMICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"Por Designar ..."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"Por Designar ..."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006038",
+                    "nombre":"LABORATORIO MEDIO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"621A",
+                                    "docente":"TORREZ PELAEZ RAUL WILDER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"621A",
+                                    "docente":"TORREZ PELAEZ RAUL WILDER"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"G",
+            "materias":[
+                {
+                    "codigo":"2006039",
+                    "nombre":"FISICA TEORICA III",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"621",
+                                    "docente":"FERNANDEZ LEON JUAN A."
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"FERNANDEZ LEON JUAN A."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006040",
+                    "nombre":"MECANICA CUANTICA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"ROJAS SALINAS HUGO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"ROJAS SALINAS HUGO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006088",
+                    "nombre":"MODELOS DE SIMULACION",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"619",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"619",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"H",
+            "materias":[
+                {
+                    "codigo":"2006044",
+                    "nombre":"INTRODUCCION A LA FISICA DEL ESTADO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"619",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006045",
+                    "nombre":"TALLER AVANZADO II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"621A",
+                                    "docente":"GUZMAN SAAVEDRA ROCIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"621A",
+                                    "docente":"GUZMAN SAAVEDRA ROCIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006046",
+                    "nombre":"MECANICA ESTADISTICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"FISCOM",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"621A",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"I",
+            "materias":[
+                {
+                    "codigo":"2006008",
+                    "nombre":"CLIMATOLOGIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"619A",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"619A",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006048",
+                    "nombre":"OPTICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"619",
+                                    "docente":"FUENTES MIRANDA IVAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"FUENTES MIRANDA IVAN"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"J",
+            "materias":[
+                {
+                    "codigo":"2006049",
+                    "nombre":"TALLER DE GRADO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"FISDEP",
+                                    "docente":"TORREZ PELAEZ RAUL WILDER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006056",
+                    "nombre":"CRISTALOGRAFIA FISICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"GUTIERREZ MARTINEZ VICTOR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"619",
+                                    "docente":"GUTIERREZ MARTINEZ VICTOR"
+                                }]
+                        }]
+                }]
+        }]
+}

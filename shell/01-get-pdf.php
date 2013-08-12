@@ -6,7 +6,7 @@ class GetPdf
     protected $pdf_dir;
     
     public function __construct() {
-        $this->pdf_dir = __DIR__ . '/../data/horarios/';
+        $this->pdf_dir = __DIR__ . '/../public/horarios/';
     }
 
 
@@ -28,8 +28,8 @@ class GetPdf
     public function parse() {
         $output = $this->getPage($this->url);
         $matches = array();
-        preg_match('/HORARIOS (?P<gestion>[12]-\d{4})/', $output, $matches);
 
+        preg_match('/HORARIOS (?P<gestion>[12]-\d{4})/', $output, $matches);
         $gestion = $matches['gestion'];
         
         echo 'Consiguiendo los horarios para la gestion ' . $gestion . PHP_EOL;

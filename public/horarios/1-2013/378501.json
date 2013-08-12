@@ -1,0 +1,50 @@
+{
+    "codigo":"378501",
+    "nombre":"INFORMATICA",
+    "niveles":[
+        {
+            "codigo":"J",
+            "materias":[
+                {
+                    "codigo":"2010122",
+                    "nombre":"PROYECTO FINAL",
+                    "grupos":[
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"690B",
+                                    "docente":"MONTANO QUIROGA VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"INFLAB",
+                                    "docente":"MONTANO QUIROGA VICTOR HUGO"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"690C",
+                                    "docente":"ROMERO RODRIGUEZ PATRICIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"690C",
+                                    "docente":"ROMERO RODRIGUEZ PATRICIA"
+                                }]
+                        }]
+                }]
+        }]
+}

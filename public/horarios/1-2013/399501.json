@@ -1,0 +1,1326 @@
+{
+    "codigo":"399501",
+    "nombre":"BIOLOGIA",
+    "niveles":[
+        {
+            "codigo":"A",
+            "materias":[
+                {
+                    "codigo":"1803013",
+                    "nombre":"INGLES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"690A",
+                                    "docente":"ROCABADO ROJAS LENNY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"608B",
+                                    "docente":"ROCABADO ROJAS LENNY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002004",
+                    "nombre":"BIOLOGIA GENERAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"ANTEZANA VALERA DE D. AMALIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"690A",
+                                    "docente":"ANTEZANA VALERA DE D. AMALIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"ANTEZANA VALERA DE D. AMALIA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"215",
+                                    "aula":"690A",
+                                    "docente":"ANTEZANA VALERA DE D. AMALIA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2004163",
+                    "nombre":"QUIMICA GENERAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"617C",
+                                    "docente":"ROJAS CESPEDES JENNY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"255",
+                                    "aula":"613",
+                                    "docente":"ALFARO DENUS GONZALO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"ROJAS CESPEDES JENNY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"652",
+                                    "docente":""
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006063",
+                    "nombre":"FISICA GENERAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"620",
+                                    "docente":"VARGAS VALLEJOS LUZ VIRGINIA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"620",
+                                    "docente":"VARGAS VALLEJOS LUZ VIRGINIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"617C",
+                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"617C",
+                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008159",
+                    "nombre":"ALGEBRA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"652",
+                                    "docente":"LEON ROMERO RUPERTO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"690A",
+                                    "docente":"LEON ROMERO RUPERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"690A",
+                                    "docente":"LEON ROMERO RUPERTO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"B",
+            "materias":[
+                {
+                    "codigo":"2002005",
+                    "nombre":"BIOLOGIA CELULAR Y MOLECULAR",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"SALAZAR PEREZ JOSE LUIS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"609A",
+                                    "docente":"SALAZAR PEREZ JOSE LUIS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"SALAZAR PEREZ JOSE LUIS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"GARCIA ORELLANA ANA LINETH"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002006",
+                    "nombre":"BIOFISICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"CASTELLON REYNAGA DILIAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"608B",
+                                    "docente":"CASTELLON REYNAGA DILIAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2004091",
+                    "nombre":"FISICOQUIMICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"693D",
+                                    "docente":"CARBALLO CADIMA SERGIO CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"693B",
+                                    "docente":"CARBALLO CADIMA SERGIO CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"693D",
+                                    "docente":"CARBALLO CADIMA SERGIO CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008160",
+                    "nombre":"CALCULO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"644A",
+                                    "docente":"RODRIGUEZ FLORES ROBERT REYNOLDS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"617B",
+                                    "docente":"MOYA ALBARRACIN MARTIN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"625C",
+                                    "docente":"MOYA ALBARRACIN MARTIN"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"C",
+            "materias":[
+                {
+                    "codigo":"2002007",
+                    "nombre":"HISTOLOGIA ANIMAL COMPARADA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"608",
+                                    "docente":"SAHONERO IRAHOLA RICARDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"SAHONERO IRAHOLA RICARDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002008",
+                    "nombre":"MORFOLOGIA Y ANATOMIA VEGETAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"690A",
+                                    "docente":"ANTEZANA VALERA CAROLA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"ANTEZANA VALERA CAROLA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"ANTEZANA VALERA CAROLA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002009",
+                    "nombre":"ZOOLOGIA DE INVERTEBRADOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"690A",
+                                    "docente":"DEL CASTILLO ANTEZANA MARITHZA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"609A",
+                                    "docente":"DEL CASTILLO ANTEZANA MARITHZA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2004092",
+                    "nombre":"QUIMICA ORGANICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"255",
+                                    "aula":"608",
+                                    "docente":"VILASECA GAMARRA LUIS ANTONIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"255",
+                                    "aula":"608",
+                                    "docente":"VILASECA GAMARRA LUIS ANTONIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"615",
+                                    "docente":"MEDRANO ANTEZANA RUDER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008161",
+                    "nombre":"BIOESTADISTICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"617C",
+                                    "docente":"OMONTE OJALVO JOSE ROBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"652",
+                                    "docente":"OMONTE OJALVO JOSE ROBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692H",
+                                    "docente":"OMONTE OJALVO JOSE ROBERTO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"D",
+            "materias":[
+                {
+                    "codigo":"2002010",
+                    "nombre":"EMBRIOLOGIA COMPARADA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"609A",
+                                    "docente":"SAHONERO IRAHOLA RICARDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"215",
+                                    "aula":"608B",
+                                    "docente":"SAHONERO IRAHOLA RICARDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002011",
+                    "nombre":"SISTEMATICA DE CRIPTOGAMAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"608A",
+                                    "docente":"FERNANDEZ TERRAZAS ERIKA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"606",
+                                    "docente":"FERNANDEZ TERRAZAS ERIKA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002012",
+                    "nombre":"ARTROPODOLOGIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"608",
+                                    "docente":"GARCIA ORELLANA ANA LINETH"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"GARCIA ORELLANA ANA LINETH"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002013",
+                    "nombre":"GEOLOGIA-EDAFOLOGIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"690A",
+                                    "docente":"GOITIA ARCE EDGAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"608",
+                                    "docente":"GOITIA ARCE EDGAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002014",
+                    "nombre":"BIOQUIMICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"130",
+                                    "aula":"608",
+                                    "docente":"BRUCKNER BAZOBERRY MARIA LIDIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"RIVERO LUJAN MIRTHA JUDITH"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"215",
+                                    "aula":"606",
+                                    "docente":"BRUCKNER BAZOBERRY MARIA LIDIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"609A",
+                                    "docente":"RIVERO LUJAN MIRTHA JUDITH"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"E",
+            "materias":[
+                {
+                    "codigo":"2002015",
+                    "nombre":"ANATOMIA COMPARADA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"CAHILL MANGUDO JENNIFER"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"690A",
+                                    "docente":"CAHILL MANGUDO JENNIFER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002016",
+                    "nombre":"SISTEMATICA DE FANEROGAMAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"608A",
+                                    "docente":"ARRAZOLA RIVERO SILVIA SUSANA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002017",
+                    "nombre":"FISIOLOGIA DE INVERTEBRADOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"690A",
+                                    "docente":"NAVARRO ANTEZANA FREDDY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"NAVARRO ANTEZANA FREDDY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002018",
+                    "nombre":"BIOCLIMATOLOGIA-HIDROLOGIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"608B",
+                                    "docente":"FERNANDEZ CALATAYUD MILTON"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"606",
+                                    "docente":"FERNANDEZ CALATAYUD MILTON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002019",
+                    "nombre":"GENETICA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"608",
+                                    "docente":"AVILA LARA ALFREDO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"609",
+                                    "docente":"VEGA TADIC KATIA NATALIA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"690A",
+                                    "docente":"AVILA LARA ALFREDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"609",
+                                    "docente":"VEGA TADIC KATIA NATALIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1630",
+                                    "duracion":"170",
+                                    "aula":"608",
+                                    "docente":"AVILA LARA ALFREDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"609",
+                                    "docente":"VEGA TADIC KATIA NATALIA"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"F",
+            "materias":[
+                {
+                    "codigo":"2002020",
+                    "nombre":"FISIOLOGIA VEGETAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"609A",
+                                    "docente":"BRUCKNER BAZOBERRY MARIA LIDIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"608",
+                                    "docente":"BRUCKNER BAZOBERRY MARIA LIDIA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002021",
+                    "nombre":"ZOOLOGIA DE VERTEBRADOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"215",
+                                    "aula":"606",
+                                    "docente":"CAHILL MANGUDO JENNIFER"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"CAHILL MANGUDO JENNIFER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002022",
+                    "nombre":"ECOLOGIA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"606",
+                                    "docente":"MALDONADO MALDONADO MABEL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"606",
+                                    "docente":"MALDONADO MALDONADO MABEL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002023",
+                    "nombre":"GENETICA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"690A",
+                                    "docente":"AVILA ALBA MARTHA TERESA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"609",
+                                    "docente":"VEGA TADIC KATIA NATALIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"690A",
+                                    "docente":"AVILA ALBA MARTHA TERESA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002024",
+                    "nombre":"BACTERIOLOGIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"215",
+                                    "aula":"MICBIO",
+                                    "docente":"IRIARTE PU\u00d1A MERCEDES"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"215",
+                                    "aula":"690A",
+                                    "docente":"IRIARTE PU\u00d1A MERCEDES"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"G",
+            "materias":[
+                {
+                    "codigo":"2002025",
+                    "nombre":"VIROLOGIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"ZAPATA SCHULTZE MARIA E."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
+                                    "duracion":"215",
+                                    "aula":"606",
+                                    "docente":"ZAPATA SCHULTZE MARIA E."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002026",
+                    "nombre":"FISIOLOGIA DE VERTEBRADOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"608B",
+                                    "docente":"NAVARRO ANTEZANA FREDDY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"NAVARRO ANTEZANA FREDDY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002027",
+                    "nombre":"ECOLOGIA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"606",
+                                    "docente":"MALDONADO MALDONADO MABEL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"606",
+                                    "docente":"MALDONADO MALDONADO MABEL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002028",
+                    "nombre":"DISE¥OS EXPERIMENTALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"CAMPERO PAZ MELINA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
+                                    "duracion":"215",
+                                    "aula":"690A",
+                                    "docente":"CAMPERO PAZ MELINA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"215",
+                                    "aula":"608",
+                                    "docente":"CAMPERO PAZ MELINA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002040",
+                    "nombre":"TAXONOMIA VEGETAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"608B",
+                                    "docente":"ANTEZANA VALERA CAROLA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"608A",
+                                    "docente":"ANTEZANA VALERA CAROLA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002043",
+                    "nombre":"CONSERVACION DE LA FAUNA SILVESTRE",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"NAVARRO ANTEZANA FREDDY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"NAVARRO ANTEZANA FREDDY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002046",
+                    "nombre":"CITOGENETICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"CASTELLON REYNAGA DILIAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"CASTELLON REYNAGA DILIAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002049",
+                    "nombre":"ECOFISIOLOGIA VEGETAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"608",
+                                    "docente":"BRUCKNER BAZOBERRY MARIA LIDIA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"608",
+                                    "docente":"BRUCKNER BAZOBERRY MARIA LIDIA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002059",
+                    "nombre":"GENETICA DE POBLACIONES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"608",
+                                    "docente":"AVILA LARA ALFREDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"608",
+                                    "docente":"AVILA LARA ALFREDO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"H",
+            "materias":[
+                {
+                    "codigo":"2002001",
+                    "nombre":"SISTEMATICA DE AVES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"BALDERRAMA TORRICO JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"608B",
+                                    "docente":"BALDERRAMA TORRICO JOSE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002003",
+                    "nombre":"FITOPATOLOGIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
+                                    "duracion":"215",
+                                    "aula":"608",
+                                    "docente":"ROJAS VALENCIA MAX ROLANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"609A",
+                                    "docente":"ROJAS VALENCIA MAX ROLANDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002030",
+                    "nombre":"MICOLOGIA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"730",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"ZAPATA SCHULTZE MARIA E."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"608A",
+                                    "docente":"ZAPATA SCHULTZE MARIA E."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002031",
+                    "nombre":"METODOLOGIA DE LA INVESTIGACION",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"608",
+                                    "docente":"AVILA LARA ALFREDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"215",
+                                    "aula":"608",
+                                    "docente":"AVILA LARA ALFREDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002032",
+                    "nombre":"EVOLUCION",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"606",
+                                    "docente":"HIDALGO SANCHEZ MARY ISABEL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"608",
+                                    "docente":"HIDALGO SANCHEZ MARY ISABEL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002038",
+                    "nombre":"BIOESTADISTICA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"690A",
+                                    "docente":"PEREZ ZUBIETA JOSE CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"690A",
+                                    "docente":"PEREZ ZUBIETA JOSE CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002045",
+                    "nombre":"MICROBIOLOGIA DE AGUAS Y ALIMENTOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"215",
+                                    "aula":"MICBIO",
+                                    "docente":"IRIARTE PU\u00d1A MERCEDES"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"215",
+                                    "aula":"606",
+                                    "docente":"IRIARTE PU\u00d1A MERCEDES"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2002047",
+                    "nombre":"ECOLOGIA DE POBLACIONES ANIMALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"608A",
+                                    "docente":"GOITIA ARCE EDGAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"608B",
+                                    "docente":"GOITIA ARCE EDGAR"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"I",
+            "materias":[
+                {
+                    "codigo":"2002035",
+                    "nombre":"BIOGEOGRAFIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"608B",
+                                    "docente":"FERNANDEZ CALATAYUD MILTON"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"215",
+                                    "aula":"608B",
+                                    "docente":"FERNANDEZ CALATAYUD MILTON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016092",
+                    "nombre":"PLANIFICACION Y EVALUACION DE PROYECTOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"608B",
+                                    "docente":"RODRIGUEZ OSTRIA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"608B",
+                                    "docente":"RODRIGUEZ OSTRIA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"608B",
+                                    "docente":"RODRIGUEZ OSTRIA JUAN CARLOS"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"J",
+            "materias":[
+                {
+                    "codigo":"2002034",
+                    "nombre":"TESIS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"GABI",
+                                    "docente":"AGUIRRE URIOSTE LUIS FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"GABI",
+                                    "docente":"AGUIRRE URIOSTE LUIS FERNANDO"
+                                }]
+                        }]
+                }]
+        }]
+}

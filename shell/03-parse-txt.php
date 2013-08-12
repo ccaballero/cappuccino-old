@@ -15,80 +15,152 @@ function __autoload($class) {
 class ParseTxt {
     public $lines = array();
 
-    public function readFile($input_file) {
-        //$input_file = 'tests';
-        $handle = @fopen($input_file, 'r');
-        $lines = array();
-        if ($handle) {
-            while (($buffer = fgets($handle)) !== false) {
-                $buffer = substr($buffer, 0, -1);
-                $lines[] = $buffer;
-            }
-            if (!feof($handle)) {
-                echo "Error: unexpected fgets() fail\n";
-            }
-            fclose($handle);
-        }
-        $this->lines = $lines;
+    public function __construct($directory) {
+        $this->directory = $directory;
     }
 
-    public function parser() {
-        $output = array();
-        $carreras = array();
+    public function parsePages($input_file) {
+        $content = file_get_contents($input_file);
+        $pages = explode('', $content);
 
-        $group_flag = false;
-        
+        $carrera = new Models_Carrera();
+
+        foreach ($pages as $page) {
+            $_carrera = $this->parser($page, explode("\n", $page));
+            if (!empty($_carrera)) {
+                $carrera->setCodigo($_carrera->getCodigo());
+                $carrera->setNombre($_carrera->getNombre());
+                $carrera->juntar($_carrera);
+            }
+        }
+
+        return $carrera;
+    }
+
+    public function parser($content, $lines) {
+        $output = array();
+
         $carrera = null;
         $nivel = null;
         $materia = null;
-        
-        foreach ($this->lines as $line) {
-            if (preg_match(
-                '/Plan: LICENCIATURA EN (?P<nombre>.*)\((?P<codigo>\d+)\)/',
-                    $line, $output)) {
-                $codigo = $output['codigo'];
-                $nombre = $output['nombre'];
-                if (!isset($carreras[$codigo])) {
-                    $carrera = new Models_Carrera($codigo, $nombre);
-                    $carreras[$codigo] = $carrera;
-                } else {
-                    $carrera = $carreras[$codigo];
-                }
+        $grupo = null;
+        $horario = null;
+
+        if (preg_match(
+            '/Plan: LICENCIATURA EN (?P<nombre>.*)\((?P<codigo>\d+)\)/',
+                $content, $output)) {
+            $codigo = $output['codigo'];
+            $nombre = $output['nombre'];
+            if ($carrera == null) {
+                $carrera = new Models_Carrera($codigo, $nombre);
             }
-            if (preg_match(
-                '/Nivel de Estudios:(?P<codigo>[A-Z])/',
-                    $line, $output)) {
-                $codigo = $output['codigo'];
-                if (!array_key_exists($codigo, $carrera->getNiveles())) {
-                    $nivel = new Models_Nivel($codigo);
-                    $carrera->addNivel($codigo, $nivel);
-                } else {
-                    $nivel = $carrera->getNiveles()[$codigo];
-                }
+        }
+        if (preg_match(
+            '/Nivel de Estudios:(?P<codigo>[A-Z])/',
+                $content, $output)) {
+            $codigo = $output['codigo'];
+            if ($nivel == null) {
+                $nivel = new Models_Nivel($codigo);
+                $carrera->addNivel($codigo, $nivel);
             }
+        }
+
+        foreach ($lines as $line) {
             if (preg_match(
+                '/\(?\*?\)? ?(?P<codigo>\d{7}) (?P<nombre>.*) (?P<grupo>[0-9]{1,2}[a-zA-Z]?)/',
+                    $line, $output) ||
+                preg_match(
                 '/\(?\*?\)? ?(?P<codigo>\d{7}) (?P<nombre>.*)/',
                     $line, $output)) {
                 $codigo = $output['codigo'];
                 $nombre = $output['nombre'];
+
                 if (!array_key_exists($codigo, $nivel->getMaterias())) {
                     $materia = new Models_Materia($codigo, $nombre);
                     $nivel->addMateria($codigo, $materia);
                 } else {
                     $materia = $nivel->getMaterias()[$codigo];
                 }
-//                $group_flag = false;
-//                $group_flag = true;
+
+                if (isset($output['grupo'])) {
+                    $id_grupo = $output['grupo'];
+                    if (!array_key_exists($id_grupo, $materia->getGrupos())) {
+                        $grupo = new Models_Grupo($id_grupo);
+                        $materia->addGrupo($id_grupo, $grupo);
+                    } else {
+                        $grupo = $materia->getGrupos()[$id_grupo];
+                    }
+                }
+            } else if (preg_match(
+                '/^(?P<codigo>[0-9]{1,2}[a-zA-Z]?)$/', $line,$output)) {
+                $codigo = $output['codigo'];
+                if (!array_key_exists($codigo, $materia->getGrupos())) {
+                    $grupo = new Models_Grupo($codigo);
+                    $materia->addGrupo($codigo, $grupo);
+                } else {
+                    $grupo = $materia->getGrupos()[$codigo];
+                }
+            } else if (preg_match(
+                '/^(?P<dia>(LU|MA|MI|JU|VI|SA)) (?P<inicio>\d{3,4})-(?P<final>\d{3,4})\((?P<aula>.*)\)$/',
+                    $line, $output)) {
+                $dia = $output['dia'];
+                $inicio = intval($output['inicio']);
+                $final = intval($output['final']);
+                $aula = $output['aula'];
+                $horario = new Models_Horario($dia, $inicio, $final - $inicio, $aula);
+                $grupo->addHorario($dia, $inicio, $horario);
+            } else if (preg_match('/^([A-Z¥ \.\']+|Por Designar ...)$/', $line, $output)) {
+                $docente = str_replace('¥', 'Ñ', $line);
+                $horario->setDocente($docente);
             }
        }
-       
-       return $carreras;
+
+       return $carrera;
+    }
+
+    // http://www.hawkee.com/snippet/1749/
+    public function list_files() {
+        $files = array();
+
+        if (is_dir($this->directory)) {
+            if ($handle = opendir($this->directory)) {
+                while (($file = readdir($handle)) !== false) {
+                    if ($file != '.' && $file != '..'
+                            && substr($file, -4) == '.txt') {
+                        $files[] = $file;
+                    }
+                }
+
+                closedir($handle);
+            }
+        }
+
+        return $files;
+    }
+
+    public function transform() {
+        $dir = $this->directory;
+        $files = $this->list_files();
+
+        echo 'Serializando a JSON ' . PHP_EOL;
+        $carreras = array();
+
+        foreach ($files as $file) {
+            $json_file = substr($file, 0, -4) . '.json';
+            $carrera = $this->parsePages($dir . $file);
+            $json_carrera = $carrera->__toJSON();
+            $json_carrera = str_replace('Ñ', '\u00d1', $json_carrera);
+            file_put_contents($dir . $json_file, $json_carrera);
+            echo $json_file . '...OK' . PHP_EOL;
+        }
     }
 }
 
-$dir = __DIR__ . '/../data/horarios/1-2013/419701.txt';
-$parser = new ParseTxt();
-$parser->readFile($dir);
-$carreras = $parser->parser();
+$dir = __DIR__ . '/../public/horarios/1-2013/';
+$transform = new ParseTxt($dir);
+$transform->transform();
 
-echo implode(PHP_EOL, $carreras);
+//$dir = __DIR__ . '/../public/horarios/1-2013/760101.txt';
+//$parser = new ParseTxt(__DIR__);
+//$carrera = $parser->parsePages($dir);
+//echo $carrera;

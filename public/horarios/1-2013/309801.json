@@ -1,0 +1,2599 @@
+{
+    "codigo":"309801",
+    "nombre":"INGENIERIA INDUSTRIAL",
+    "niveles":[
+        {
+            "codigo":"A",
+            "materias":[
+                {
+                    "codigo":"2004046",
+                    "nombre":"QUIMICA GENERAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"623",
+                                    "docente":"HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"622",
+                                    "docente":"HOEPFNER REYNOLDS MAURICIO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"691C",
+                                    "docente":"MUNOZ COLLAZOS MARIA SUSANA DEL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"607",
+                                    "docente":"MUNOZ COLLAZOS MARIA SUSANA DEL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"691D",
+                                    "docente":"MUNOZ COLLAZOS MARIA SUSANA DEL"
+                                }]
+                        },
+                        {
+                            "codigo":"7",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"691C",
+                                    "docente":"HERBAS ANGULO ADELINA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"692A",
+                                    "docente":"HERBAS ANGULO ADELINA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"692A",
+                                    "docente":"HERBAS ANGULO ADELINA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006018",
+                    "nombre":"FISICA BASICA I",
+                    "grupos":[
+                        {
+                            "codigo":"17",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"693A",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692E",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692E",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692B",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"691D",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"631",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                }]
+                        },
+                        {
+                            "codigo":"7",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"642",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"691F",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692F",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                }]
+                        },
+                        {
+                            "codigo":"8",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"623",
+                                    "docente":"FUENTES MIRANDA IVAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"623",
+                                    "docente":"FUENTES MIRANDA IVAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"692F",
+                                    "docente":"FUENTES MIRANDA IVAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008019",
+                    "nombre":"ALGEBRA I",
+                    "grupos":[
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"623",
+                                    "docente":"OMONTE OJALVO JOSE GIL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"612",
+                                    "docente":"OMONTE OJALVO JOSE GIL"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"622",
+                                    "docente":"OMONTE OJALVO JOSE GIL"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"692D",
+                                    "docente":"JIMENEZ CLAROS HUGO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692C",
+                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692B",
+                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                }]
+                        },
+                        {
+                            "codigo":"4A",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"693D",
+                                    "docente":"LEON ROMERO GUALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692F",
+                                    "docente":"LEON ROMERO GUALBERTO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692B",
+                                    "docente":"LEON ROMERO GUALBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008054",
+                    "nombre":"CALCULO I",
+                    "grupos":[
+                        {
+                            "codigo":"5",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"FLORES GARCIA HERNAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"FLORES GARCIA HERNAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"624",
+                                    "docente":"ACHO CAISINA MARIO"
+                                }]
+                        },
+                        {
+                            "codigo":"5A",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"692F",
+                                    "docente":"DELGADILLO COSSIO DAVID ALFREDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"691F",
+                                    "docente":"DELGADILLO COSSIO DAVID ALFREDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"691B",
+                                    "docente":"DELGADILLO COSSIO DAVID ALFREDO"
+                                }]
+                        },
+                        {
+                            "codigo":"6",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692A",
+                                    "docente":"OMONTE OJALVO JOSE GIL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692D",
+                                    "docente":"OMONTE OJALVO JOSE GIL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"690D",
+                                    "docente":"OMONTE OJALVO JOSE GIL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010008",
+                    "nombre":"COMPUTACION I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692B",
+                                    "docente":"USTARIZ VARGAS HERNAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692B",
+                                    "docente":"USTARIZ VARGAS HERNAN"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692D",
+                                    "docente":"Por Designar ..."
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"692H",
+                                    "docente":"AGUAYO CHOQUE EDSON"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"691A",
+                                    "docente":"VARGAS COLQUE AIDEE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"642",
+                                    "docente":"VARGAS COLQUE AIDEE"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692A",
+                                    "docente":"VARGAS COLQUE AIDEE"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"625C",
+                                    "docente":"VARGAS COLQUE AIDEE"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"617C",
+                                    "docente":"SALVATIERRA HUANCA LUIS ALBERTO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"B",
+            "materias":[
+                {
+                    "codigo":"2006019",
+                    "nombre":"FISICA BASICA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"623",
+                                    "docente":"GARCIA ANTURIANO OSCAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"691C",
+                                    "docente":"GARCIA ANTURIANO OSCAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692B",
+                                    "docente":"GARCIA ANTURIANO OSCAR"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"693D",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692B",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"691B",
+                                    "docente":"TORRICO TROCHE MILKA MONICA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008022",
+                    "nombre":"ALGEBRA II",
+                    "grupos":[
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"623",
+                                    "docente":"MEDINA GAMBOA JULIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"623",
+                                    "docente":"MEDINA GAMBOA JULIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"690D",
+                                    "docente":"ANCARI VILLCA SAUL"
+                                }]
+                        },
+                        {
+                            "codigo":"4A",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"693D",
+                                    "docente":"SALINAS PERICON WALTER OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692F",
+                                    "docente":"SALINAS PERICON WALTER OSCAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"SALINAS PERICON WALTER OSCAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008056",
+                    "nombre":"CALCULO II",
+                    "grupos":[
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692D",
+                                    "docente":"RELOS PACO SANTIAGO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"607",
+                                    "docente":"FLORES TABOADA DANNY ARIEL"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"624",
+                                    "docente":"RELOS PACO SANTIAGO"
+                                }]
+                        },
+                        {
+                            "codigo":"5",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"692A",
+                                    "docente":"MATIAS MARCA VIDAL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"624",
+                                    "docente":"FLORES GARCIA HERNAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"691A",
+                                    "docente":"FLORES GARCIA HERNAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008059",
+                    "nombre":"ESTADISTICA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"691C",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"617B",
+                                    "docente":"CABRERA MACHUCA MARIA GLADIS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692A",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"691F",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"607",
+                                    "docente":"MORA CALDERON MILENKA"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"623",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018007",
+                    "nombre":"DIBUJO TECNICO COMPUTARIZADO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"MENDEZ VELASQUEZ IVAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"215",
+                                    "aula":"623",
+                                    "docente":"MENDEZ VELASQUEZ IVAN"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"617",
+                                    "docente":"MENDEZ VELASQUEZ IVAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"255",
+                                    "aula":"692F",
+                                    "docente":"MENDEZ VELASQUEZ IVAN"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"C",
+            "materias":[
+                {
+                    "codigo":"2004044",
+                    "nombre":"FISICOQUIMICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"255",
+                                    "aula":"616",
+                                    "docente":"LOPEZ ARZE JAVIER BERNARDO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"215",
+                                    "aula":"616",
+                                    "docente":"LOPEZ ARZE JAVIER BERNARDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"255",
+                                    "aula":"616",
+                                    "docente":"MERCADO DEHEZA ORLANDO LUIS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"616",
+                                    "docente":"LEDEZMA MONTANO MARCELO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"215",
+                                    "aula":"616",
+                                    "docente":"MERCADO DEHEZA ORLANDO LUIS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"623",
+                                    "docente":"GONZALES CARTAGENA LUCIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"215",
+                                    "aula":"616",
+                                    "docente":"LOPEZ ARZE JAVIER BERNARDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"215",
+                                    "aula":"616",
+                                    "docente":"OPORTO PEREYRA CARLA GABRIELA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"616",
+                                    "docente":"LEDEZMA MONTANO MARCELO FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"CLAROS BAPTISTA ANGEL"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"691F",
+                                    "docente":"GONZALES CARTAGENA LUCIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006020",
+                    "nombre":"FISICA BASICA III",
+                    "grupos":[
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692E",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"617",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692E",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                }]
+                        },
+                        {
+                            "codigo":"8",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"624",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"692A",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"692E",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008043",
+                    "nombre":"CALCULO COMPUTARIZADO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"691E",
+                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"642",
+                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692E",
+                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"692B",
+                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"691E",
+                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008058",
+                    "nombre":"ECUACIONES DIFERENCIALES",
+                    "grupos":[
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"623",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"624",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"624",
+                                    "docente":"TOTORA VELIZ RAMIRO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008061",
+                    "nombre":"ESTADISTICA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"624",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"622",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"612",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"D",
+            "materias":[
+                {
+                    "codigo":"2014087",
+                    "nombre":"ELECTROTECNIA INDUSTRIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692H",
+                                    "docente":"ORELLANA JIMENEZ JAIME"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"642",
+                                    "docente":"ORELLANA JIMENEZ JAIME"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"692G",
+                                    "docente":"ORELLANA JIMENEZ JAIME"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"215",
+                                    "aula":"672",
+                                    "docente":"ACHA PEREZ SAMUEL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016010",
+                    "nombre":"ORGANIZACION INDUSTRIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"693C",
+                                    "docente":"RODRIGUEZ RAMIREZ CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692D",
+                                    "docente":"RODRIGUEZ RAMIREZ CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"691F",
+                                    "docente":"RODRIGUEZ RAMIREZ CARLOS ALBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016011",
+                    "nombre":"ECONOMIA INDUSTRIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"691D",
+                                    "docente":"GUTIERREZ ANDRADE OSVALDO WALT"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692C",
+                                    "docente":"GUTIERREZ ANDRADE OSVALDO WALT"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"691B",
+                                    "docente":"GUTIERREZ ANDRADE OSVALDO WALT"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018006",
+                    "nombre":"RESISTENCIA DE MATERIALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"622",
+                                    "docente":"GOMEZ UGARTE GUIDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"624",
+                                    "docente":"GOMEZ UGARTE GUIDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692E",
+                                    "docente":"GOMEZ UGARTE GUIDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018009",
+                    "nombre":"TERMODINAMICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"691A",
+                                    "docente":"TORREJON ROCABADO JULIO MARCELO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"691A",
+                                    "docente":"TORREJON ROCABADO JULIO MARCELO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"607",
+                                    "docente":"TORREJON ROCABADO JULIO MARCELO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"E",
+            "materias":[
+                {
+                    "codigo":"2016015",
+                    "nombre":"OPERACIONES INDUSTRIALES I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692C",
+                                    "docente":"TORREZ QUINTEROS EDWIN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"693B",
+                                    "docente":"TORREZ QUINTEROS EDWIN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"631",
+                                    "docente":"TORREZ QUINTEROS EDWIN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016046",
+                    "nombre":"CONTABILIDAD BASICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"692F",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"693D",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"693D",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016048",
+                    "nombre":"INVESTIGACION OPERATIVA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"692B",
+                                    "docente":"QUIROZ CHAVEZ ABDON"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"617C",
+                                    "docente":"QUIROZ CHAVEZ ABDON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"691A",
+                                    "docente":"QUIROZ CHAVEZ ABDON"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"693C",
+                                    "docente":"QUIROZ CHAVEZ ABDON"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"690C",
+                                    "docente":"QUIROZ CHAVEZ ABDON"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"693D",
+                                    "docente":"QUIROZ CHAVEZ ABDON"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"QUIROZ CHAVEZ ABDON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"QUIROZ CHAVEZ ABDON"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"691E",
+                                    "docente":"QUIROZ CHAVEZ ABDON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016057",
+                    "nombre":"MERCADOTECNIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"693C",
+                                    "docente":"GUTIERREZ ANDRADE OSVALDO WALT"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"692C",
+                                    "docente":"GUTIERREZ ANDRADE OSVALDO WALT"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"623",
+                                    "docente":"SARMIENTO FRANCO ARIEL ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"625D",
+                                    "docente":"SARMIENTO FRANCO ARIEL ANTONIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018010",
+                    "nombre":"CIENCIA DE LOS MATERIALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"631",
+                                    "docente":"DIAZ COIMBRA ROLANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"693B",
+                                    "docente":"DIAZ COIMBRA ROLANDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018066",
+                    "nombre":"ELEM. DE MAQUINAS Y TECNOL. MECANICA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692A",
+                                    "docente":"MEDINA GAMBOA JULIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"692D",
+                                    "docente":"MEDINA GAMBOA JULIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"617B",
+                                    "docente":"MEDINA GAMBOA JULIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692B",
+                                    "docente":"MEDINA GAMBOA JULIO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"625D",
+                                    "docente":"CRESPO GARCIA ALBERTO RUDY"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692G",
+                                    "docente":"CRESPO GARCIA ALBERTO RUDY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"692D",
+                                    "docente":"CRESPO GARCIA ALBERTO RUDY"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"625D",
+                                    "docente":"CRESPO GARCIA ALBERTO RUDY"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"F",
+            "materias":[
+                {
+                    "codigo":"2016019",
+                    "nombre":"OPERACIONES INDUSTRIALES II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"693A",
+                                    "docente":"ALFARO DENUS GONZALO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"693A",
+                                    "docente":"ALFARO DENUS GONZALO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692E",
+                                    "docente":"ALFARO DENUS GONZALO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016020",
+                    "nombre":"INVESTIGACION DE MERCADOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"692A",
+                                    "docente":"ALVAREZ QUIROZ RICHARD MILTON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692D",
+                                    "docente":"ALVAREZ QUIROZ RICHARD MILTON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016049",
+                    "nombre":"COSTOS INDUSTRIALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"693B",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"693A",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"691C",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016051",
+                    "nombre":"INVESTIGACION OPERATIVA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"692F",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"693C",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"607",
+                                    "docente":"MANCHEGO CASTELLON ROBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016052",
+                    "nombre":"INGENIERIA DE METODOS Y REINGENIERIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692D",
+                                    "docente":"COSSIO PAPADOPOLIS CARLOS JAVIER"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692D",
+                                    "docente":"COSSIO PAPADOPOLIS CARLOS JAVIER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692D",
+                                    "docente":"COSSIO PAPADOPOLIS CARLOS JAVIER"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692C",
+                                    "docente":"Por Designar ..."
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"691D",
+                                    "docente":"COSSIO PAPADOPOLIS CARLOS JAVIER"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"692E",
+                                    "docente":"COSSIO PAPADOPOLIS CARLOS JAVIER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"692D",
+                                    "docente":"COSSIO PAPADOPOLIS CARLOS JAVIER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018013",
+                    "nombre":"TECNOLOGIA MECANICA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"691B",
+                                    "docente":"MONTANO ANAYA FRANCISCO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"625D",
+                                    "docente":"MONTANO ANAYA FRANCISCO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"625D",
+                                    "docente":"MONTANO ANAYA FRANCISCO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"617B",
+                                    "docente":"MONTANO ANAYA FRANCISCO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"692E",
+                                    "docente":"MONTANO ANAYA FRANCISCO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"690D",
+                                    "docente":"MONTANO ANAYA FRANCISCO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"691D",
+                                    "docente":"MONTANO ANAYA FRANCISCO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"691C",
+                                    "docente":"MONTANO ANAYA FRANCISCO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"G",
+            "materias":[
+                {
+                    "codigo":"2016021",
+                    "nombre":"PLANIF. Y CONTROL DE LA PRODUCCION I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"DOMINGUEZ GONZALES JACINTO GER"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"624",
+                                    "docente":"DOMINGUEZ GONZALES JACINTO GER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"692G",
+                                    "docente":"DOMINGUEZ GONZALES JACINTO GER"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"691F",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"690D",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"693D",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016022",
+                    "nombre":"GESTION DE CALIDAD",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"692C",
+                                    "docente":"COSSIO PAPADOPOLIS CARLOS JAVIER"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692A",
+                                    "docente":"COSSIO PAPADOPOLIS CARLOS JAVIER"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"692C",
+                                    "docente":"COSSIO PAPADOPOLIS CARLOS JAVIER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016023",
+                    "nombre":"INGENIERIA ECONOMICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"622",
+                                    "docente":"PARDO IRIARTE JUAN FERNANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"607",
+                                    "docente":"PARDO IRIARTE JUAN FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692C",
+                                    "docente":"PARDO IRIARTE JUAN FERNANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"607",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"693C",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"691C",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692G",
+                                    "docente":"ARANIBAR LA FUENTE LIGIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"693D",
+                                    "docente":"ARANIBAR LA FUENTE LIGIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"692H",
+                                    "docente":"ARANIBAR LA FUENTE LIGIA"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"617B",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692H",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"692H",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016024",
+                    "nombre":"INGENIERIA DE SEGURIDAD",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"692D",
+                                    "docente":"ARNEZ CAMACHO MARIA DEL CARMEN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"692D",
+                                    "docente":"ARNEZ CAMACHO MARIA DEL CARMEN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"692D",
+                                    "docente":"ARNEZ CAMACHO MARIA DEL CARMEN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"644",
+                                    "docente":"Por Designar ..."
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"617B",
+                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"691E",
+                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692G",
+                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016025",
+                    "nombre":"OPERACIONES INDUSTRIALES III",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"617C",
+                                    "docente":"GONZALES CARTAGENA LUCIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"617",
+                                    "docente":"GONZALES CARTAGENA LUCIO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"624",
+                                    "docente":"GONZALES CARTAGENA LUCIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016026",
+                    "nombre":"DISE¥O ASISTIDO POR COMPUTADORA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"215",
+                                    "aula":"CAE",
+                                    "docente":"MALDONADO LOPEZ PASCUAL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"693C",
+                                    "docente":"MALDONADO LOPEZ PASCUAL"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"H",
+            "materias":[
+                {
+                    "codigo":"2014088",
+                    "nombre":"CONTROL Y AUTOMATIZACION INDUSTRIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"672",
+                                    "docente":"QUISPE PE\u00d1ARRIETA JUAN JOSE"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"691C",
+                                    "docente":"COSSIO CABRERA WALTER"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"691C",
+                                    "docente":"COSSIO CABRERA WALTER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"693C",
+                                    "docente":"COSSIO CABRERA WALTER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016027",
+                    "nombre":"PLANIF. Y CONTROL DE LA PRODUCCION II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"693D",
+                                    "docente":"ROJAS VILLARROEL JOSE OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"691D",
+                                    "docente":"ROJAS VILLARROEL JOSE OSCAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"691D",
+                                    "docente":"ROJAS VILLARROEL JOSE OSCAR"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"652",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"693C",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"690D",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"690B",
+                                    "docente":"CHOQUE FLORES ALEX D'ANCHGELO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"625D",
+                                    "docente":"CHOQUE FLORES ALEX D'ANCHGELO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"691F",
+                                    "docente":"CHOQUE FLORES ALEX D'ANCHGELO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016028",
+                    "nombre":"INGENIERIA DE SISTEMAS I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"642",
+                                    "docente":"CAMACHO VILLAZON JIMMY ERICK"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692C",
+                                    "docente":"CAMACHO VILLAZON JIMMY ERICK"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"CAMACHO VILLAZON JIMMY ERICK"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016029",
+                    "nombre":"PREP. Y EVAL. DE PROYECTOS I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"642",
+                                    "docente":"RODRIGUEZ OSTRIA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"635",
+                                    "docente":"RODRIGUEZ OSTRIA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"692G",
+                                    "docente":"RODRIGUEZ OSTRIA JUAN CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016030",
+                    "nombre":"RECURSOS HUMANOS - PRODUCTIVIDAD",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"255",
+                                    "aula":"617",
+                                    "docente":"RODRIGUEZ RAMIREZ CARLOS ALBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"255",
+                                    "aula":"635",
+                                    "docente":"VARGAS REINAGA JUAN CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016031",
+                    "nombre":"PROCESOS INDUSTRIALES I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"130",
+                                    "aula":"693B",
+                                    "docente":"HINOJOSA SALAZAR NELSON"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"617",
+                                    "docente":"HINOJOSA SALAZAR NELSON"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"691B",
+                                    "docente":"HINOJOSA SALAZAR NELSON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018054",
+                    "nombre":"MANTENIMIENTO INDUSTRIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"130",
+                                    "aula":"690D",
+                                    "docente":"ROJAS MONTANO FANOR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"255",
+                                    "aula":"692F",
+                                    "docente":"ROJAS MONTANO FANOR"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"I",
+            "materias":[
+                {
+                    "codigo":"2016032",
+                    "nombre":"INGENIERIA DE SISTEMAS II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"612",
+                                    "docente":"CAMACHO VILLAZON JIMMY ERICK"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"692D",
+                                    "docente":"CAMACHO VILLAZON JIMMY ERICK"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"692D",
+                                    "docente":"CAMACHO VILLAZON JIMMY ERICK"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016033",
+                    "nombre":"PREP. Y EVAL. DE PROYECTOS II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"693D",
+                                    "docente":"RODRIGUEZ OSTRIA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"617C",
+                                    "docente":"RODRIGUEZ OSTRIA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"693B",
+                                    "docente":"RODRIGUEZ OSTRIA JUAN CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016034",
+                    "nombre":"TALLER DE TESIS I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"692G",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"623",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"692G",
+                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"300",
+                                    "aula":"631",
+                                    "docente":"ARNEZ CAMACHO MARIA DEL CARMEN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"692H",
+                                    "docente":"ARNEZ CAMACHO MARIA DEL CARMEN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016036",
+                    "nombre":"PROCESOS INDUSTRIALES II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"642",
+                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"170",
+                                    "aula":"691A",
+                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"623",
+                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016097",
+                    "nombre":"PLANIFICACION FINANCIERA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"691A",
+                                    "docente":"Por Designar ..."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"691A",
+                                    "docente":"Por Designar ..."
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"691A",
+                                    "docente":"Por Designar ..."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018061",
+                    "nombre":"GESTION Y CALIDAD AMBIENTAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"690C",
+                                    "docente":"CRESPO GARCIA ALBERTO RUDY"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"215",
+                                    "aula":"652",
+                                    "docente":"CRESPO GARCIA ALBERTO RUDY"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"J",
+            "materias":[
+                {
+                    "codigo":"2016038",
+                    "nombre":"DERECHO EMPRESARIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1930",
+                                    "duracion":"215",
+                                    "aula":"691D",
+                                    "docente":"JALDIN SALAZAR JUAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016039",
+                    "nombre":"TALLER TESIS II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"631",
+                                    "docente":"RODRIGUEZ RAMIREZ CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"631",
+                                    "docente":"RODRIGUEZ RAMIREZ CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"631",
+                                    "docente":"RODRIGUEZ RAMIREZ CARLOS ALBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"170",
+                                    "aula":"631",
+                                    "docente":"ARNEZ CAMACHO MARIA DEL CARMEN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"300",
+                                    "aula":"631",
+                                    "docente":"ARNEZ CAMACHO MARIA DEL CARMEN"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"130",
+                                    "aula":"691C",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"INDDEP",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"170",
+                                    "aula":"692H",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016040",
+                    "nombre":"TRABAJO DIRIGIDO (OPCIONAL)",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"215",
+                                    "aula":"631",
+                                    "docente":"ARNEZ CAMACHO MARIA DEL CARMEN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"215",
+                                    "aula":"631",
+                                    "docente":"ARNEZ CAMACHO MARIA DEL CARMEN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016041",
+                    "nombre":"PSICOLOGIA INDUSTRIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"215",
+                                    "aula":"631",
+                                    "docente":"JAUREGUI CARRASCO MARIA IVONNE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016059",
+                    "nombre":"GESTION ESTRATEGICA DE EMPRESAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"300",
+                                    "aula":"635",
+                                    "docente":"GUZMAN ORELLANA GONZALO ENRIQUE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"170",
+                                    "aula":"635",
+                                    "docente":"GUZMAN ORELLANA GONZALO ENRIQUE"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"170",
+                                    "aula":"635",
+                                    "docente":"GUZMAN ORELLANA GONZALO ENRIQUE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"300",
+                                    "aula":"635",
+                                    "docente":"GUZMAN ORELLANA GONZALO ENRIQUE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016090",
+                    "nombre":"PRACTICA EMPRESARIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"130",
+                                    "aula":"635",
+                                    "docente":"VARGAS REINAGA JUAN CARLOS"
+                                }]
+                        }]
+                }]
+        }]
+}

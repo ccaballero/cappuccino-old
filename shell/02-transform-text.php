@@ -1,6 +1,6 @@
 <?php
 
-class Transform_Text {
+class TransformText {
     protected $command = 'pdftotext';
     protected $directory;
 
@@ -34,13 +34,14 @@ class Transform_Text {
         
         echo 'Transformando los ficheros pdf' . PHP_EOL;
         foreach ($files as $file) {
-            echo $file;
+            $txt_file = substr($file, 0, -4) . '.txt';
+            echo $txt_file;
             exec($this->command . ' ' . $dir . $file);
             echo '...OK' . PHP_EOL;
         }
     }
 }
 
-$dir = __DIR__ . '/../data/horarios/1-2013/';
-$transform = new Transform_Text($dir);
+$dir = __DIR__ . '/../public/horarios/1-2013/';
+$transform = new TransformText($dir);
 $files = $transform->transform();
