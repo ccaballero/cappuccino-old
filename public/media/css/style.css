@@ -20,7 +20,7 @@ Youre All That I See    F9F9B9
     font-family: Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman", serif;
 }
 
-html, body, div {
+    html, body, div, header, section, footer, nav {
     margin: 0px;
     padding: 0px;
 }
@@ -33,22 +33,26 @@ body {
     clear: both;
 }
 
-#header {
+header {
     background-color: #262C0A;
 }
 
-#header ul {
+header h1 {
+    font-size: 16px;
+}
+
+header ul {
     margin: 0px;
     padding: 0px;
     list-style: none;
     float: left;
 }
 
-#header ul li {
+header ul li {
     float: left;
 }
 
-#header ul li a {
+header ul li a {
     font-family: 'GeoSansLightOblique';
     font-size: 15px;
     color: #F9F9B9;
@@ -57,11 +61,11 @@ body {
     float: left;
 }
 
-#header ul li a:hover {
+header ul li a:hover {
     text-decoration: underline;
 }
 
-#header ul li.active a {
+header ul li.active a {
     color: #B4D562;
     font-weight: bold;
     text-decoration: underline;
