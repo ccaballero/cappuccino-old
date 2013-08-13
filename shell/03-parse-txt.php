@@ -175,7 +175,7 @@ class ParseTxt {
     }
 }
 
-$dir = __DIR__ . '/../public/horarios/1-2013/';
+$dir = __DIR__ . '/../public/horarios/2-2013/';
 $transform = new ParseTxt($dir);
 $transform->transform();
 

@@ -1,5 +1,5 @@
 var url='/horarios/'
-var gestion='1-2013'
+var gestion='2-2013'
 var url_gestion=url+gestion
 
 var Templates=new(function(){

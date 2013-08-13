@@ -42,6 +42,6 @@ class TransformText {
     }
 }
 
-$dir = __DIR__ . '/../public/horarios/1-2013/';
+$dir = __DIR__ . '/../public/horarios/2-2013/';
 $transform = new TransformText($dir);
 $files = $transform->transform();
