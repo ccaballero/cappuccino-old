@@ -6,7 +6,7 @@ var Templates=new(function(){
     this.carrera='<li name="carrera-{0}"><a class="carrera">{2} ({1})</a></li>'
     this.nivel='<li name="nivel-{0}-{1}"><a class="nivel">Nivel {2}</a></li>'
     this.materia='<li name="materia-{0}-{1}-{2}"><a class="materia">{3}</a></li>'
-    this.grupo='<li name="grupo-{0}-{1}-{2}-{3}"><a class="grupo">Grupo #{4}</a></li>'
+    this.grupo='<li name="grupo-{0}-{1}-{2}-{3}"><input type="checkbox" /><a class="grupo">Grupo #{4}</a><span>{5}</span></li>'
 })()
 
 var Collections=new(function(){
@@ -49,8 +49,15 @@ var Events=new(function(){
         return false
     }
     this.clickGrupo=function(){
+        $(this).parent().children('input[type="checkbox"]').trigger('click')
+    }
+    this.checkGrupo=function(){
         var i=$(this).parent().attr('name').substring(6).split('-')
-        Render.renderHorarios(i)
+        if($(this).is(':checked')){
+            Render.renderHorarios(i)
+        }else{
+            Render.eliminarHorarios(i)
+        }
     }
 })()
 
@@ -92,16 +99,16 @@ var Render=new(function(){
         li.append('<ul></ul>')
         for(var i in materia.grupos){
             li.children('ul').append(
-                Templates.grupo.format(index[0],index[1],index[2],i,materia.grupos[i].codigo))
+                Templates.grupo.format(index[0],index[1],index[2],i,materia.grupos[i].codigo,materia.grupos[i].docente))
         }
         li.find('a.grupo').click(Events.clickGrupo)
+        li.find('input[type="checkbox"]').change(Events.checkGrupo)
     }
     this.renderHorarios=function(index){
         var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
         materia=Collections.carreras[index[0]].niveles[index[1]].materias[index[2]]
         grupo=materia.grupos[index[3]]
         for(var i in grupo.horarios){
-            console.log(grupo.horarios[i])
             Render.renderHorario(
                 grupo.horarios[i].dia,
                 grupo.horarios[i].hora,
@@ -113,11 +120,33 @@ var Render=new(function(){
     this.renderHorario=function(dia,hora,duracion,texto){
         var dias={'LU':3,'MA':4,'MI':5,'JU':6,'VI':7,'SA':8}
         var periodos={'645':2,'730':3,'815':4,'900':5,'945':6,'1030':7,'1115':8,'1200':9,'1245':10,'1330':11,'1415':12,'1500':13,'1545':14,'1630':15,'1715':16,'1800':17,'1845':18,'1930':19,'2015':20,'2100':21}
-//        var duraciones={''}
-
-        $('#schedule table tbody tr:nth-child('+periodos[hora]+') td:nth-child('+dias[dia]+')')
-            .text(texto)
-            .addClass('green')
+        for (var i = 0; i< duracion;i++) { 
+            $('#schedule table tbody tr:nth-child('+(periodos[hora]+i)+') td:nth-child('+dias[dia]+')')
+                .text(texto)
+                .addClass('green')
+        }
+    }
+    this.eliminarHorarios=function(index) {
+        var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
+        materia=Collections.carreras[index[0]].niveles[index[1]].materias[index[2]]
+        grupo=materia.grupos[index[3]]
+        for(var i in grupo.horarios){
+            Render.eliminarHorario(
+                grupo.horarios[i].dia,
+                grupo.horarios[i].hora,
+                grupo.horarios[i].duracion
+            )
+        }
+        
+    }
+    this.eliminarHorario=function(dia,hora,duracion) {
+        var dias={'LU':3,'MA':4,'MI':5,'JU':6,'VI':7,'SA':8}
+        var periodos={'645':2,'730':3,'815':4,'900':5,'945':6,'1030':7,'1115':8,'1200':9,'1245':10,'1330':11,'1415':12,'1500':13,'1545':14,'1630':15,'1715':16,'1800':17,'1845':18,'1930':19,'2015':20,'2100':21}
+        for (var i = 0; i< duracion;i++) { 
+            $('#schedule table tbody tr:nth-child('+(periodos[hora]+i)+') td:nth-child('+dias[dia]+')')
+                .text(' ')
+                .removeClass('green')
+        }
     }
 })()
 

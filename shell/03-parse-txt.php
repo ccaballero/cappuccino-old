@@ -45,6 +45,7 @@ class ParseTxt {
         $materia = null;
         $grupo = null;
         $horario = null;
+        $docente = true;
 
         if (preg_match(
             '/Plan: LICENCIATURA EN (?P<nombre>.*)\((?P<codigo>\d+)\)/',
@@ -67,13 +68,14 @@ class ParseTxt {
 
         foreach ($lines as $line) {
             if (preg_match(
-                '/\(?\*?\)? ?(?P<codigo>\d{7}) (?P<nombre>.*) (?P<grupo>[0-9]{1,2}[a-zA-Z]?)/',
+                '/(?P<aux>\(?\*?\)?) ?(?P<codigo>\d{7}) (?P<nombre>.*) (?P<grupo>[0-9]{1,2}[a-zA-Z]?)/',
                     $line, $output) ||
                 preg_match(
-                '/\(?\*?\)? ?(?P<codigo>\d{7}) (?P<nombre>.*)/',
+                '/(?P<aux>\(?\*?\)?) ?(?P<codigo>\d{7}) (?P<nombre>.*)/',
                     $line, $output)) {
                 $codigo = $output['codigo'];
                 $nombre = $output['nombre'];
+                $docente = empty($output['aux']);
 
                 if (!array_key_exists($codigo, $nivel->getMaterias())) {
                     $materia = new Models_Materia($codigo, $nombre);
@@ -109,12 +111,18 @@ class ParseTxt {
                 $dia = $output['dia'];
                 $inicio = intval($output['inicio']);
                 $final = intval($output['final']);
+                $duracion= intval(((intval($final/100)* 60 + ($final%100))-
+                           (intval($inicio/100)*60+($inicio%100)))/45);
                 $aula = $output['aula'];
-                $horario = new Models_Horario($dia, $inicio, $final - $inicio, $aula);
+                $horario = new Models_Horario($dia, $inicio, $duracion, $aula);
                 $grupo->addHorario($dia, $inicio, $horario);
             } else if (preg_match('/^([A-Z¥ \.\']+|Por Designar ...)$/', $line, $output)) {
-                $docente = str_replace('¥', 'Ñ', $line);
-                $horario->setDocente($docente);
+                $_docente = str_replace('¥', 'Ñ', $line);
+                $horario->setDocente($_docente);
+                if ($docente) {
+                    $grupo->setDocente($_docente);
+                    $docente = true;
+                }
             }
        }
 

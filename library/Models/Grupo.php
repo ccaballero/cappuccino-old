@@ -4,10 +4,12 @@ class Models_Grupo extends Models_Coleccion
 {
     public $codigo;
     public $horarios = array();
+    public $docente;
 
     public function __construct($codigo ='', $docente = '', $horarios = array()) {
         $this->setCodigo($codigo);
         $this->setHorarios($horarios);
+        $this->setDocente($docente);
     }
     public function getCodigo(){
         return $this->codigo;
@@ -28,7 +30,7 @@ class Models_Grupo extends Models_Coleccion
     public function getHorarios() {
         return $this->horarios;
     }
-
+    
     public function __toString() {
         $return = '     -> ' . $this->codigo . PHP_EOL;
         foreach ($this->getHorarios() as $horario) {
@@ -37,6 +39,13 @@ class Models_Grupo extends Models_Coleccion
         return $return;
     }
     
+    public function setDocente($docente) {
+        $this->docente = $docente;
+    }
+    
+    public function getDocente() {
+        return $this->docente;
+    }
     public function __toJSON() {
         $json_horarios = array();
         foreach ($this->getHorarios() as $horario) {
@@ -45,6 +54,7 @@ class Models_Grupo extends Models_Coleccion
         
         return '{' . PHP_EOL . 
             str_repeat(' ', 4 * 7) . '"codigo":"' . $this->getCodigo() .'",' . PHP_EOL .
+            str_repeat(' ', 4 * 7) . '"docente":"' . $this->getDocente() .'",' . PHP_EOL .
             str_repeat(' ', 4 * 7) . '"horarios":[' . implode(',', $json_horarios) . ']' . PHP_EOL .
             str_repeat(' ', 4 * 6) . '}';
     }

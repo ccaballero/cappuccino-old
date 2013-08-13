@@ -110,6 +110,8 @@ footer ul li a:hover {}
 }
 
 #options ul li {}
+
+#options ul li span,
 #options ul li a {
     font-family: "Franklin Gothic Medium","Arial Narrow Bold","Arial",sans-serif;
     font-size: 11px;

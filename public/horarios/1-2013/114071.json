@@ -11,32 +11,33 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"ANTEZANA VALERA DE D. AMALIA",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1415",
-                                    "duracion":"215",
+                                    "duracion":"3",
                                     "aula":"608A",
                                     "docente":"ANTEZANA VALERA DE D. AMALIA"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"690A",
                                     "docente":"ANTEZANA VALERA DE D. AMALIA"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
-                                    "duracion":"215",
+                                    "duracion":"3",
                                     "aula":"608A",
                                     "docente":"ANTEZANA VALERA DE D. AMALIA"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"815",
-                                    "duracion":"215",
+                                    "duracion":"3",
                                     "aula":"690A",
                                     "docente":"ANTEZANA VALERA DE D. AMALIA"
                                 }]
@@ -48,25 +49,26 @@
                     "grupos":[
                         {
                             "codigo":"3",
+                            "docente":"VEGA ALFARO WILFREDO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"691E",
                                     "docente":"VEGA ALFARO WILFREDO"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"1115",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"691E",
                                     "docente":"VEGA ALFARO WILFREDO"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"691E",
                                     "docente":"VEGA ALFARO WILFREDO"
                                 }]
@@ -78,25 +80,26 @@
                     "grupos":[
                         {
                             "codigo":"9",
+                            "docente":"TORRICO TROCHE MILKA MONICA",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"624",
                                     "docente":"TORRICO TROCHE MILKA MONICA"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"692B",
                                     "docente":"TORRICO TROCHE MILKA MONICA"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"693A",
                                     "docente":"TORRICO TROCHE MILKA MONICA"
                                 }]
@@ -108,25 +111,26 @@
                     "grupos":[
                         {
                             "codigo":"5",
+                            "docente":"CARRASCO CALVO ALVARO HERNANDO",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"625D",
                                     "docente":"CARRASCO CALVO ALVARO HERNANDO"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"617C",
                                     "docente":"CARRASCO CALVO ALVARO HERNANDO"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1715",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"692G",
                                     "docente":"LIMACHE PEREZ ANTONIETA JUANA"
                                 }]
@@ -138,25 +142,26 @@
                     "grupos":[
                         {
                             "codigo":"16",
+                            "docente":"ZEGARRA DORADO LUIS ROBERTO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"644",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"644A",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"617C",
                                     "docente":"TOTORA VELIZ RAMIRO"
                                 }]
@@ -172,25 +177,26 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"RUIZ UCUMARI IVAN",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"645",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"692E",
                                     "docente":"RUIZ UCUMARI IVAN"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"617",
                                     "docente":"RUIZ UCUMARI IVAN"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"645",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"692E",
                                     "docente":"RUIZ UCUMARI IVAN"
                                 }]
@@ -202,25 +208,26 @@
                     "grupos":[
                         {
                             "codigo":"3",
+                            "docente":"MARTINEZ MAIDA AMILCAR SAUL",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"625C",
                                     "docente":"MARTINEZ MAIDA AMILCAR SAUL"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1245",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"692F",
                                     "docente":"CAYO VICENTE EDITH"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"693B",
                                     "docente":"MARTINEZ MAIDA AMILCAR SAUL"
                                 }]
@@ -232,25 +239,26 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"SORUCO MAITA JOSE ANTONIO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"617",
                                     "docente":"SORUCO MAITA JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"617B",
                                     "docente":"SORUCO MAITA JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1115",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"691C",
                                     "docente":"SORUCO MAITA JOSE ANTONIO"
                                 }]
@@ -266,25 +274,26 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"SALINAS PERICON WALTER OSCAR",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1715",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"693C",
                                     "docente":"SALINAS PERICON WALTER OSCAR"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"1715",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"625C",
                                     "docente":"SALINAS PERICON WALTER OSCAR"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1715",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"691E",
                                     "docente":"SALINAS PERICON WALTER OSCAR"
                                 }]
@@ -296,25 +305,26 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"JUCHANI BAZUALDO DEMETRIO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"617C",
                                     "docente":"JUCHANI BAZUALDO DEMETRIO"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"617B",
                                     "docente":"JUCHANI BAZUALDO DEMETRIO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"691B",
                                     "docente":"JUCHANI BAZUALDO DEMETRIO"
                                 }]
@@ -326,18 +336,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"MARTINEZ MAIDA AMILCAR SAUL",
                             "horarios":[
                                 {
                                     "dia":"MI",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"652",
                                     "docente":"MARTINEZ MAIDA AMILCAR SAUL"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1415",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"690C",
                                     "docente":"MARTINEZ MAIDA AMILCAR SAUL"
                                 }]
@@ -349,50 +360,52 @@
                     "grupos":[
                         {
                             "codigo":"2",
+                            "docente":"VARGAS COLQUE AIDEE",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1245",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"692H",
                                     "docente":"AGUAYO CHOQUE EDSON"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"1115",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"691A",
                                     "docente":"VARGAS COLQUE AIDEE"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1115",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"642",
                                     "docente":"VARGAS COLQUE AIDEE"
                                 }]
                         },
                         {
                             "codigo":"4",
+                            "docente":"VARGAS COLQUE AIDEE",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1845",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"692A",
                                     "docente":"VARGAS COLQUE AIDEE"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"1845",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"625C",
                                     "docente":"VARGAS COLQUE AIDEE"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"1115",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"617C",
                                     "docente":"SALVATIERRA HUANCA LUIS ALBERTO"
                                 }]
@@ -408,25 +421,26 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"SORUCO MAITA JOSE ANTONIO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1115",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"642",
                                     "docente":"VILLANUEVA FERRUFINO LEYDA"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"624",
                                     "docente":"SORUCO MAITA JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1415",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"617",
                                     "docente":"SORUCO MAITA JOSE ANTONIO"
                                 }]
@@ -438,25 +452,26 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"GONZALES CASTELLON CARLOS ESTEBAN",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"1415",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"MATDIR",
                                     "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1415",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1415",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
                                 }]
@@ -468,18 +483,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"RELOS PACO SANTIAGO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1845",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"690B",
                                     "docente":"RELOS PACO SANTIAGO"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"692A",
                                     "docente":"RELOS PACO SANTIAGO"
                                 }]
@@ -491,18 +507,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"RODRIGUEZ BILBAO ERIKA PATRICIA",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"1115",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"CAE",
                                     "docente":"RODRIGUEZ BILBAO ERIKA PATRICIA"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1115",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"CAE",
                                     "docente":"RODRIGUEZ BILBAO ERIKA PATRICIA"
                                 }]
@@ -518,25 +535,26 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"SORUCO MAITA JOSE ANTONIO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1415",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"691C",
                                     "docente":"SORUCO MAITA JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"652",
                                     "docente":"VILLANUEVA FERRUFINO LEYDA"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"644A",
                                     "docente":"SORUCO MAITA JOSE ANTONIO"
                                 }]
@@ -548,18 +566,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"CASTRO LAZARTE CECILIA BEATRIZ",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"FISCOM",
                                     "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"619",
                                     "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
                                 }]
@@ -575,32 +594,33 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"PAREDES GUZMAN JORGE",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"3A",
                                     "docente":"Por Designar ..."
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"4C",
                                     "docente":"Por Designar ..."
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1800",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"H241",
                                     "docente":"PAREDES GUZMAN JORGE"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1715",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"H241",
                                     "docente":"PAREDES GUZMAN JORGE"
                                 }]
@@ -612,18 +632,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"ZEGARRA DORADO LUIS ROBERTO",
                             "horarios":[
                                 {
                                     "dia":"MI",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 }]
@@ -639,18 +660,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"FERRUFINO RODRIGUEZ NELSON",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"FERRUFINO RODRIGUEZ NELSON"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"FERRUFINO RODRIGUEZ NELSON"
                                 }]
@@ -662,18 +684,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"ZEGARRA DORADO LUIS ROBERTO",
                             "horarios":[
                                 {
                                     "dia":"MI",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"692G",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"MATDEP",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 }]
@@ -685,11 +708,12 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"MULLER SANTA CRUZ HANS CRISTIAN",
                             "horarios":[
                                 {
                                     "dia":"SA",
                                     "hora":"945",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
                                 }]
@@ -701,18 +725,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"FERRUFINO RODRIGUEZ NELSON",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"1715",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"FERRUFINO RODRIGUEZ NELSON"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"FERRUFINO RODRIGUEZ NELSON"
                                 }]
@@ -728,18 +753,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"ZEGARRA DORADO LUIS ROBERTO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1415",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"MATDIR",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1415",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"MATDIR",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 }]
@@ -751,18 +777,19 @@
                     "grupos":[
                         {
                             "codigo":"1",
+                            "docente":"ZEGARRA DORADO LUIS ROBERTO",
                             "horarios":[
                                 {
                                     "dia":"JU",
                                     "hora":"1415",
-                                    "duracion":"130",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1545",
-                                    "duracion":"170",
+                                    "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 }]
