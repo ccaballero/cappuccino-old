@@ -123,9 +123,8 @@ footer ul li a:hover {}
 }
 
 #schedule {
-    position: fixed;
+    float: left;
     width: 660px;
-    margin-left: 300px;
 }
 
 #schedule table {

@@ -4,7 +4,7 @@ var url_gestion=url+gestion
 
 var Templates=new(function(){
     this.carrera='<li name="carrera-{0}"><a class="carrera">{2} ({1})</a></li>'
-    this.nivel='<li name="nivel-{0}-{1}"><a class="nivel">{2}</a></li>'
+    this.nivel='<li name="nivel-{0}-{1}"><a class="nivel">Nivel {2}</a></li>'
     this.materia='<li name="materia-{0}-{1}-{2}"><a class="materia">{3}</a></li>'
     this.grupo='<li name="grupo-{0}-{1}-{2}-{3}"><a class="grupo">Grupo #{4}</a></li>'
 })()
@@ -98,13 +98,24 @@ var Render=new(function(){
     }
     this.renderHorarios=function(index){
         var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
-        grupo=Collections.carreras[index[0]].niveles[index[1]].materias[index[2]].grupos[index[3]]
+        materia=Collections.carreras[index[0]].niveles[index[1]].materias[index[2]]
+        grupo=materia.grupos[index[3]]
         for(var i in grupo.horarios){
-//            this.renderHorario()
+            console.log(grupo.horarios[i])
+            Render.renderHorario(
+                grupo.horarios[i].dia,
+                grupo.horarios[i].hora,
+                grupo.horarios[i].duracion,
+                materia.nombre+' ('+grupo.horarios[i].aula+')'
+            )
         }
     }
     this.renderHorario=function(dia,hora,duracion,texto){
-        $('#schedule table tbody tr:nth-child(3) td:nth-child(3)')
+        var dias={'LU':3,'MA':4,'MI':5,'JU':6,'VI':7,'SA':8}
+        var periodos={'645':2,'730':3,'815':4,'900':5,'945':6,'1030':7,'1115':8,'1200':9,'1245':10,'1330':11,'1415':12,'1500':13,'1545':14,'1630':15,'1715':16,'1800':17,'1845':18,'1930':19,'2015':20,'2100':21}
+//        var duraciones={''}
+
+        $('#schedule table tbody tr:nth-child('+periodos[hora]+') td:nth-child('+dias[dia]+')')
             .text(texto)
             .addClass('green')
     }
@@ -119,6 +130,4 @@ $(document).ready(function(){
     })
 
     $('header h1').append(' :: gestión: '+gestion)
-
-    Render.renderHorario(0,0,2,'asdf')
 })
