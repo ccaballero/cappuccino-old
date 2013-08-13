@@ -1,5 +1,3686 @@
 {
-    "codigo":"",
-    "nombre":"",
-    "niveles":[]
+    "codigo":"329201",
+    "nombre":"INGENIERIA CIVIL",
+    "niveles":[
+        {
+            "codigo":"A",
+            "materias":[
+                {
+                    "codigo":"2004046",
+                    "nombre":"QUIMICA GENERAL",
+                    "grupos":[
+                        {
+                            "codigo":"4",
+                            "docente":"ARNEZ TORRICO EDITH MARITZA",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"ARNEZ TORRICO EDITH MARITZA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"ARNEZ TORRICO EDITH MARITZA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"ARNEZ TORRICO EDITH MARITZA"
+                                }]
+                        },
+                        {
+                            "codigo":"5",
+                            "docente":"FERRUFINO GUARDIA ERICK VLADIMIR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"FERRUFINO GUARDIA ERICK VLADIMIR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"FERRUFINO GUARDIA ERICK VLADIMIR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"FERRUFINO GUARDIA ERICK VLADIMIR"
+                                }]
+                        },
+                        {
+                            "codigo":"6",
+                            "docente":"ARNEZ TORRICO EDITH MARITZA",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"ARNEZ TORRICO EDITH MARITZA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"ARNEZ TORRICO EDITH MARITZA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"ARNEZ TORRICO EDITH MARITZA"
+                                }]
+                        },
+                        {
+                            "codigo":"8",
+                            "docente":"MOREIRA ROSAS BORIS ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"MOREIRA ROSAS BORIS ARTURO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MOREIRA ROSAS BORIS ARTURO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MOREIRA ROSAS BORIS ARTURO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2006004",
+                    "nombre":"FISICA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"VARGAS REINAGA JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"VARGAS REINAGA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"VARGAS REINAGA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"VARGAS REINAGA JUAN CARLOS"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ANDRADE UZIEDA MARKO JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"CHOQUE UNO FRANCISCO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"CHOQUE UNO FRANCISCO"
+                                }]
+                        },
+                        {
+                            "codigo":"5",
+                            "docente":"VARGAS REINAGA JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"VARGAS REINAGA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"VARGAS REINAGA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"VARGAS REINAGA JUAN CARLOS"
+                                }]
+                        },
+                        {
+                            "codigo":"6",
+                            "docente":"TORREZ PELAEZ RAUL WILDER",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"TORREZ PELAEZ RAUL WILDER"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"TORREZ PELAEZ RAUL WILDER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"TORREZ PELAEZ RAUL WILDER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008053",
+                    "nombre":"ALGEBRA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"HOEPFNER REYNOLDS MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"GUARACHI ARELLANO RONALD ROLY"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"VALLEJO CAMACHO MARCO ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"VALLEJO CAMACHO MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"VALLEJO CAMACHO MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"VALLEJO CAMACHO MARCO ANTONIO"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"PATINO TITO RONALD EDGAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"PATINO TITO RONALD EDGAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"PATINO TITO RONALD EDGAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"PATINO TITO RONALD EDGAR"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "docente":"HOEPFNER REYNOLDS MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"MONTA\u00d1O SARMIENTO ARACELY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008054",
+                    "nombre":"CALCULO I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"FIORILO LOZADA AMERICO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"FIORILO LOZADA AMERICO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"FIORILO LOZADA AMERICO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"GUARACHI ARELLANO RONALD ROLY"
+                                }]
+                        },
+                        {
+                            "codigo":"1A",
+                            "docente":"HOEPFNER REYNOLDS MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"HOEPFNER REYNOLDS MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":"Por Designar ..."
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"CATARI RIOS RAUL",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"Por Designar ..."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"CATARI RIOS RAUL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"CATARI RIOS RAUL"
+                                }]
+                        },
+                        {
+                            "codigo":"2A",
+                            "docente":"TERRAZAS LOBO JUAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"TERRAZAS LOBO JUAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"TERRAZAS LOBO JUAN"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"CANAVIRI CALLE ARCENIO"
+                                }]
+                        },
+                        {
+                            "codigo":"2B",
+                            "docente":"DELGADILLO COSSIO DAVID ALFREDO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"DELGADILLO COSSIO DAVID ALFREDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"DELGADILLO COSSIO DAVID ALFREDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"CHOQUE MENDOZA PAMELA KAREN"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"B",
+            "materias":[
+                {
+                    "codigo":"2006005",
+                    "nombre":"FISICA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"VILLARROEL GIL ARMANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"VILLARROEL GIL ARMANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"VILLARROEL GIL ARMANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"VILLARROEL GIL ARMANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ANDRADE UZIEDA MARKO JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"LUCANO LUCANO MARCELO JAVIER",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"LUCANO LUCANO MARCELO JAVIER"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"LUCANO LUCANO MARCELO JAVIER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"LUCANO LUCANO MARCELO JAVIER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008013",
+                    "nombre":"GEOMETRIA DESCRIPTIVA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CAMACHO QUIROGA ROGER ORLANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"CAMACHO QUIROGA ROGER ORLANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"TAYLOR TERRAZAS DARLONG HOWARD",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"TAYLOR TERRAZAS DARLONG HOWARD"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"TAYLOR TERRAZAS DARLONG HOWARD"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"Por Designar ..."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008022",
+                    "nombre":"ALGEBRA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MEDINA GAMBOA JULIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"MEDINA GAMBOA JULIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"MEDINA GAMBOA JULIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"SALINAS PERICON WALTER OSCAR"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"SALINAS PERICON WALTER OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"ANCARI VILLCA SAUL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"SALINAS PERICON WALTER OSCAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008056",
+                    "nombre":"CALCULO II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"FLORES GARCIA HERNAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"FLORES GARCIA HERNAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"TOTORA VELIZ RAMIRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"FLORES GARCIA HERNAN"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ROMERO ENCINAS RAUL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"ROMERO ENCINAS RAUL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"ROMERO ENCINAS RAUL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"MATIAS MARCA VIDAL"
+                                }]
+                        },
+                        {
+                            "codigo":"2A",
+                            "docente":"TAYLOR TERRAZAS DARLONG HOWARD",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"TAYLOR TERRAZAS DARLONG HOWARD"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"SOLIZ GAMBOA ALFREDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"TAYLOR TERRAZAS DARLONG HOWARD"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012001",
+                    "nombre":"DIBUJO TECNICO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MENDEZ VELASQUEZ IVAN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"MENDEZ VELASQUEZ IVAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"MENDEZ VELASQUEZ IVAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"CAE",
+                                    "docente":"MENDEZ VELASQUEZ IVAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"CAE",
+                                    "docente":"MENDEZ VELASQUEZ IVAN"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"UREY CONTRERAS MARIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"4",
+                                    "aula":"691E",
+                                    "docente":"UREY CONTRERAS MARIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"4",
+                                    "aula":"CAE",
+                                    "docente":"UREY CONTRERAS MARIO"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"ANTEZANA ROMAN OMAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"4",
+                                    "aula":"CAE",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"4",
+                                    "aula":"692C",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "docente":"CAMACHO QUIROGA ROGER ORLANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"CAE",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"5",
+                            "docente":"VILLAZON ROCHA YAMIR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"4",
+                                    "aula":"CAE",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"C",
+            "materias":[
+                {
+                    "codigo":"2008014",
+                    "nombre":"ANALISIS VECTORIAL Y TENSORIAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CUPE CLEMENTE GUALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"FLORES TABOADA DANNY ARIEL"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"CAMACHO QUIROGA ROGER ORLANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"CAMACHO QUIROGA ROGER ORLANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "docente":"MULLER SANTA CRUZ HANS CRISTIAN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"CATARI RIOS RAUL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"CATARI RIOS RAUL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008066",
+                    "nombre":"CALCULO III",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MULLER SANTA CRUZ HANS CRISTIAN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"TOTORA VELIZ RAMIRO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"BUSTILLOS VARGAS ALEX ISRRAEL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"BUSTILLOS VARGAS ALEX ISRRAEL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"BUSTILLOS VARGAS ALEX ISRRAEL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"BUSTILLOS VARGAS ALEX ISRRAEL"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "docente":"ROMERO ENCINAS RAUL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"ROMERO ENCINAS RAUL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"ROMERO ENCINAS RAUL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"ROMERO ENCINAS RAUL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012002",
+                    "nombre":"COMPUTACION PARA INGENIERIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ZABALAGA MONTANO OSCAR A.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"ZABALAGA MONTANO OSCAR A."
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"ZABALAGA MONTANO OSCAR A."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"ZABALAGA MONTANO OSCAR A."
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"FLORERO ORTUNO OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"SACA VENTURA OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"SACA VENTURA OSCAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012003",
+                    "nombre":"GEOLOGIA GENERAL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"TORRES NAVARRO EPIFANIO JULIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"TORRES NAVARRO EPIFANIO JULIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"TORRES NAVARRO EPIFANIO JULIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"TORRES NAVARRO EPIFANIO JULIO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"TORRES NAVARRO EPIFANIO JULIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"TORRES NAVARRO EPIFANIO JULIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"TORRES NAVARRO EPIFANIO JULIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"TORRES NAVARRO EPIFANIO JULIO"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"TORRES NAVARRO EPIFANIO JULIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"TORRES NAVARRO EPIFANIO JULIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"TORRES NAVARRO EPIFANIO JULIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"TORRES NAVARRO EPIFANIO JULIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014001",
+                    "nombre":"ELECTROTECNIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ARISPE SANTANDER ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"ARISPE SANTANDER ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"ARISPE SANTANDER ALBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"TANCARA SANDAGORDA JOSE FELIX",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"TANCARA SANDAGORDA JOSE FELIX"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"TANCARA SANDAGORDA JOSE FELIX"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"RODRIGUEZ SEJAS JUAN ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"RODRIGUEZ SEJAS JUAN ANTONIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"RODRIGUEZ SEJAS JUAN ANTONIO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"D",
+            "materias":[
+                {
+                    "codigo":"2012004",
+                    "nombre":"ESTRUCTURAS ISOSTATICAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MERUVIA MERUVIA JOSE",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"MERUVIA MERUVIA JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"MERUVIA MERUVIA JOSE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"3",
+                                    "aula":"MAGCIV",
+                                    "docente":"MERUVIA MERUVIA JOSE"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"LOPEZ LOREDO GROVER DANTE",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"3",
+                                    "aula":"693C",
+                                    "docente":"LOPEZ LOREDO GROVER DANTE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"LOPEZ LOREDO GROVER DANTE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"LOPEZ LOREDO GROVER DANTE"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"DUCHEN AYALA JORGE MARTIN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012005",
+                    "nombre":"MATERIALES DE CONSTRUCCION",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"LEDEZMA PERIZZA FERNANDO ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"3",
+                                    "aula":"MAGCIV",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012006",
+                    "nombre":"METODOS GEODESICOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"VERA CORTES CARLOS ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"5",
+                                    "aula":"CAMPO",
+                                    "docente":"Por Designar ..."
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"5",
+                                    "aula":"CAMPO",
+                                    "docente":"Por Designar ..."
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"VERA CORTES CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"4",
+                                    "aula":"CAMPO",
+                                    "docente":"VERA CORTES CARLOS ALBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"VERA CORTES CARLOS ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"VERA CORTES CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"4",
+                                    "aula":"CAMPO",
+                                    "docente":"VERA CORTES CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"5",
+                                    "aula":"CAMPO",
+                                    "docente":"Por Designar ..."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"5",
+                                    "aula":"CAMPO",
+                                    "docente":"Por Designar ..."
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"LEDEZMA PERIZZA FERNANDO ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"4",
+                                    "aula":"CAMPO",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012007",
+                    "nombre":"ECONOMIA POLITICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ALVARADO RIVAS MERY",
+                            "horarios":[
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"3",
+                                    "aula":"692F",
+                                    "docente":"ALVARADO RIVAS MERY"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ROMERO MERIDA MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"3",
+                                    "aula":"691A",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"ALVARADO RIVAS MERY",
+                            "horarios":[
+                                {
+                                    "dia":"SA",
+                                    "hora":"1030",
+                                    "duracion":"3",
+                                    "aula":"692F",
+                                    "docente":"ALVARADO RIVAS MERY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012060",
+                    "nombre":"ANALISIS NUMERICO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ZABALAGA MONTANO OSCAR A.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"ZABALAGA MONTANO OSCAR A."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"ZABALAGA MONTANO OSCAR A."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"ZABALAGA MONTANO OSCAR A."
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"DUCHEN AYALA JORGE MARTIN",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"E",
+            "materias":[
+                {
+                    "codigo":"2008029",
+                    "nombre":"PROBABILIDAD Y ESTADISTICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ROMERO MERIDA MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"TRUJILLO ARANIBAR WILSON",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"TRUJILLO ARANIBAR WILSON"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"JARA ARIAS EDWIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"TRUJILLO ARANIBAR WILSON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012008",
+                    "nombre":"HIDRAULICA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ESCOBAR SELEME MARCO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"ESCOBAR SELEME MARCO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"ESCOBAR SELEME MARCO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"MARTINEZ ARCE ARIEL"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"ROMERO MERIDA MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012009",
+                    "nombre":"GEODESIA Y FOTOGRAMETRIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ZABALAGA MONTANO OSCAR A.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"4",
+                                    "aula":"CAMPO",
+                                    "docente":"ZABALAGA MONTANO OSCAR A."
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"ZABALAGA MONTANO OSCAR A."
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"MONTENEGRO TERRAZAS LUIS EDGAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MONTENEGRO TERRAZAS LUIS EDGAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"MONTENEGRO TERRAZAS LUIS EDGAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"MONTENEGRO TERRAZAS LUIS EDGAR"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"LEDEZMA MIRANDA VITO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"LEDEZMA MIRANDA VITO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"LEDEZMA MIRANDA VITO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"LEDEZMA MIRANDA VITO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012010",
+                    "nombre":"GEOG. Y DEF. DE LOS RECURSOS NATURALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MUNOZ VASQUEZ GALO OSVALDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"VILLAZON ROCHA YAMIR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018002",
+                    "nombre":"RESISTENCIA DE MATERIALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"TORREJON ROCABADO JULIO MARCELO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693D",
+                                    "docente":"TORREJON ROCABADO JULIO MARCELO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"TORREJON ROCABADO JULIO MARCELO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"TORREJON ROCABADO JULIO MARCELO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"GOMEZ UGARTE GUIDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"GOMEZ UGARTE GUIDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"GOMEZ UGARTE GUIDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"GOMEZ UGARTE GUIDO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"F",
+            "materias":[
+                {
+                    "codigo":"2012011",
+                    "nombre":"HIDRAULICA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ESCOBAR SELEME MARCO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"ESCOBAR SELEME MARCO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"MARTINEZ ARCE ARIEL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"ESCOBAR SELEME MARCO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"MUNOZ VASQUEZ GALO OSVALDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"644",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012012",
+                    "nombre":"HIDROLOGIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"RODRIGUEZ SORIANO ELMER",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"RODRIGUEZ SORIANO ELMER"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":"RODRIGUEZ SORIANO ELMER"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"SACA VENTURA OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"SACA VENTURA OSCAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012013",
+                    "nombre":"RESISTENCIA DE MATERIALES II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MERUVIA MERUVIA JOSE",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"MERUVIA MERUVIA JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"MERUVIA MERUVIA JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"ZULETA NOVILLO ENRIQUE WALTER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"MERUVIA MERUVIA JOSE"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"MERUVIA MERUVIA JOSE",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"MERUVIA MERUVIA JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"MERUVIA MERUVIA JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"ZULETA NOVILLO ENRIQUE WALTER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"MERUVIA MERUVIA JOSE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012014",
+                    "nombre":"MECANICA DE SUELOS I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"SALINAS PEREIRA LUIS MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"SALINAS PEREIRA LUIS MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"SALINAS PEREIRA LUIS MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"SALINAS PEREIRA LUIS MAURICIO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"HEREDIA SOLIZ WILSON",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"HEREDIA SOLIZ WILSON"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"HEREDIA SOLIZ WILSON"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"HEREDIA SOLIZ WILSON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012015",
+                    "nombre":"TRANSPORTES Y COMUNICACIONES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"LEON CLAVIJO GUIDO A.",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"LEON CLAVIJO GUIDO A."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"LEON CLAVIJO GUIDO A."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"LEON CLAVIJO GUIDO A."
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ANTEZANA ROMAN OMAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"G",
+            "materias":[
+                {
+                    "codigo":"2012016",
+                    "nombre":"INGENIERIA SANITARIA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"VILLAZON ROCHA YAMIR",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ROCHA CUADROS JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"ROCHA CUADROS JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"ROCHA CUADROS JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"ROCHA CUADROS JUAN CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012017",
+                    "nombre":"ESTRUCTURAS HIPERESTATICAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"FLORERO ORTUNO OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"3",
+                                    "aula":"693A",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ANTEZANA ROMAN OMAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"3",
+                                    "aula":"692E",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"ANDRADE UZIEDA MARKO JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012018",
+                    "nombre":"ESTRUCTURAS DE MADERA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"LOPEZ LOREDO GROVER DANTE",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"LOPEZ LOREDO GROVER DANTE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"3",
+                                    "aula":"691A",
+                                    "docente":"LOPEZ LOREDO GROVER DANTE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012019",
+                    "nombre":"TECNOLOGIA DEL HORMIGON",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ANTEZANA ROMAN OMAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"3",
+                                    "aula":"692G",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"3",
+                                    "aula":"693A",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012020",
+                    "nombre":"SISTEMAS DE INGENIERIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"SACA VENTURA OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"SACA VENTURA OSCAR"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012021",
+                    "nombre":"MECANICA DE SUELOS II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"SALINAS PEREIRA LUIS MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"SALINAS PEREIRA LUIS MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"SALINAS PEREIRA LUIS MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"SALINAS PEREIRA LUIS MAURICIO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"H",
+            "materias":[
+                {
+                    "codigo":"2012022",
+                    "nombre":"INGENIERIA SANITARIA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ESCALERA VASQUEZ ARMANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"690C",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ROCHA CUADROS JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":"ROCHA CUADROS JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"ROCHA CUADROS JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"ROCHA CUADROS JUAN CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012023",
+                    "nombre":"HORMIGON ARMADO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"LOPEZ LOREDO GROVER DANTE",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"3",
+                                    "aula":"625D",
+                                    "docente":"LOPEZ LOREDO GROVER DANTE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"LOPEZ LOREDO GROVER DANTE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"LOPEZ LOREDO GROVER DANTE"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"3",
+                                    "aula":"692E",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012024",
+                    "nombre":"MAQUINARIA Y EQUIPO DE CONSTRUCCION",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"AYLLON ACOSTA JAIME",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"AYLLON ACOSTA JAIME"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"AYLLON ACOSTA JAIME"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"VILLAZON ROCHA YAMIR",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693D",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012025",
+                    "nombre":"MECANICA DE SUELOS APLICADA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"RODRIGUEZ ROCA GABRIEL",
+                            "horarios":[
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"RODRIGUEZ ROCA GABRIEL"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"4",
+                                    "aula":"691A",
+                                    "docente":"RODRIGUEZ ROCA GABRIEL"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"SALINAS PEREIRA LUIS MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"SALINAS PEREIRA LUIS MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"SALINAS PEREIRA LUIS MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"SALINAS PEREIRA LUIS MAURICIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012026",
+                    "nombre":"CARRETERAS I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"VERA CORTES CARLOS ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"VERA CORTES CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"VERA CORTES CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"VERA CORTES CARLOS ALBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"LAZARTE VILLARROEL LUIS",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"LAZARTE VILLARROEL LUIS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"LAZARTE VILLARROEL LUIS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"LAZARTE VILLARROEL LUIS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012027",
+                    "nombre":"INGENIERIA ECONOMICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"PARDO IRIARTE JUAN FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"PARDO IRIARTE JUAN FERNANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"PARDO IRIARTE JUAN FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"PARDO IRIARTE JUAN FERNANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"FERNANDEZ RIOS HUGO WILLIAM",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"FERNANDEZ RIOS HUGO WILLIAM"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"FERNANDEZ RIOS HUGO WILLIAM"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"FERNANDEZ RIOS HUGO WILLIAM"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"I",
+            "materias":[
+                {
+                    "codigo":"2012028",
+                    "nombre":"PLANIFICACION DE PROYECTO DE GRADO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ESCALERA VASQUEZ ARMANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"690C",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"LEDEZMA PERIZZA FERNANDO ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012029",
+                    "nombre":"OBRAS HIDRAULICAS I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ESCALERA VASQUEZ ARMANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"690C",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"SACA VENTURA OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"644",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":"SACA VENTURA OSCAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012030",
+                    "nombre":"ESTRUCTURAS METALICAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CABALLERO FLORES JAVIER",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"CABALLERO FLORES JAVIER"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"CABALLERO FLORES JAVIER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"CABALLERO FLORES JAVIER"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"LEDEZMA PERIZZA FERNANDO ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012031",
+                    "nombre":"CONSTRUCCION DE EDIFICIOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"EDUARDO FRANZ MARCELO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"EDUARDO FRANZ MARCELO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"3",
+                                    "aula":"617C",
+                                    "docente":"EDUARDO FRANZ MARCELO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012032",
+                    "nombre":"DIRECCION DE OBRAS Y VALUACIONES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"FERNANDEZ RIOS HUGO WILLIAM",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"FERNANDEZ RIOS HUGO WILLIAM"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"3",
+                                    "aula":"693D",
+                                    "docente":"FERNANDEZ RIOS HUGO WILLIAM"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012033",
+                    "nombre":"FUNDACIONES I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"DUCHEN AYALA JORGE MARTIN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"3",
+                                    "aula":"692F",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012034",
+                    "nombre":"SANEAMIENTO AMBIENTAL (SANITARIA)",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"JOFFRE LARA CARLOS GASTON",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"JOFFRE LARA CARLOS GASTON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"JOFFRE LARA CARLOS GASTON"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"JOFFRE LARA CARLOS GASTON"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"J",
+            "materias":[
+                {
+                    "codigo":"2012035",
+                    "nombre":"PUENTES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"FLORERO ORTUNO OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"644",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012036",
+                    "nombre":"HORMIGON PREESFORZADO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"EDUARDO FRANZ MARCELO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":"EDUARDO FRANZ MARCELO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"EDUARDO FRANZ MARCELO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"EDUARDO FRANZ MARCELO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012037",
+                    "nombre":"INGENIERIA ANTISISMICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"SAAVEDRA ANTEZANA FELIPE RAMIRO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012038",
+                    "nombre":"ESTRUCTURAS ESPECIALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"FLORERO ORTUNO OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"644",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"FLORERO ORTUNO OSCAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012039",
+                    "nombre":"FUNDACIONES II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"DUCHEN AYALA JORGE MARTIN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"3",
+                                    "aula":"652",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012042",
+                    "nombre":"CARRETERAS II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"AYLLON ACOSTA JAIME",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"AYLLON ACOSTA JAIME"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"AYLLON ACOSTA JAIME"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"AYLLON ACOSTA JAIME"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012043",
+                    "nombre":"AEROPUERTOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"AYLLON ACOSTA JAIME",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"AYLLON ACOSTA JAIME"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"AYLLON ACOSTA JAIME"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"AYLLON ACOSTA JAIME"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012044",
+                    "nombre":"INGENIERIA DE TRAFICO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"LAZARTE VILLARROEL LUIS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"LAZARTE VILLARROEL LUIS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"LAZARTE VILLARROEL LUIS"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"LAZARTE VILLARROEL LUIS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012045",
+                    "nombre":"VIAS FERREAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"LEON CLAVIJO GUIDO A.",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"LEON CLAVIJO GUIDO A."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"LEON CLAVIJO GUIDO A."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"LEON CLAVIJO GUIDO A."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012047",
+                    "nombre":"MODELOS HIDRAULICOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MUNOZ VASQUEZ GALO OSVALDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012048",
+                    "nombre":"TEMAS ESPECIALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ROMERO MERIDA MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"ROMERO MERIDA MAURICIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012050",
+                    "nombre":"PUERTOS Y VIAS NAVEGABLES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MUNOZ VASQUEZ GALO OSVALDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012051",
+                    "nombre":"HIDRAULICA DE RIOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MENDEZ TORRICO ROBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"3",
+                                    "aula":"625D",
+                                    "docente":"MENDEZ TORRICO ROBERTO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"3",
+                                    "aula":"644A",
+                                    "docente":"MENDEZ TORRICO ROBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012053",
+                    "nombre":"PLANTAS DE TRATAMIENTO AGUAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ESCALERA VASQUEZ ARMANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"631",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"ESCALERA VASQUEZ ARMANDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012054",
+                    "nombre":"INSTALACIONES DOMICILIARIAS E",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ROCHA CUADROS JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"ROCHA CUADROS JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"ROCHA CUADROS JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"ROCHA CUADROS JUAN CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012055",
+                    "nombre":"OBRAS HIDRAULICAS II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MENDEZ TORRICO ROBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"3",
+                                    "aula":"617",
+                                    "docente":"MENDEZ TORRICO ROBERTO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"3",
+                                    "aula":"692H",
+                                    "docente":"MENDEZ TORRICO ROBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2012061",
+                    "nombre":"QUIMICA DEL AGUA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ARNEZ TORRICO EDITH MARITZA",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"ARNEZ TORRICO EDITH MARITZA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"ARNEZ TORRICO EDITH MARITZA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"690B",
+                                    "docente":"ARNEZ TORRICO EDITH MARITZA"
+                                }]
+                        }]
+                }]
+        }]
 }
