@@ -79,7 +79,8 @@ class ParseTxt {
                     $materia = new Models_Materia($codigo, $nombre);
                     $nivel->addMateria($codigo, $materia);
                 } else {
-                    $materia = $nivel->getMaterias()[$codigo];
+                    $materias = $nivel->getMaterias();
+                    $materia = $materias[$codigo];
                 }
 
                 if (isset($output['grupo'])) {
@@ -88,7 +89,8 @@ class ParseTxt {
                         $grupo = new Models_Grupo($id_grupo);
                         $materia->addGrupo($id_grupo, $grupo);
                     } else {
-                        $grupo = $materia->getGrupos()[$id_grupo];
+                        $grupos = $materia->getGrupos();
+                        $grupo = $grupos[$id_grupo];
                     }
                 }
             } else if (preg_match(
@@ -98,7 +100,8 @@ class ParseTxt {
                     $grupo = new Models_Grupo($codigo);
                     $materia->addGrupo($codigo, $grupo);
                 } else {
-                    $grupo = $materia->getGrupos()[$codigo];
+                    $grupos = $materia->getGrupos();
+                    $grupo = $grupos[$codigo];
                 }
             } else if (preg_match(
                 '/^(?P<dia>(LU|MA|MI|JU|VI|SA)) (?P<inicio>\d{3,4})-(?P<final>\d{3,4})\((?P<aula>.*)\)$/',
@@ -143,7 +146,7 @@ class ParseTxt {
         $files = $this->list_files();
 
         echo 'Serializando a JSON ' . PHP_EOL;
-        $carreras = array();
+        $_carreras = array();
 
         foreach ($files as $file) {
             $json_file = substr($file, 0, -4) . '.json';
@@ -151,8 +154,16 @@ class ParseTxt {
             $json_carrera = $carrera->__toJSON();
             $json_carrera = str_replace('Ñ', '\u00d1', $json_carrera);
             file_put_contents($dir . $json_file, $json_carrera);
+
+            $_carrera = new StdClass();
+            $_carrera->codigo = $carrera->getCodigo();
+            $_carrera->nombre = $carrera->getNombre();
+            $_carreras[] = $_carrera;
+            
             echo $json_file . '...OK' . PHP_EOL;
         }
+
+        file_put_contents(substr($dir, 0, -1) . '.json', json_encode($_carreras));
     }
 }
 

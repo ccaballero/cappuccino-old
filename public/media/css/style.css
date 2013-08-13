@@ -18,15 +18,17 @@ Youre All That I See    F9F9B9
 
 * {
     font-family: Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman", serif;
+    font-size: 14px;
 }
 
-    html, body, div, header, section, footer, nav {
+html, body, div, header, section, footer, nav {
     margin: 0px;
     padding: 0px;
 }
 
 body {
-    background: #F9F9B9 url('/media/1229641.png') repeat-x 60px -90px;
+    background: #F9F9B9 url('/media/1229641.png') repeat-x 0% 110%;
+    background-attachment: fixed;
 }
 
 .clear {
@@ -34,192 +36,135 @@ body {
 }
 
 header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
     background-color: #262C0A;
+    box-shadow: 0px -3px 10px #748038 inset;
 }
 
 header h1 {
-    font-size: 16px;
-}
-
-header ul {
-    margin: 0px;
-    padding: 0px;
-    list-style: none;
-    float: left;
-}
-
-header ul li {
-    float: left;
-}
-
-header ul li a {
     font-family: 'GeoSansLightOblique';
     font-size: 15px;
     color: #F9F9B9;
-    text-decoration: none;
-    padding: 6px 10px;
-    float: left;
-}
-
-header ul li a:hover {
-    text-decoration: underline;
-}
-
-header ul li.active a {
-    color: #B4D562;
-    font-weight: bold;
-    text-decoration: underline;
-}
-
-#footer {
-    padding-top: 20px;
-}
-
-#footer ul {
     margin: 0px;
-    padding: 0px;
-    list-style: none;
-}
-
-#footer ul li {
-    float: left;
-}
-
-#footer ul li a {
-    font-family: 'GeoSansLightOblique';
-    font-size: 13px;
-    color: #262C0A;
-    text-decoration: none;
-    padding: 5px 10px;
-    float: left;
-}
-
-#footer ul li a:hover {}
-
-#wrapper {
-    max-width: 960px;
-    margin: 0px auto;
-}
-
-#content h1 {
-    font-family: 'GeoSansLight';
-    font-size: 33px;
-    font-weight: normal;
-    margin: 0px;
-    padding: 23px 10px 10px 10px;
-    color: #748038;
-    text-shadow: 2px 2px 3px #B4D562;
-    text-decoration: underline;
-}
-
-#content h2 {
-    font-family: 'GeoSansLight';
-    font-size: 24px;
-    font-weight: normal;
-    margin: 0px;
-    padding: 10px 10px 0px 15px;
-    color: #B4D562;
-    text-shadow: 2px 2px 4px #DBE479;
-}
-
-#content h3 {
-    font-family: 'GeoSansLight';
-    font-size: 18px;
-    font-weight: normal;
-    margin: 0px;
-    padding: 10px 10px 0px 20px;
-    color: #748038;
-    text-shadow: 2px 2px 4px #DBE479;
-}
-
-#content p {
-    font-family: 'GeoSansLight';
-    font-size: 14px;
-    color: #262C0A;
     padding: 5px;
-    line-height: 20px;
-    text-align: justify;
-}
-
-#content .wizard {
-    float: left;
-    padding: 10px 0px;
-}
-
-#content .wizard .step {
-    float: left;
-    width: 180px;
-    height: 125px;
-    background-color: #DBE479;
-    padding: 0px 7px 0px 13px;
-    margin: 5px 30px 15px 5px;
-    border-radius: 20px;
-    box-shadow: 0px 0px 3px 3px #748038;
-}
-
-#content .wizard .step h2 {
-    font-family: 'GeoSansLight';
-    font-weight: normal;
-    font-size: 16px;
-    color: #262C0A;
-    margin-bottom: 0px;
-    padding: 10px 0px 0px 0px;
-}
-
-#content .wizard .step p {
-    color: #748038;
-    padding: 0px;
-    margin: 5px 5px 0px 0px;
-}
-
-#content .start {
-    padding: 20px;
     text-align: center;
 }
 
-#content .start ul {}
-#content .start ul li {
-    margin: 10px 0px;
+footer {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    padding-top: 20px;
 }
 
-#content .start ul li a,
-#content .start ul li input[type="submit"] {
-    font-family: 'GeoSansLight';
-    font-size: 30px;
-    background-color: #262C0A;
-    color: #DBE479;
-    text-decoration: none;
-    padding: 5px 15px;
-    border-radius: 20px;
-    border: none;
-}
-
-#content ul {
+footer ul {
+    margin: 0px;
+    padding: 0px;
     list-style: none;
 }
 
-#content table {
-    width: 100%;
+footer ul li {
+    float: left;
 }
 
-#content table tr th {
+footer ul li a {
+    font-family: 'GeoSansLightOblique';
+    font-size: 11px;
+    float: left;
+    padding: 3px 8px;
+    margin: 0px 5px;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: -1px -1px 6px #262C0A inset;
     background-color: #748038;
     color: #F9F9B9;
 }
 
-#content table tr td {
-    background-color: #DBE479;
+footer ul li a:hover {}
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+    margin-top: 28px;
 }
 
-#content table tr th,
-#content table tr td {
-    font-family: "Copperplate Light", "Copperplate Gothic Light", serif;
-    font-size: 14px;
-    padding: 5px;
+#options {
+    float: left;
+    width: 300px;
+    background-color: #DBE479;
+    border-radius: 0px 0px 30px 30px;
+    box-shadow: 0px 3px 10px #748038;
+    margin-bottom: 20px;
 }
+
+#options ul {
+    padding: 0px 0px 0px 10px;
+    list-style: none;
+}
+
+#options>ul {
+    padding: 0px 0px 10px 10px;
+}
+
+#options ul li {}
+#options ul li a {
+    font-family: "Franklin Gothic Medium","Arial Narrow Bold","Arial",sans-serif;
+    font-size: 11px;
+    cursor: pointer;
+    padding: 0px 4px;
+}
+
+#options ul li a:hover {
+    color: #DBE479;
+    background-color: #748038;
+}
+
+#schedule {
+    position: fixed;
+    width: 660px;
+    margin-left: 300px;
+}
+
+#schedule table {
+    margin-left: 10px;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#schedule table tr {}
+
+#schedule table tr th,
+#schedule table tr td {
+    font-family: 'GeoSansLight';
+    font-size: 13px;
+}
+
+#schedule table tr th:nth-child(1),
+#schedule table tr th:nth-child(2) {
+    text-align: left;
+}
+
+#schedule table tr th {
+    color: #262C0A;
+}
+
+#schedule table tr td {
+    border: 1px solid #262C0A;
+}
+
+.period { width: 40px; }
+.day { width: 100px;}
 
 @media only screen and (max-width: 450px) {
     #header ul li {
         width: 100%;
     }
+}
+
+.green {
+    background-color: #DBE479;
 }

@@ -1,6 +1,6 @@
-DirectoryIndex index.php
+DirectoryIndex index.html
 
 RewriteEngine on
 
 RewriteCond %{SCRIPT_FILENAME} !-f
-RewriteRule ^(.*)$ index.php?page=$1
+RewriteRule ^(.*)$ index.html?page=$1
