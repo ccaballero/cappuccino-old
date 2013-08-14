@@ -26,12 +26,6 @@ html, body, div, header, section, footer, nav {
     padding: 0px;
 }
 
-body {
-    /*background: url('/media/1229641.png') repeat-x 0% -25%;*/
-    /*background: #F9F9B9 url('/media/1229641.png') repeat-x 0% 110%;*/
-    background-attachment: fixed;
-}
-
 .clear {
     clear: both;
 }
@@ -181,3 +175,9 @@ a.grupo.selected {
 .color7 { background-color: hsla(240, 100%, 50%, 0.25); }
 .color8 { background-color: hsla(280, 100%, 50%, 0.25); }
 .color9 { background-color: hsla(320, 100%, 50%, 0.25); }
+
+#schedule table tr td.collision {
+    background-color: #ffffff;
+    border: 2px solid #ff0000;;
+}
+

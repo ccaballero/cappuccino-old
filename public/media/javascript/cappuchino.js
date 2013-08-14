@@ -5,15 +5,6 @@ var Config=new(function(){
 
     this.current_color=0
     this.carreras=[]
-
-    this.tablero=new Array(6)
-    for(i=0;i<this.tablero.length;i++){
-        var periodos=new Array(20)
-        for(j=0;j<periodos.length;j++){
-            periodos[j]=''
-        }
-        this.tablero[i]=periodos
-    }
 })()
 
 var Templates=new(function(){
@@ -66,14 +57,79 @@ var Events=new(function(){
     this.checkGrupo=function(){
         var i=$(this).parent().attr('name').substring(6).split('-')
         if($(this).is(':checked')){
-            Render.renderHorarios(i)
+            Horario.addGrupo(i)
+            Tablero.repaint()
             $(this).next('a.grupo').addClass('selected')
         }else{
-            Render.eliminarHorarios(i)
+            Horario.removeGrupo(i)
+            Tablero.repaint()
             $(this).next('a.grupo').removeClass('selected')
         }
     }
 })()
+
+var Horario=new(function(){
+    this.horarios=new Array();
+    this.addGrupo=function(index){
+        var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
+        materia=Config.carreras[index[0]].niveles[index[1]].materias[index[2]]
+        grupo=materia.grupos[index[3]]
+
+        this.horarios.push([materia, grupo])
+    }
+    this.removeGrupo=function(index){
+        var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
+        materia=Config.carreras[index[0]].niveles[index[1]].materias[index[2]]
+        grupo=materia.grupos[index[3]]
+
+        for(i=0;i<this.horarios.length;i++){
+            var element=this.horarios[i]
+            if (element[0].codigo===materia.codigo&&element[1].codigo===grupo.codigo){
+                this.horarios.splice(i,1)
+            }
+        }
+    }
+})()
+
+var Tablero=new(function(){
+    this.repaint=function(){   
+        $('td').removeClass().text('')
+        Config.current_color=(Config.current_color+1)%9;
+        for(var i in Horario.horarios){
+            materia=Horario.horarios[i][0]
+            grupo=Horario.horarios[i][1]
+            color='color'+((i+1)%9)
+            this.renderHorarios(materia,grupo,color)
+        }
+        
+    }
+    this.renderHorarios=function(materia,grupo,color){
+        for(var i in grupo.horarios){
+            this.renderHorario(
+                grupo.horarios[i].dia,
+                grupo.horarios[i].hora,
+                grupo.horarios[i].duracion,
+                materia.nombre+' ('+grupo.horarios[i].aula+')',
+                color
+            )
+        }
+    }
+    this.renderHorario=function(dia,hora,duracion,texto,color){
+        var dias={'LU':3,'MA':4,'MI':5,'JU':6,'VI':7,'SA':8}
+        var periodos={'645':2,'730':3,'815':4,'900':5,'945':6,'1030':7,'1115':8,'1200':9,'1245':10,'1330':11,'1415':12,'1500':13,'1545':14,'1630':15,'1715':16,'1800':17,'1845':18,'1930':19,'2015':20,'2100':21}
+        for (var i = 0; i< duracion;i++) {
+            var celda=$('#schedule table tbody tr:nth-child('+(periodos[hora]+i)+') td:nth-child('+dias[dia]+')')
+            if(celda.text()!=='') {
+                celda.removeClass().addClass('collision');
+            }else{
+                celda.addClass(color)
+                
+            } 
+            celda.append(texto+'<br />')
+        }
+        
+    }
+})
 
 var Render=new(function(){
     this.renderCarreras=function(){
@@ -117,52 +173,6 @@ var Render=new(function(){
         }
         li.find('a.grupo').click(Events.clickGrupo)
         li.find('input[type="checkbox"]').change(Events.checkGrupo)
-    }
-    this.renderHorarios=function(index){
-        var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
-        materia=Config.carreras[index[0]].niveles[index[1]].materias[index[2]]
-        grupo=materia.grupos[index[3]]
-        for(var i in grupo.horarios){
-            Render.renderHorario(
-                grupo.horarios[i].dia,
-                grupo.horarios[i].hora,
-                grupo.horarios[i].duracion,
-                materia.nombre+' ('+grupo.horarios[i].aula+')',
-                'color'+(Config.current_color+1)
-            )
-        }
-        Config.current_color=(Config.current_color+1)%9;
-    }
-    this.renderHorario=function(dia,hora,duracion,texto,color){
-        var dias={'LU':3,'MA':4,'MI':5,'JU':6,'VI':7,'SA':8}
-        var periodos={'645':2,'730':3,'815':4,'900':5,'945':6,'1030':7,'1115':8,'1200':9,'1245':10,'1330':11,'1415':12,'1500':13,'1545':14,'1630':15,'1715':16,'1800':17,'1845':18,'1930':19,'2015':20,'2100':21}
-        for (var i = 0; i< duracion;i++) {
-            $('#schedule table tbody tr:nth-child('+(periodos[hora]+i)+') td:nth-child('+dias[dia]+')')
-                .text(texto)
-                .addClass(color)
-        }
-    }
-    this.eliminarHorarios=function(index) {
-        var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
-        materia=Config.carreras[index[0]].niveles[index[1]].materias[index[2]]
-        grupo=materia.grupos[index[3]]
-        for(var i in grupo.horarios){
-            Render.eliminarHorario(
-                grupo.horarios[i].dia,
-                grupo.horarios[i].hora,
-                grupo.horarios[i].duracion
-            )
-        }
-
-    }
-    this.eliminarHorario=function(dia,hora,duracion) {
-        var dias={'LU':3,'MA':4,'MI':5,'JU':6,'VI':7,'SA':8}
-        var periodos={'645':2,'730':3,'815':4,'900':5,'945':6,'1030':7,'1115':8,'1200':9,'1245':10,'1330':11,'1415':12,'1500':13,'1545':14,'1630':15,'1715':16,'1800':17,'1845':18,'1930':19,'2015':20,'2100':21}
-        for (var i = 0; i< duracion;i++) {
-            $('#schedule table tbody tr:nth-child('+(periodos[hora]+i)+') td:nth-child('+dias[dia]+')')
-                .text(' ')
-                .removeClass()
-        }
     }
 })()
 
