@@ -55,7 +55,7 @@ header h1 {
 
 footer {
     position: fixed;
-    bottom: 0px;
+    bottom: 5px;
     right: 0px;
     padding-top: 20px;
 }
@@ -140,7 +140,7 @@ footer ul li a:hover {}
 
 #schedule table tr th,
 #schedule table tr td {
-    font-family: 'GeoSansLight';
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
     font-size: 13px;
 }
 
