@@ -17,10 +17,10 @@ var Config=new(function(){
 })()
 
 var Templates=new(function(){
-    this.carrera='<li name="carrera-{0}"><a class="carrera">{2} ({1})</a></li>'
+    this.carrera='<li name="carrera-{0}"><a class="carrera">{2}</a></li>'
     this.nivel='<li name="nivel-{0}-{1}"><a class="nivel">Nivel {2}</a></li>'
     this.materia='<li name="materia-{0}-{1}-{2}"><a class="materia">{3}</a></li>'
-    this.grupo='<li name="grupo-{0}-{1}-{2}-{3}"><input type="checkbox" /><a class="grupo">Grupo #{4} {5}</a></li>'
+    this.grupo='<li name="grupo-{0}-{1}-{2}-{3}"><input type="checkbox" /><a class="grupo">Grupo #{4} ({5})</a></li>'
 })()
 
 var Events=new(function(){

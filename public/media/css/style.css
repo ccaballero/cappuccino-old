@@ -27,7 +27,8 @@ html, body, div, header, section, footer, nav {
 }
 
 body {
-    background: #F9F9B9 url('/media/1229641.png') repeat-x 0% 110%;
+    /*background: url('/media/1229641.png') repeat-x 0% -25%;*/
+    /*background: #F9F9B9 url('/media/1229641.png') repeat-x 0% 110%;*/
     background-attachment: fixed;
 }
 
