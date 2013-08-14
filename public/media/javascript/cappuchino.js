@@ -20,8 +20,10 @@ var Events=new(function(){
             var i=$(this).parent().attr('name').substring(8)
             carrera=Collections.carreras[i]
             $.getJSON(url_gestion+'/'+carrera.codigo+'.json',function(json){
-                Collections.carreras[i]=json
-                Render.renderNiveles(i)
+                if(typeof carrera.niveles==='undefined'){
+                    Collections.carreras[i]=json
+                    Render.renderNiveles(i)
+                }
             })
         }else{
             ul.children('ul').fadeToggle()
