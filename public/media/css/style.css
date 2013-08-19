@@ -67,15 +67,12 @@ footer ul li {
 
 footer ul li a {
     font-family: 'GeoSansLightOblique';
-    font-size: 11px;
+    font-size: 12px;
     float: left;
-    padding: 3px 8px;
+    padding: 3px;
     margin: 0px 5px;
-    border-radius: 8px;
     text-decoration: none;
-    box-shadow: -1px -1px 6px #262C0A inset;
-    background-color: #748038;
-    color: #F9F9B9;
+    color: #262C0A;
 }
 
 footer ul li a:hover {}

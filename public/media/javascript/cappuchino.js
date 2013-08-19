@@ -2,16 +2,60 @@ var Config=new(function(){
     this.url='/horarios/'
     this.gestion='2-2013'
     this.url_gestion=this.url+this.gestion
-
-    this.current_color=0
     this.carreras=[]
 })()
 
 var Templates=new(function(){
+    this.tablero='<table><tbody><tr><th class="period"></th><th class="period">'
+        +'</th><th class="day">Lunes</th><th class="day">Martes</th>'
+        +'<th class="day">Miercoles</th><th class="day">Jueves</th>'
+        +'<th class="day">Viernes</th><th class="day">Sabado</th></tr>'
+        +'<tr><th>06:45</th><th>07:30</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>07:30</th><th>08:15</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>08:15</th><th>09:00</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>09:00</th><th>09:45</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>09:45</th><th>10:30</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>10:30</th><th>11:15</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>11:15</th><th>12:00</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>12:00</th><th>12:45</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>12:45</th><th>13:30</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>13:30</th><th>14:15</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>14:15</th><th>15:00</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>15:00</th><th>15:45</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>15:45</th><th>16:30</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>16:30</th><th>17:15</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>17:15</th><th>18:00</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>18:00</th><th>18:45</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>18:45</th><th>19:30</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>19:30</th><th>20:15</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>20:15</th><th>21:00</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr>'
+        +'<tr><th>21:00</th><th>21:45</th><td></td><td></td>'
+        +'<td></td><td></td><td></td><td></td></tr></tbody></table>';
     this.carrera='<li name="carrera-{0}"><a class="carrera">{2}</a></li>'
     this.nivel='<li name="nivel-{0}-{1}"><a class="nivel">Nivel {2}</a></li>'
-    this.materia='<li name="materia-{0}-{1}-{2}"><a class="materia">{3}</a></li>'
-    this.grupo='<li name="grupo-{0}-{1}-{2}-{3}"><input type="checkbox" /><a class="grupo">Grupo #{4} ({5})</a></li>'
+    this.materia='<li name="materia-{0}-{1}-{2}">'
+        +'<a class="materia">{3}</a></li>'
+    this.grupo='<li name="grupo-{0}-{1}-{2}-{3}"><input type="checkbox" />'
+        +'<a class="grupo">Grupo #{4} ({5})</a></li>'
 })()
 
 var Events=new(function(){
@@ -20,12 +64,12 @@ var Events=new(function(){
         if(ul.length===0){
             var i=$(this).parent().attr('name').substring(8)
             carrera=Config.carreras[i]
-            $.getJSON(Config.url_gestion+'/'+carrera.codigo+'.json',function(json){
-                if(typeof carrera.niveles==='undefined'){
-                    Config.carreras[i]=json
-                    Render.renderNiveles(i)
-                }
-            })
+            $.getJSON(Config.url_gestion+'/'+carrera.codigo+'.json',
+                function(json){
+                    if(typeof carrera.niveles==='undefined'){
+                        Config.carreras[i]=json
+                        Render.renderNiveles(i)
+            }})
         }else{
             ul.children('ul').fadeToggle()
         }
@@ -74,14 +118,12 @@ var Horario=new(function(){
         var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
         materia=Config.carreras[index[0]].niveles[index[1]].materias[index[2]]
         grupo=materia.grupos[index[3]]
-
-        this.horarios.push([materia, grupo])
+        this.horarios.push([materia,grupo])
     }
     this.removeGrupo=function(index){
         var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
         materia=Config.carreras[index[0]].niveles[index[1]].materias[index[2]]
         grupo=materia.grupos[index[3]]
-
         for(i=0;i<this.horarios.length;i++){
             var element=this.horarios[i]
             if (element[0].codigo===materia.codigo&&element[1].codigo===grupo.codigo){
@@ -92,16 +134,15 @@ var Horario=new(function(){
 })()
 
 var Tablero=new(function(){
-    this.repaint=function(){   
-        $('td').removeClass().text('')
-        Config.current_color=(Config.current_color+1)%9;
+    this.repaint=function(){
+        $('#schedule').html(Templates.tablero)
         for(var i in Horario.horarios){
             materia=Horario.horarios[i][0]
             grupo=Horario.horarios[i][1]
             color='color'+((i+1)%9)
             this.renderHorarios(materia,grupo,color)
+            this.joinCeldas()
         }
-        
     }
     this.renderHorarios=function(materia,grupo,color){
         for(var i in grupo.horarios){
@@ -117,17 +158,34 @@ var Tablero=new(function(){
     this.renderHorario=function(dia,hora,duracion,texto,color){
         var dias={'LU':3,'MA':4,'MI':5,'JU':6,'VI':7,'SA':8}
         var periodos={'645':2,'730':3,'815':4,'900':5,'945':6,'1030':7,'1115':8,'1200':9,'1245':10,'1330':11,'1415':12,'1500':13,'1545':14,'1630':15,'1715':16,'1800':17,'1845':18,'1930':19,'2015':20,'2100':21}
-        for (var i = 0; i< duracion;i++) {
-            var celda=$('#schedule table tbody tr:nth-child('+(periodos[hora]+i)+') td:nth-child('+dias[dia]+')')
-            if(celda.text()!=='') {
+        for(var i=0;i<duracion;i++){
+            var celda=$('tr:nth-child('+(periodos[hora]+i)+') :nth-child('+dias[dia]+')')
+            if(celda.text()!==''){
                 celda.removeClass().addClass('collision');
             }else{
                 celda.addClass(color)
-                
-            } 
+            }
             celda.append(texto+'<br />')
         }
-        
+    }
+    this.joinCeldas=function(){
+        for(var i=3;i<9;i++){
+            var texto_anterior=''
+            for(var j=2;j<22;j++){
+                var celda=$('tr:nth-child('+j+') :nth-child('+i+')')
+                var texto_actual=celda.text()
+                if(texto_actual!==''){
+                    if(texto_actual===texto_anterior){
+                        celda.remove()
+                        pivote.attr('rowspan', (parseInt(pivote.attr('rowspan'))+1))
+                    }else{
+                        pivote=celda.attr('rowspan', 1)
+                    }
+                }
+                texto_anterior=texto_actual
+            }
+        }
+        console.log('------')
     }
 })
 
@@ -178,11 +236,10 @@ var Render=new(function(){
 
 $(document).ready(function(){
     jQuery.fn.exists=function(){return this.length>0;}
-
     $.getJSON(Config.url_gestion+'.json',function(json){
         Config.carreras=json
         Render.renderCarreras()
     })
-
     $('header h1').append(' :: gestión: '+Config.gestion)
+    Tablero.repaint()
 })

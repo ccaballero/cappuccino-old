@@ -794,7 +794,7 @@
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"691B",
-                                    "docente":"CLAROS BAPTISTA ANGEL"
+                                    "docente":"Por Designar ..."
                                 },
                                 {
                                     "dia":"JU",
@@ -954,6 +954,32 @@
                                     "duracion":"2",
                                     "aula":"624",
                                     "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                }]
+                        },
+                        {
+                            "codigo":"2A",
+                            "docente":"MULLER SANTA CRUZ HANS CRISTIAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"TOTORA VELIZ RAMIRO"
                                 }]
                         }]
                 },
@@ -1230,23 +1256,23 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1545",
+                                    "hora":"2015",
                                     "duracion":"2",
-                                    "aula":"692B",
+                                    "aula":"693D",
                                     "docente":"GARCIA MOLINA JUAN RUBEN"
                                 },
                                 {
-                                    "dia":"MA",
-                                    "hora":"945",
+                                    "dia":"MI",
+                                    "hora":"1845",
                                     "duracion":"2",
-                                    "aula":"617C",
+                                    "aula":"644A",
                                     "docente":"GARCIA MOLINA JUAN RUBEN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"815",
+                                    "hora":"1245",
                                     "duracion":"2",
-                                    "aula":"691A",
+                                    "aula":"623",
                                     "docente":"GARCIA MOLINA JUAN RUBEN"
                                 }]
                         },
@@ -1497,6 +1523,32 @@
                                     "duracion":"2",
                                     "aula":"692D",
                                     "docente":"ALVAREZ QUIROZ RICHARD MILTON"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
                                 }]
                         }]
                 },
@@ -1846,32 +1898,6 @@
                                 }]
                         },
                         {
-                            "codigo":"2",
-                            "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA",
-                            "horarios":[
-                                {
-                                    "dia":"LU",
-                                    "hora":"1845",
-                                    "duracion":"2",
-                                    "aula":"607",
-                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
-                                },
-                                {
-                                    "dia":"MA",
-                                    "hora":"1715",
-                                    "duracion":"2",
-                                    "aula":"693C",
-                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"1715",
-                                    "duracion":"2",
-                                    "aula":"691C",
-                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
-                                }]
-                        },
-                        {
                             "codigo":"3",
                             "docente":"ARANIBAR LA FUENTE LIGIA",
                             "horarios":[
@@ -1966,13 +1992,6 @@
                             "docente":"VARGAS PEREDO EMIR FELIX",
                             "horarios":[
                                 {
-                                    "dia":"MA",
-                                    "hora":"945",
-                                    "duracion":"2",
-                                    "aula":"617B",
-                                    "docente":"VARGAS PEREDO EMIR FELIX"
-                                },
-                                {
                                     "dia":"MI",
                                     "hora":"1245",
                                     "duracion":"2",
@@ -1981,23 +2000,9 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"945",
-                                    "duracion":"2",
-                                    "aula":"691E",
-                                    "docente":"VARGAS PEREDO EMIR FELIX"
-                                },
-                                {
-                                    "dia":"JU",
                                     "hora":"1245",
                                     "duracion":"2",
                                     "aula":"642",
-                                    "docente":"VARGAS PEREDO EMIR FELIX"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"945",
-                                    "duracion":"2",
-                                    "aula":"692G",
                                     "docente":"VARGAS PEREDO EMIR FELIX"
                                 },
                                 {
@@ -2610,10 +2615,10 @@
                             "docente":"JAUREGUI CARRASCO MARIA IVONNE",
                             "horarios":[
                                 {
-                                    "dia":"MI",
+                                    "dia":"VI",
                                     "hora":"815",
                                     "duracion":"3",
-                                    "aula":"631",
+                                    "aula":"635",
                                     "docente":"JAUREGUI CARRASCO MARIA IVONNE"
                                 }]
                         }]
@@ -2646,8 +2651,8 @@
                             "docente":"GUZMAN ORELLANA GONZALO ENRIQUE",
                             "horarios":[
                                 {
-                                    "dia":"LU",
-                                    "hora":"1245",
+                                    "dia":"MA",
+                                    "hora":"945",
                                     "duracion":"2",
                                     "aula":"635",
                                     "docente":"GUZMAN ORELLANA GONZALO ENRIQUE"
