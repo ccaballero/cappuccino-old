@@ -147,7 +147,7 @@ var Tablero=new(function(){
             grupo=Horario.horarios[i][1]
             color='color'+((i+1)%9)
             this.renderHorarios(materia,grupo,color)
-            this.joinCeldas()
+//            this.joinCeldas()
         }
     }
     this.renderHorarios=function(materia,grupo,color){
