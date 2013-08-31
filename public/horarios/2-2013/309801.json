@@ -307,7 +307,7 @@
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"624",
-                                    "docente":"Por Designar ..."
+                                    "docente":"GUARACHI MORALES LIMBERT"
                                 }]
                         },
                         {
@@ -358,7 +358,7 @@
                                     "dia":"VI",
                                     "hora":"815",
                                     "duracion":"2",
-                                    "aula":"690D",
+                                    "aula":"691C",
                                     "docente":"OMONTE OJALVO JOSE GIL"
                                 }]
                         }]
@@ -2570,7 +2570,7 @@
                                     "dia":"MA",
                                     "hora":"1845",
                                     "duracion":"2",
-                                    "aula":"INDDEP",
+                                    "aula":"635",
                                     "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
                                 },
                                 {
@@ -2680,6 +2680,18 @@
                                     "duracion":"2",
                                     "aula":"635",
                                     "docente":"VARGAS REINAGA JUAN CARLOS"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"GARCIA MOLINA JUAN RUBEN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":"GARCIA MOLINA JUAN RUBEN"
                                 }]
                         }]
                 }]

@@ -480,7 +480,7 @@
                                     "hora":"1245",
                                     "duracion":"2",
                                     "aula":"692F",
-                                    "docente":"Por Designar ..."
+                                    "docente":"FLORES TABOADA DANNY ARIEL"
                                 },
                                 {
                                     "dia":"VI",
@@ -623,18 +623,18 @@
                                     "docente":"PEREZ PEREDO YURI GERMAN"
                                 },
                                 {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"645",
                                     "duracion":"2",
                                     "aula":"668",
                                     "docente":"ESPINOZA OROSCO JOSE"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"815",
-                                    "duracion":"2",
-                                    "aula":"617C",
-                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
                                 },
                                 {
                                     "dia":"VI",
@@ -1499,28 +1499,28 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"Por Designar ...",
+                            "docente":"FLORES FLORES FREDDY",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"622",
-                                    "docente":"Por Designar ..."
+                                    "docente":"FLORES FLORES FREDDY"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"1715",
                                     "duracion":"2",
                                     "aula":"690B",
-                                    "docente":"Por Designar ..."
+                                    "docente":"FLORES FLORES FREDDY"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1715",
                                     "duracion":"2",
                                     "aula":"617C",
-                                    "docente":"Por Designar ..."
+                                    "docente":"FLORES FLORES FREDDY"
                                 }]
                         }]
                 },
@@ -1619,7 +1619,7 @@
                                     "dia":"JU",
                                     "hora":"1845",
                                     "duracion":"2",
-                                    "aula":"619A",
+                                    "aula":"619",
                                     "docente":"CAMACHO VILLARROEL ARTURO"
                                 },
                                 {
@@ -1910,7 +1910,7 @@
                                     "dia":"JU",
                                     "hora":"645",
                                     "duracion":"2",
-                                    "aula":"675",
+                                    "aula":"667B",
                                     "docente":"CAMACHO VILLARROEL ARTURO"
                                 }]
                         },
@@ -2219,7 +2219,7 @@
                                     "dia":"LU",
                                     "hora":"1715",
                                     "duracion":"2",
-                                    "aula":"631",
+                                    "aula":"671B",
                                     "docente":"BUTRON GANDARILLAS FERNANDO"
                                 }]
                         },

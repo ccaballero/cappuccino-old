@@ -111,10 +111,21 @@ var Events=new(function(){
         }
     }
     this.preview=function(){
-        $('#options').hide('slow')
-        $('.tools').addClass('preview')
-        $('footer').hide('slow')
-        $('#schedule').addClass('preview')
+        if($('#schedule').hasClass('preview')){
+            $('#options').show('slow')
+            $('.tools').removeClass('preview')
+            $('footer').show('slow')
+            $('#schedule').removeClass('preview')
+        }
+        else{
+            $('#options').hide('slow')
+            $('.tools').addClass('preview')
+            $('footer').hide('slow')
+            $('#schedule').addClass('preview')
+        }
+    }
+    this.print=function(){
+        window.print()
     }
 })()
 
@@ -247,6 +258,7 @@ $(document).ready(function(){
         Render.renderCarreras()
     })
     $('header h1').append(' :: gestión: '+Config.gestion)
-    $('.preview').click(Events.preview)
+    $('a.preview').click(Events.preview)
+    $('a.print').click(Events.print)
     Tablero.repaint()
 })

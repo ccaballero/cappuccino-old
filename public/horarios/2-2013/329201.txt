@@ -1,15 +1,15 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:A
 Nombre del Docente
@@ -290,7 +290,7 @@ PATINO TITO RONALD EDGAR
 
 3
 
-MI 1415-1545(692E)
+MI 945-1115(617)
 
 PATINO TITO RONALD EDGAR
 
@@ -372,7 +372,7 @@ HOEPFNER REYNOLDS MAURICIO
 
 VI 815-945(617B)
 
-Por Designar ...
+ORELLANA LUPI CELSO ROBERTO
 
 (*) 2008054 CALCULO I
 2008054 CALCULO I
@@ -381,7 +381,7 @@ Por Designar ...
 
 MA 945-1115(622)
 
-Por Designar ...
+MONTA¥O MEDRANO RICHARD
 
 2
 
@@ -453,16 +453,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:B
 Nombre del Docente
@@ -609,7 +609,7 @@ TAYLOR TERRAZAS DARLONG HOWARD
 
 VI 1115-1245(622)
 
-Por Designar ...
+RUIZ CONDORI TARIK
 
 2008022 ALGEBRA II
 
@@ -855,16 +855,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:C
 Nombre del Docente
@@ -1211,16 +1211,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:D
 Nombre del Docente
@@ -1465,14 +1465,6 @@ DUCHEN AYALA JORGE MARTIN
 
 3
 
-MI 1415-1545(625C)
-
-VILLAZON GOMEZ MAURICIO FLORENCIO
-
-2012060 ANALISIS NUMERICO
-
-3
-
 JU 1245-1415(617C)
 
 VILLAZON GOMEZ MAURICIO FLORENCIO
@@ -1481,7 +1473,7 @@ VILLAZON GOMEZ MAURICIO FLORENCIO
 
 3
 
-VI 1415-1545(625C)
+VI 1245-1545(692G)
 
 VILLAZON GOMEZ MAURICIO FLORENCIO
 
@@ -1493,16 +1485,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:E
 Nombre del Docente
@@ -1582,7 +1574,7 @@ MARTINEZ ARCE ARIEL
 
 2
 
-MI 1245-1415(625C)
+JU 1415-1715(617C)
 
 VILLAZON GOMEZ MAURICIO FLORENCIO
 
@@ -1590,15 +1582,7 @@ VILLAZON GOMEZ MAURICIO FLORENCIO
 
 2
 
-JU 1415-1545(617C)
-
-VILLAZON GOMEZ MAURICIO FLORENCIO
-
-2012008 HIDRAULICA I
-
-2
-
-VI 1245-1415(642)
+VI 1115-1245(692C)
 
 VILLAZON GOMEZ MAURICIO FLORENCIO
 
@@ -1681,14 +1665,13 @@ LEDEZMA MIRANDA VITO
 MA 1715-1845(MAGCIV)
 
 LEDEZMA MIRANDA VITO
+LEDEZMA MIRANDA VITO
 
 2012009 GEODESIA Y FOTOGRAMETRIA
 
 3
 
 VI 1715-1845(MAGCIV)
-
-LEDEZMA MIRANDA VITO
 
 2012010 GEOG. Y DEF. DE LOS RECURSOS NATURALES
 
@@ -1778,16 +1761,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:F
 Nombre del Docente
@@ -1969,7 +1952,7 @@ HEREDIA SOLIZ WILSON
 
 2
 
-VI 645-815(691D)
+JU 2015-2145(691B)
 
 HEREDIA SOLIZ WILSON
 
@@ -1977,7 +1960,7 @@ HEREDIA SOLIZ WILSON
 
 2
 
-SA 945-1115(693A)
+VI 645-815(691D)
 
 HEREDIA SOLIZ WILSON
 
@@ -2037,16 +2020,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:G
 Nombre del Docente
@@ -2279,7 +2262,7 @@ SALINAS PEREIRA LUIS MAURICIO
 
 1
 
-JU 815-945(692B)
+JU 815-945(691A)
 
 SALINAS PEREIRA LUIS MAURICIO
 
@@ -2299,16 +2282,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:H
 Nombre del Docente
@@ -2469,7 +2452,7 @@ SALINAS PEREIRA LUIS MAURICIO
 
 2
 
-JU 945-1115(691C)
+JU 945-1115(691E)
 
 SALINAS PEREIRA LUIS MAURICIO
 
@@ -2585,16 +2568,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:I
 Nombre del Docente
@@ -2823,16 +2806,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA CIVIL(329201)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:J
 Nombre del Docente
@@ -2985,7 +2968,7 @@ AYLLON ACOSTA JAIME
 
 1
 
-MA 1415-1545(692G)
+MA 1415-1545(MAGCIV)
 
 AYLLON ACOSTA JAIME
 
@@ -3001,7 +2984,7 @@ AYLLON ACOSTA JAIME
 
 1
 
-LU 2015-2145(691B)
+MA 2015-2145(691F)
 
 LAZARTE VILLARROEL LUIS
 
@@ -3009,7 +2992,7 @@ LAZARTE VILLARROEL LUIS
 
 1
 
-MA 2015-2145(691F)
+MI 2015-2145(691B)
 
 LAZARTE VILLARROEL LUIS
 

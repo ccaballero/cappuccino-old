@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -274,7 +274,7 @@ FLORES GARCIA HERNAN
 
 VI 815-945(624)
 
-Por Designar ...
+GUARACHI MORALES LIMBERT
 
 2008054 CALCULO I
 
@@ -320,7 +320,7 @@ OMONTE OJALVO JOSE GIL
 
 6
 
-VI 815-945(690D)
+VI 815-945(691C)
 
 OMONTE OJALVO JOSE GIL
 
@@ -404,7 +404,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -644,7 +644,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -914,7 +914,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -1063,7 +1063,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -1314,7 +1314,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -1591,7 +1591,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -1851,7 +1851,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -2055,7 +2055,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -2204,7 +2204,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INDUSTRIAL(309801)
 SisMat
@@ -2277,7 +2277,7 @@ MAGARI¥OS VILLARROEL MABEL GLORIA
 
 3
 
-MA 1845-2015(INDDEP)
+MA 1845-2015(635)
 
 MAGARI¥OS VILLARROEL MABEL GLORIA
 
@@ -2352,6 +2352,14 @@ GUZMAN ORELLANA GONZALO ENRIQUE
 MI 1415-1545(635)
 
 VARGAS REINAGA JUAN CARLOS
+
+2016090 PRACTICA EMPRESARIAL
+
+2
+
+MA 1245-1415(644A)
+
+GARCIA MOLINA JUAN RUBEN
 
 Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
 

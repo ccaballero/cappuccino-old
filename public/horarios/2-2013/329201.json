@@ -318,9 +318,9 @@
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1415",
+                                    "hora":"945",
                                     "duracion":"2",
-                                    "aula":"692E",
+                                    "aula":"617",
                                     "docente":"PATINO TITO RONALD EDGAR"
                                 },
                                 {
@@ -411,7 +411,7 @@
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"617B",
-                                    "docente":"Por Designar ..."
+                                    "docente":"ORELLANA LUPI CELSO ROBERTO"
                                 }]
                         },
                         {
@@ -423,7 +423,7 @@
                                     "hora":"945",
                                     "duracion":"2",
                                     "aula":"622",
-                                    "docente":"Por Designar ..."
+                                    "docente":"MONTA\u00d1O MEDRANO RICHARD"
                                 },
                                 {
                                     "dia":"JU",
@@ -659,7 +659,7 @@
                                     "hora":"1115",
                                     "duracion":"2",
                                     "aula":"622",
-                                    "docente":"Por Designar ..."
+                                    "docente":"RUIZ CONDORI TARIK"
                                 }]
                         }]
                 },
@@ -1639,13 +1639,6 @@
                             "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO",
                             "horarios":[
                                 {
-                                    "dia":"MI",
-                                    "hora":"1415",
-                                    "duracion":"2",
-                                    "aula":"625C",
-                                    "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
-                                },
-                                {
                                     "dia":"JU",
                                     "hora":"1245",
                                     "duracion":"2",
@@ -1654,9 +1647,9 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1415",
-                                    "duracion":"2",
-                                    "aula":"625C",
+                                    "hora":"1245",
+                                    "duracion":"4",
+                                    "aula":"692G",
                                     "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
                                 }]
                         }]
@@ -1757,24 +1750,17 @@
                             "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO",
                             "horarios":[
                                 {
-                                    "dia":"MI",
-                                    "hora":"1245",
-                                    "duracion":"2",
-                                    "aula":"625C",
-                                    "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
-                                },
-                                {
                                     "dia":"JU",
                                     "hora":"1415",
-                                    "duracion":"2",
+                                    "duracion":"4",
                                     "aula":"617C",
                                     "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1245",
+                                    "hora":"1115",
                                     "duracion":"2",
-                                    "aula":"642",
+                                    "aula":"692C",
                                     "docente":"VILLAZON GOMEZ MAURICIO FLORENCIO"
                                 }]
                         },
@@ -1877,7 +1863,7 @@
                                     "hora":"1715",
                                     "duracion":"2",
                                     "aula":"MAGCIV",
-                                    "docente":"LEDEZMA MIRANDA VITO"
+                                    "docente":""
                                 }]
                         }]
                 },
@@ -2198,17 +2184,17 @@
                                     "docente":"HEREDIA SOLIZ WILSON"
                                 },
                                 {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"HEREDIA SOLIZ WILSON"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"645",
                                     "duracion":"2",
                                     "aula":"691D",
-                                    "docente":"HEREDIA SOLIZ WILSON"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"945",
-                                    "duracion":"2",
-                                    "aula":"693A",
                                     "docente":"HEREDIA SOLIZ WILSON"
                                 }]
                         }]
@@ -2557,7 +2543,7 @@
                                     "dia":"JU",
                                     "hora":"815",
                                     "duracion":"2",
-                                    "aula":"692B",
+                                    "aula":"691A",
                                     "docente":"SALINAS PEREIRA LUIS MAURICIO"
                                 },
                                 {
@@ -2768,7 +2754,7 @@
                                     "dia":"JU",
                                     "hora":"945",
                                     "duracion":"2",
-                                    "aula":"691C",
+                                    "aula":"691E",
                                     "docente":"SALINAS PEREIRA LUIS MAURICIO"
                                 },
                                 {
@@ -3374,7 +3360,7 @@
                                     "dia":"MA",
                                     "hora":"1415",
                                     "duracion":"2",
-                                    "aula":"692G",
+                                    "aula":"MAGCIV",
                                     "docente":"AYLLON ACOSTA JAIME"
                                 },
                                 {
@@ -3395,17 +3381,17 @@
                             "docente":"LAZARTE VILLARROEL LUIS",
                             "horarios":[
                                 {
-                                    "dia":"LU",
-                                    "hora":"2015",
-                                    "duracion":"2",
-                                    "aula":"691B",
-                                    "docente":"LAZARTE VILLARROEL LUIS"
-                                },
-                                {
                                     "dia":"MA",
                                     "hora":"2015",
                                     "duracion":"2",
                                     "aula":"691F",
+                                    "docente":"LAZARTE VILLARROEL LUIS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691B",
                                     "docente":"LAZARTE VILLARROEL LUIS"
                                 },
                                 {

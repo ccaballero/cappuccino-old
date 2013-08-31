@@ -492,12 +492,12 @@
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"692B",
-                                    "docente":"Por Designar ..."
+                                    "docente":"DAMIAN LORENZO CESILIO"
                                 }]
                         },
                         {
                             "codigo":"9",
-                            "docente":"Por Designar ...",
+                            "docente":"JIMENEZ ZABALAGA PABLO ADOLFO",
                             "horarios":[
                                 {
                                     "dia":"LU",
@@ -518,7 +518,7 @@
                                     "hora":"645",
                                     "duracion":"2",
                                     "aula":"692B",
-                                    "docente":"Por Designar ..."
+                                    "docente":"JIMENEZ ZABALAGA PABLO ADOLFO"
                                 }]
                         }]
                 },
@@ -944,7 +944,7 @@
                                     "dia":"VI",
                                     "hora":"945",
                                     "duracion":"2",
-                                    "aula":"617C",
+                                    "aula":"612",
                                     "docente":"CARRASCO CALVO ALVARO HERNANDO"
                                 }]
                         }]
@@ -1468,18 +1468,18 @@
                             "docente":"ARISPE SANTANDER WALTER",
                             "horarios":[
                                 {
-                                    "dia":"MA",
-                                    "hora":"1715",
+                                    "dia":"LU",
+                                    "hora":"1845",
                                     "duracion":"2",
-                                    "aula":"672",
-                                    "docente":"ACHA PEREZ SAMUEL"
+                                    "aula":"692G",
+                                    "docente":"ARISPE SANTANDER WALTER"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1845",
-                                    "duracion":"2",
-                                    "aula":"668",
-                                    "docente":"ARISPE SANTANDER WALTER"
+                                    "hora":"1715",
+                                    "duracion":"3",
+                                    "aula":"672",
+                                    "docente":"ACHA PEREZ SAMUEL"
                                 },
                                 {
                                     "dia":"MI",
@@ -1920,10 +1920,10 @@
                             "docente":"TRIVENO HERRERA PEDRO",
                             "horarios":[
                                 {
-                                    "dia":"SA",
-                                    "hora":"815",
+                                    "dia":"JU",
+                                    "hora":"2015",
                                     "duracion":"2",
-                                    "aula":"690B",
+                                    "aula":"692H",
                                     "docente":"TRIVENO HERRERA PEDRO"
                                 }]
                         }]

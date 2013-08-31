@@ -323,7 +323,7 @@
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"617B",
-                                    "docente":"Por Designar ..."
+                                    "docente":"GOMEZ VENTURA JORGE LUIS"
                                 }]
                         }]
                 },
@@ -579,7 +579,7 @@
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"691D",
-                                    "docente":"Por Designar ..."
+                                    "docente":"FLORES TABOADA DANNY ARIEL"
                                 }]
                         },
                         {
@@ -1627,7 +1627,7 @@
                                     "dia":"MA",
                                     "hora":"815",
                                     "duracion":"2",
-                                    "aula":"690D",
+                                    "aula":"692H",
                                     "docente":"SORUCO MAITA JOSE ANTONIO"
                                 },
                                 {
@@ -1655,18 +1655,18 @@
                             "docente":"ARISPE SANTANDER WALTER",
                             "horarios":[
                                 {
-                                    "dia":"MA",
-                                    "hora":"1715",
+                                    "dia":"LU",
+                                    "hora":"1845",
                                     "duracion":"2",
-                                    "aula":"672",
-                                    "docente":"ACHA PEREZ SAMUEL"
+                                    "aula":"692G",
+                                    "docente":"ARISPE SANTANDER WALTER"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1845",
-                                    "duracion":"2",
-                                    "aula":"668",
-                                    "docente":"ARISPE SANTANDER WALTER"
+                                    "hora":"1715",
+                                    "duracion":"3",
+                                    "aula":"672",
+                                    "docente":"ACHA PEREZ SAMUEL"
                                 },
                                 {
                                     "dia":"MI",
@@ -2040,13 +2040,6 @@
                             "docente":"VARGAS PEREDO EMIR FELIX",
                             "horarios":[
                                 {
-                                    "dia":"MA",
-                                    "hora":"945",
-                                    "duracion":"2",
-                                    "aula":"617B",
-                                    "docente":"VARGAS PEREDO EMIR FELIX"
-                                },
-                                {
                                     "dia":"MI",
                                     "hora":"1245",
                                     "duracion":"2",
@@ -2055,23 +2048,9 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"945",
-                                    "duracion":"2",
-                                    "aula":"691E",
-                                    "docente":"VARGAS PEREDO EMIR FELIX"
-                                },
-                                {
-                                    "dia":"JU",
                                     "hora":"1245",
                                     "duracion":"2",
                                     "aula":"642",
-                                    "docente":"VARGAS PEREDO EMIR FELIX"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"945",
-                                    "duracion":"2",
-                                    "aula":"692G",
                                     "docente":"VARGAS PEREDO EMIR FELIX"
                                 },
                                 {

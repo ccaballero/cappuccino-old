@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN QUIMICA(389701)
 SisMat
@@ -8,9 +8,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:A
 Nombre del Docente
@@ -259,7 +259,7 @@ GONZALES CASTELLON CARLOS ESTEBAN
 
 VI 1545-1715(617B)
 
-Por Designar ...
+GOMEZ VENTURA JORGE LUIS
 
 (*) 2008237 ALGEBRA LINEAL Y TEORIA MATRICIAL
 2008237 ALGEBRA LINEAL Y TEORIA MATRICIAL
@@ -316,7 +316,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN QUIMICA(389701)
 SisMat
@@ -324,9 +324,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:B
 Nombre del Docente
@@ -505,7 +505,7 @@ CUPE CLEMENTE GUALBERTO
 
 SA 815-945(691D)
 
-Por Designar ...
+FLORES TABOADA DANNY ARIEL
 
 (*) 2008056 CALCULO II
 2008056 CALCULO II
@@ -538,7 +538,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN QUIMICA(389701)
 SisMat
@@ -546,9 +546,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:C
 Nombre del Docente
@@ -760,15 +760,13 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN QUIMICA(389701)
 SisMat
 Nombre Materia
 
 Grupo
-
-Facultad de Ciencias y Tecnología-UMSS
 
 Horario
 
@@ -777,6 +775,8 @@ Horario
 1
 
 LU 1415-1845(615)
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:D
 Nombre del Docente
@@ -888,7 +888,7 @@ VISCARRA VARGAS MARCO ANTONIO
 
 1
 
-JU 945-1115(621A)
+JU 945-1115(619)
 
 VISCARRA VARGAS MARCO ANTONIO
 
@@ -924,7 +924,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN QUIMICA(389701)
 SisMat
@@ -1111,7 +1111,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN QUIMICA(389701)
 SisMat
@@ -1119,9 +1119,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:F
 Nombre del Docente
@@ -1182,7 +1182,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN QUIMICA(389701)
 SisMat
@@ -1190,9 +1190,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:G
 Nombre del Docente
@@ -1261,7 +1261,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN QUIMICA(389701)
 SisMat
@@ -1273,10 +1273,10 @@ Grupo
 
 1
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
 MI 1415-1545(614)
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:H
 Nombre del Docente

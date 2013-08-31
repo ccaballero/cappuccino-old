@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat
@@ -313,7 +313,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat
@@ -435,7 +435,7 @@ MEDINA GAMBOA JULIO
 
 VI 1545-1715(692B)
 
-Por Designar ...
+DAMIAN LORENZO CESILIO
 
 2008022 ALGEBRA II
 
@@ -459,7 +459,7 @@ CHOQUE CRUZ JOAQUIN
 MI 645-815(692B)
 
 LEON ROMERO RUPERTO
-Por Designar ...
+JIMENEZ ZABALAGA PABLO ADOLFO
 
 (*) 2008048 ESTADISTICA
 2008048 ESTADISTICA
@@ -586,7 +586,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat
@@ -797,7 +797,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat
@@ -830,7 +830,7 @@ CARRASCO CALVO ALVARO HERNANDO
 
 2
 
-VI 945-1115(617C)
+VI 945-1115(612)
 
 CARRASCO CALVO ALVARO HERNANDO
 
@@ -1010,7 +1010,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat
@@ -1271,7 +1271,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat
@@ -1284,22 +1284,22 @@ Facultad de Ciencias y Tecnología-UMSS
 Nivel de Estudios:F
 Nombre del Docente
 
+2014087 ELECTROTECNIA INDUSTRIAL
+
+4
+
+LU 1845-2015(692G)
+
+ARISPE SANTANDER WALTER
+
 (*) 2014087 ELECTROTECNIA INDUSTRIAL
 2014087 ELECTROTECNIA INDUSTRIAL
 
 4
 
-MA 1715-1845(672)
+MA 1715-1930(672)
 
 ACHA PEREZ SAMUEL
-
-4
-
-MA 1845-2015(668)
-
-ARISPE SANTANDER WALTER
-
-2014087 ELECTROTECNIA INDUSTRIAL
 
 4
 
@@ -1451,7 +1451,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat
@@ -1576,7 +1576,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat
@@ -1665,7 +1665,7 @@ TRIVENO HERRERA PEDRO
 
 2
 
-SA 815-945(690B)
+JU 2015-2145(692H)
 
 TRIVENO HERRERA PEDRO
 
@@ -1693,7 +1693,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat
@@ -1880,7 +1880,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA MECANICA(319801)
 SisMat

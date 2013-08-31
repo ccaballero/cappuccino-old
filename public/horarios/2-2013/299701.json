@@ -485,7 +485,7 @@
                                     "hora":"1245",
                                     "duracion":"2",
                                     "aula":"692F",
-                                    "docente":"Por Designar ..."
+                                    "docente":"FLORES TABOADA DANNY ARIEL"
                                 },
                                 {
                                     "dia":"VI",
@@ -571,18 +571,18 @@
                                     "docente":"PEREZ PEREDO YURI GERMAN"
                                 },
                                 {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"645",
                                     "duracion":"2",
                                     "aula":"668",
                                     "docente":"ESPINOZA OROSCO JOSE"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"815",
-                                    "duracion":"2",
-                                    "aula":"617C",
-                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
                                 },
                                 {
                                     "dia":"VI",
@@ -2005,7 +2005,7 @@
                                     "docente":"SOLIZ MARTINEZ RENE FERNANDO"
                                 },
                                 {
-                                    "dia":"MI",
+                                    "dia":"MA",
                                     "hora":"2015",
                                     "duracion":"2",
                                     "aula":"690B",

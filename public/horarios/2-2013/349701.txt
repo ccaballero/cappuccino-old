@@ -1,15 +1,15 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN MATEMATICAS(349701)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:A
 Nombre del Docente
@@ -158,19 +158,35 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN MATEMATICAS(349701)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:B
 Nombre del Docente
+
+1803006 INGLES II
+
+1
+
+MA 815-945(690D)
+
+CLAURE RICHARD PATRICIA ANGELICA
+
+1803006 INGLES II
+
+1
+
+VI 815-945(690D)
+
+CLAURE RICHARD PATRICIA ANGELICA
 
 2008055 ALGEBRA LINEAL
 
@@ -211,7 +227,7 @@ MARTINEZ MAIDA AMILCAR SAUL
 
 MI 1245-1415(692F)
 
-Por Designar ...
+FLORES TABOADA DANNY ARIEL
 
 3
 
@@ -267,16 +283,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN MATEMATICAS(349701)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:C
 Nombre del Docente
@@ -376,16 +392,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN MATEMATICAS(349701)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:D
 Nombre del Docente
@@ -441,7 +457,7 @@ SORUCO MAITA JOSE ANTONIO
 
 1
 
-LU 1715-1845(625D)
+LU 815-945(617B)
 
 MULLER SANTA CRUZ HANS CRISTIAN
 
@@ -449,7 +465,7 @@ MULLER SANTA CRUZ HANS CRISTIAN
 
 1
 
-MI 1715-1845(625D)
+MI 815-945(LABMAT)
 
 MULLER SANTA CRUZ HANS CRISTIAN
 
@@ -493,16 +509,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN MATEMATICAS(349701)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:F
 Nombre del Docente
@@ -603,16 +619,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN MATEMATICAS(349701)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:G
 Nombre del Docente
@@ -671,23 +687,15 @@ Por Designar ...
 
 LU 815-945(625C)
 
-ZEGARRA DORADO LUIS ROBERTO
-
-2008242 FUNCIONES ESPECIALES
-
-1
-
-MI 815-900(692G)
-
 CARRASCO CALVO ALVARO HERNANDO
 
 2008242 FUNCIONES ESPECIALES
 
 1
 
-MI 900-945(692G)
+MI 815-945(692G)
 
-ZEGARRA DORADO LUIS ROBERTO
+CARRASCO CALVO ALVARO HERNANDO
 
 Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
 
@@ -697,16 +705,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN MATEMATICAS(349701)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:H
 Nombre del Docente
@@ -727,6 +735,22 @@ VI 1845-2015(617C)
 
 RELOS PACO SANTIAGO
 
+2008110 TEORIA DE LA MEDIDA
+
+1
+
+MA 815-945(LABMAT)
+
+CUPE CLEMENTE GUALBERTO
+
+2008110 TEORIA DE LA MEDIDA
+
+1
+
+VI 815-945(625D)
+
+CUPE CLEMENTE GUALBERTO
+
 Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
 
 Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
@@ -735,16 +759,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN MATEMATICAS(349701)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:I
 Nombre del Docente
@@ -789,16 +813,16 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN MATEMATICAS(349701)
 SisMat
 Nombre Materia
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:J
 Nombre del Docente
@@ -823,7 +847,7 @@ MARTINEZ MAIDA AMILCAR SAUL
 
 1
 
-JU 1545-1715(625D)
+JU 1715-1845(LABMAT)
 
 CUPE CLEMENTE GUALBERTO
 
@@ -831,7 +855,7 @@ CUPE CLEMENTE GUALBERTO
 
 1
 
-VI 945-1115(LABMAT)
+VI 1115-1245(LABMAT)
 
 CUPE CLEMENTE GUALBERTO
 

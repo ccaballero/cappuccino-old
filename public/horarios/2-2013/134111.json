@@ -914,7 +914,7 @@
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"693D",
-                                    "docente":"ULUNQUE AGUILAR GEDSON FERNANDO"
+                                    "docente":"LUPA CRUZ LUZ MARIA"
                                 }]
                         }]
                 },
@@ -2369,6 +2369,30 @@
                         }]
                 },
                 {
+                    "codigo":"2010181",
+                    "nombre":"TELECOMUNICACION I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MONTOYA BURGOS YONY RICHARD",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                }]
+                        }]
+                },
+                {
                     "codigo":"2010188",
                     "nombre":"SERVICIOS TELEMATICOS",
                     "grupos":[
@@ -2527,6 +2551,30 @@
                                     "duracion":"2",
                                     "aula":"692A",
                                     "docente":"CALANCHA NAVIA BORIS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010176",
+                    "nombre":"PROGRAMACION DE SISTEMAS PARALELOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MONTOYA BURGOS YONY RICHARD",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
                                 }]
                         }]
                 },

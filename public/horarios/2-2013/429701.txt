@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat
@@ -329,7 +329,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat
@@ -429,7 +429,7 @@ MARTINEZ MAIDA AMILCAR SAUL
 
 MI 1245-1415(692F)
 
-Por Designar ...
+FLORES TABOADA DANNY ARIEL
 
 3
 
@@ -552,15 +552,15 @@ PEREZ PEREDO YURI GERMAN
 
 1
 
-VI 645-815(668)
+MA 1715-1845(692G)
 
-ESPINOZA OROSCO JOSE
+VICTORIA ANTEZANA ALVARO EMILIO
 
 1
 
-VI 815-945(617C)
+VI 645-815(668)
 
-VICTORIA ANTEZANA ALVARO EMILIO
+ESPINOZA OROSCO JOSE
 
 2014002 CIRCUITOS ELECTRICOS I
 
@@ -632,7 +632,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat
@@ -872,7 +872,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat
@@ -1138,7 +1138,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat
@@ -1338,7 +1338,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat
@@ -1357,7 +1357,7 @@ Nombre del Docente
 
 LU 1545-1715(622)
 
-Por Designar ...
+FLORES FLORES FREDDY
 
 2006012 FISICA MODERNA
 
@@ -1365,7 +1365,7 @@ Por Designar ...
 
 MA 1715-1845(690B)
 
-Por Designar ...
+FLORES FLORES FREDDY
 
 2006012 FISICA MODERNA
 
@@ -1373,7 +1373,7 @@ Por Designar ...
 
 JU 1715-1845(617C)
 
-Por Designar ...
+FLORES FLORES FREDDY
 
 2010005 TALLER DE PROGRAMACION EN BAJO NIVEL
 
@@ -1449,7 +1449,7 @@ Por Designar ...
 
 1
 
-JU 1845-2015(619A)
+JU 1845-2015(619)
 
 CAMACHO VILLARROEL ARTURO
 
@@ -1517,7 +1517,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat
@@ -1711,7 +1711,7 @@ VEIZAGA TORRICO ALEJANDRO
 
 1
 
-JU 645-815(675)
+JU 645-815(667B)
 
 CAMACHO VILLARROEL ARTURO
 
@@ -1739,7 +1739,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat
@@ -1885,7 +1885,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat
@@ -1974,7 +1974,7 @@ GUZMAN RIOS GONZALO
 
 4
 
-LU 1715-1845(631)
+LU 1715-1845(671B)
 
 BUTRON GANDARILLAS FERNANDO
 
@@ -2072,7 +2072,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTRONICA(429701)
 SisMat

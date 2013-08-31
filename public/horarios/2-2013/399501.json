@@ -11,21 +11,21 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"ROCABADO ROJAS LENNY",
+                            "docente":"CESPEDES GUIZADA MARIA BENITA",
                             "horarios":[
                                 {
-                                    "dia":"MA",
-                                    "hora":"945",
+                                    "dia":"MI",
+                                    "hora":"645",
                                     "duracion":"2",
                                     "aula":"690A",
-                                    "docente":"ROCABADO ROJAS LENNY"
+                                    "docente":"CESPEDES GUIZADA MARIA BENITA"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"645",
                                     "duracion":"2",
                                     "aula":"608B",
-                                    "docente":"ROCABADO ROJAS LENNY"
+                                    "docente":"CESPEDES GUIZADA MARIA BENITA"
                                 }]
                         }]
                 },
@@ -1139,10 +1139,10 @@
                                     "docente":"HIDALGO SANCHEZ MARY ISABEL"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1845",
+                                    "dia":"MA",
+                                    "hora":"645",
                                     "duracion":"3",
-                                    "aula":"608",
+                                    "aula":"608B",
                                     "docente":"HIDALGO SANCHEZ MARY ISABEL"
                                 }]
                         }]

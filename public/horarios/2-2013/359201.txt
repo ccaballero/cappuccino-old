@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -8,9 +8,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:A
 Nombre del Docente
@@ -118,7 +118,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -126,28 +126,12 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:B
 Nombre del Docente
-
-1803010 INGLES I
-
-1
-
-MA 815-945(692G)
-
-CESPEDES GUIZADA MARIA BENITA
-
-1803010 INGLES I
-
-1
-
-JU 945-1115(692A)
-
-CESPEDES GUIZADA MARIA BENITA
 
 2004046 QUIMICA GENERAL
 
@@ -219,7 +203,7 @@ CUPE CLEMENTE GUALBERTO
 
 SA 815-945(691D)
 
-Por Designar ...
+FLORES TABOADA DANNY ARIEL
 
 2008240 ALGEBRA LINEAL Y MATRICIAL
 
@@ -253,7 +237,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -261,9 +245,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:C
 Nombre del Docente
@@ -272,7 +256,7 @@ Nombre del Docente
 
 1
 
-VI 815-945(691C)
+MA 815-945(690D)
 
 CLAURE RICHARD PATRICIA ANGELICA
 
@@ -378,7 +362,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -386,9 +370,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:D
 Nombre del Docente
@@ -436,7 +420,7 @@ VISCARRA VARGAS MARCO ANTONIO
 
 1
 
-JU 945-1115(621A)
+JU 945-1115(619)
 
 VISCARRA VARGAS MARCO ANTONIO
 
@@ -488,7 +472,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -496,9 +480,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:E
 Nombre del Docente
@@ -539,7 +523,7 @@ AGREDA CORRALES LUIS ROBERTO
 
 1
 
-LU 1545-1715(FISCOM)
+MA 945-1115(FISCOM)
 
 FLORES FLORES FREDDY
 
@@ -547,7 +531,7 @@ FLORES FLORES FREDDY
 
 1
 
-JU 1415-1545(FISCOM)
+VI 1545-1715(FISCOM)
 
 FLORES FLORES FREDDY
 
@@ -583,7 +567,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -591,9 +575,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:F
 Nombre del Docente
@@ -670,7 +654,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -678,9 +662,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:G
 Nombre del Docente
@@ -705,7 +689,7 @@ GUZMAN SAAVEDRA ROCIO
 
 1
 
-JU 1545-1715(621A)
+LU 1545-1715(621A)
 
 GUZMAN SAAVEDRA ROCIO
 
@@ -741,7 +725,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -749,9 +733,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:H
 Nombre del Docente
@@ -760,7 +744,7 @@ Nombre del Docente
 
 1
 
-MA 1245-1415(621A)
+MI 1245-1415(619)
 
 ROJAS SALINAS HUGO
 
@@ -812,7 +796,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -820,9 +804,9 @@ Nombre Materia
 
 Grupo
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:I
 Nombre del Docente
@@ -863,7 +847,7 @@ FUENTES MIRANDA IVAN
 
 1
 
-LU 1415-1545(FISCOM)
+LU 1715-1845(619)
 
 TORRICO TROCHE MILKA MONICA
 
@@ -871,7 +855,7 @@ TORRICO TROCHE MILKA MONICA
 
 1
 
-JU 815-945(619)
+JU 815-945(FISCOM)
 
 TORRICO TROCHE MILKA MONICA
 
@@ -883,7 +867,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN FISICA(359201)
 SisMat
@@ -895,10 +879,10 @@ Grupo
 
 1
 
-Facultad de Ciencias y Tecnología-UMSS
-
 Horario
 JU 815-945(FISDEP)
+
+Facultad de Ciencias y Tecnología-UMSS
 
 Nivel de Estudios:J
 Nombre del Docente

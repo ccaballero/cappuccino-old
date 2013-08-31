@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -410,7 +410,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -724,7 +724,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -807,7 +807,7 @@ HOEPFNER REYNOLDS MAURICIO
 
 JU 1415-1545(693D)
 
-ULUNQUE AGUILAR GEDSON FERNANDO
+LUPA CRUZ LUZ MARIA
 
 2010014 ARQUITECTURA DE COMPUTADORAS II
 
@@ -961,7 +961,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -1174,7 +1174,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -1459,7 +1459,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -1720,7 +1720,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -1853,7 +1853,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -2050,7 +2050,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -2078,6 +2078,22 @@ VILLARROEL NOVILLO JIMMY
 MA 1415-1545(692H)
 
 VILLARROEL NOVILLO JIMMY
+
+2010181 TELECOMUNICACION I
+
+1
+
+LU 2015-2145(692E)
+
+MONTOYA BURGOS YONY RICHARD
+
+2010181 TELECOMUNICACION I
+
+1
+
+MA 2015-2145(693B)
+
+MONTOYA BURGOS YONY RICHARD
 
 2010188 SERVICIOS TELEMATICOS
 
@@ -2151,7 +2167,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA INFORMATICA(134111)
 SisMat
@@ -2211,6 +2227,22 @@ CALANCHA NAVIA BORIS
 JU 1115-1245(692A)
 
 CALANCHA NAVIA BORIS
+
+2010176 PROGRAMACION DE SISTEMAS PARALELOS
+
+1
+
+MA 1715-1845(644A)
+
+MONTOYA BURGOS YONY RICHARD
+
+2010176 PROGRAMACION DE SISTEMAS PARALELOS
+
+1
+
+MI 1245-1415(INFLAB)
+
+MONTOYA BURGOS YONY RICHARD
 
 2010189 RECONOCIMIENTO DE VOZ
 

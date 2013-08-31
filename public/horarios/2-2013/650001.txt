@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat
@@ -290,7 +290,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat
@@ -396,7 +396,7 @@ MEDINA GAMBOA JULIO
 
 VI 1545-1715(692B)
 
-Por Designar ...
+DAMIAN LORENZO CESILIO
 LEON ROMERO RUPERTO
 
 2008022 ALGEBRA II
@@ -427,7 +427,7 @@ LEON ROMERO RUPERTO
 
 LU 1415-1545(642)
 
-Por Designar ...
+JIMENEZ ZABALAGA PABLO ADOLFO
 
 1
 
@@ -547,7 +547,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat
@@ -741,7 +741,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat
@@ -774,7 +774,7 @@ CARRASCO CALVO ALVARO HERNANDO
 
 2
 
-VI 945-1115(617C)
+VI 945-1115(612)
 
 CARRASCO CALVO ALVARO HERNANDO
 
@@ -846,15 +846,15 @@ PEREZ PEREDO YURI GERMAN
 
 1
 
-VI 645-815(668)
+MA 1715-1845(692G)
 
-ESPINOZA OROSCO JOSE
+VICTORIA ANTEZANA ALVARO EMILIO
 
 1
 
-VI 815-945(617C)
+VI 645-815(668)
 
-VICTORIA ANTEZANA ALVARO EMILIO
+ESPINOZA OROSCO JOSE
 
 2014002 CIRCUITOS ELECTRICOS I
 
@@ -998,7 +998,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat
@@ -1340,7 +1340,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat
@@ -1449,7 +1449,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat
@@ -1644,7 +1644,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat
@@ -1798,7 +1798,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat
@@ -1847,7 +1847,7 @@ TRIVENO HERRERA PEDRO
 
 2
 
-SA 815-945(690B)
+JU 2015-2145(692H)
 
 TRIVENO HERRERA PEDRO
 
@@ -1929,6 +1929,30 @@ VI 1845-2100(692F)
 
 ROJAS MONTANO FANOR
 
+2018136 MECATRONICA
+
+1
+
+MI 1715-1845(690C)
+
+ARANCIBIA MIRANDA MARCO ANTONIO
+
+2018136 MECATRONICA
+
+1
+
+JU 1545-1715(690C)
+
+ARANCIBIA MIRANDA MARCO ANTONIO
+
+2018136 MECATRONICA
+
+1
+
+VI 1545-1715(690C)
+
+ARANCIBIA MIRANDA MARCO ANTONIO
+
 Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
 
 Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
@@ -1937,7 +1961,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA ELECTROMECANICA(650001)
 SisMat

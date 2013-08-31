@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -243,11 +243,11 @@ TABORGA ACHA FIDEL
 
 LU 1715-1845(692A)
 
-Por Designar ...
+CHIRI OVIEDO ARIEL ANDRES
 
 6
 
-MI 945-1115(617)
+MI 1115-1245(644)
 
 PATINO TITO RONALD EDGAR
 
@@ -327,7 +327,7 @@ PATINO TITO RONALD EDGAR
 
 JU 815-945(692C)
 
-Por Designar ...
+GUZMAN ZURITA FREDDY MARCOS
 
 2008054 CALCULO I
 
@@ -423,7 +423,7 @@ OMONTE OJALVO JOSE ROBERTO
 
 VI 945-1115(692H)
 
-Por Designar ...
+CHIRI OVIEDO ARIEL ANDRES
 
 2008054 CALCULO I
 
@@ -541,7 +541,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -711,7 +711,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -1007,7 +1007,7 @@ VALLEJO CAMACHO MARCO ANTONIO
 
 VI 1115-1245(692H)
 
-Por Designar ...
+FLORES TABOADA DANNY ARIEL
 
 2010003 ELEM. DE PROGRAMACION Y ESTRUC. DE DATOS
 
@@ -1111,7 +1111,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -1194,7 +1194,7 @@ ROMERO ENCINAS RAUL
 
 JU 645-815(644)
 
-Por Designar ...
+FLORES TABOADA DANNY ARIEL
 CATARI RIOS RAUL
 
 2008058 ECUACIONES DIFERENCIALES
@@ -1433,7 +1433,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -1670,7 +1670,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -1907,7 +1907,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -2128,7 +2128,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -2445,7 +2445,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -2738,7 +2738,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -3031,6 +3031,22 @@ MA 1415-1545(692H)
 
 VILLARROEL NOVILLO JIMMY
 
+2010181 TELECOMUNICACION I
+
+1
+
+LU 2015-2145(692E)
+
+MONTOYA BURGOS YONY RICHARD
+
+2010181 TELECOMUNICACION I
+
+1
+
+MA 2015-2145(693B)
+
+MONTOYA BURGOS YONY RICHARD
+
 2010188 SERVICIOS TELEMATICOS
 
 1
@@ -3055,7 +3071,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA DE SISTEMAS(419701)
 SisMat
@@ -3195,6 +3211,22 @@ AYOROA CARDOZO JOSE RICHARD
 MI 815-945(INFDEP)
 
 AYOROA CARDOZO JOSE RICHARD
+
+2010176 PROGRAMACION DE SISTEMAS PARALELOS
+
+1
+
+MA 1715-1845(644A)
+
+MONTOYA BURGOS YONY RICHARD
+
+2010176 PROGRAMACION DE SISTEMAS PARALELOS
+
+1
+
+MI 1245-1415(INFLAB)
+
+MONTOYA BURGOS YONY RICHARD
 
 2010189 RECONOCIMIENTO DE VOZ
 

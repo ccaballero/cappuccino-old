@@ -116,26 +116,22 @@ footer ul li a:hover {}
     background-color: #748038;
 }
 .tools {
-    right: -4.4em;
+    right: -6em;
     top: 7.0em;
     position: fixed;
-    background-color: #262C0A;
-    color: #F9F9B9;
     transform: rotate(-90deg);
     float: left;
     padding: 0.5em 1.25em;
-    border-radius: 0.5em 0.5em 0em 0em;
-    box-shadow: 0 -3px 10px #748038 inset;
 }
 
-.tools.preview{
-    transform: translate(1.3em) rotate(-90deg);
+.tools.preview ul li{
+    transform: translate(0,0.8em);
     transition: 1s ease-in-out 0.08s;
 }
 
-.tools.preview:hover{
-    transform: translate(-0.25em) rotate(-90deg);
-    transition: 0.5s ease-in-out 0.1s;
+.tools.preview ul li:hover{
+    transform: translate(0,-0.25em);
+    transition: 0.5s ease-in-out 0s;
 }
 
 .tools ul {
@@ -146,6 +142,11 @@ footer ul li a:hover {}
 
 .tools ul li {
     display: inline-block;
+    background-color: #262C0A;
+    color: #F9F9B9;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em 0.5em 0em 0em;
+    box-shadow: 0 -3px 10px #748038 inset;
 }
 
 .tools ul li a {

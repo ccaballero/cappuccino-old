@@ -535,30 +535,6 @@
                                     "docente":"SORUCO MAITA JOSE ANTONIO"
                                 }]
                         }]
-                },
-                {
-                    "codigo":"2008172",
-                    "nombre":"DIDACTICA DE LA CIENCIAS I",
-                    "grupos":[
-                        {
-                            "codigo":"1",
-                            "docente":"CASTRO LAZARTE CECILIA BEATRIZ",
-                            "horarios":[
-                                {
-                                    "dia":"LU",
-                                    "hora":"945",
-                                    "duracion":"2",
-                                    "aula":"FISCOM",
-                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"945",
-                                    "duracion":"2",
-                                    "aula":"619",
-                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
-                                }]
-                        }]
                 }]
         },
         {
@@ -602,17 +578,41 @@
                             "horarios":[
                                 {
                                     "dia":"JU",
-                                    "hora":"1545",
+                                    "hora":"1715",
                                     "duracion":"2",
-                                    "aula":"625D",
+                                    "aula":"LABMAT",
                                     "docente":"CUPE CLEMENTE GUALBERTO"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"945",
+                                    "hora":"1115",
                                     "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"CUPE CLEMENTE GUALBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008178",
+                    "nombre":"DIDACTICA DE LAS CIENCIAS IV",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CASTRO LAZARTE CECILIA BEATRIZ",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
                                 }]
                         }]
                 },

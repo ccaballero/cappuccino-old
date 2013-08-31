@@ -184,6 +184,30 @@
             "codigo":"B",
             "materias":[
                 {
+                    "codigo":"1803006",
+                    "nombre":"INGLES II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CLAURE RICHARD PATRICIA ANGELICA",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"CLAURE RICHARD PATRICIA ANGELICA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"CLAURE RICHARD PATRICIA ANGELICA"
+                                }]
+                        }]
+                },
+                {
                     "codigo":"2008055",
                     "nombre":"ALGEBRA LINEAL",
                     "grupos":[
@@ -234,7 +258,7 @@
                                     "hora":"1245",
                                     "duracion":"2",
                                     "aula":"692F",
-                                    "docente":"Por Designar ..."
+                                    "docente":"FLORES TABOADA DANNY ARIEL"
                                 },
                                 {
                                     "dia":"VI",
@@ -497,16 +521,16 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1715",
+                                    "hora":"815",
                                     "duracion":"2",
-                                    "aula":"625D",
+                                    "aula":"617B",
                                     "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1715",
+                                    "hora":"815",
                                     "duracion":"2",
-                                    "aula":"625D",
+                                    "aula":"LABMAT",
                                     "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
                                 }]
                         }]
@@ -762,28 +786,21 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"ZEGARRA DORADO LUIS ROBERTO",
+                            "docente":"CARRASCO CALVO ALVARO HERNANDO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"625C",
-                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"815",
-                                    "duracion":"1",
-                                    "aula":"692G",
                                     "docente":"CARRASCO CALVO ALVARO HERNANDO"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"900",
-                                    "duracion":"1",
+                                    "hora":"815",
+                                    "duracion":"2",
                                     "aula":"692G",
-                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
+                                    "docente":"CARRASCO CALVO ALVARO HERNANDO"
                                 }]
                         }]
                 }]
@@ -812,6 +829,30 @@
                                     "duracion":"2",
                                     "aula":"617C",
                                     "docente":"RELOS PACO SANTIAGO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008110",
+                    "nombre":"TEORIA DE LA MEDIDA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CUPE CLEMENTE GUALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"625D",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
                                 }]
                         }]
                 }]
@@ -905,14 +946,14 @@
                             "horarios":[
                                 {
                                     "dia":"JU",
-                                    "hora":"1545",
+                                    "hora":"1715",
                                     "duracion":"2",
-                                    "aula":"625D",
+                                    "aula":"LABMAT",
                                     "docente":"CUPE CLEMENTE GUALBERTO"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"945",
+                                    "hora":"1115",
                                     "duracion":"2",
                                     "aula":"LABMAT",
                                     "docente":"CUPE CLEMENTE GUALBERTO"

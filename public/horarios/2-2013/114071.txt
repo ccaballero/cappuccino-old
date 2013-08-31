@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA MATEMATICA(114071)
 SisMat
@@ -149,7 +149,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA MATEMATICA(114071)
 SisMat
@@ -201,7 +201,7 @@ MARTINEZ MAIDA AMILCAR SAUL
 
 MI 1245-1415(692F)
 
-Por Designar ...
+FLORES TABOADA DANNY ARIEL
 MARTINEZ MAIDA AMILCAR SAUL
 
 3
@@ -240,7 +240,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA MATEMATICA(114071)
 SisMat
@@ -357,7 +357,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA MATEMATICA(114071)
 SisMat
@@ -457,7 +457,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA MATEMATICA(114071)
 SisMat
@@ -493,22 +493,6 @@ JU 1545-1715(644A)
 
 SORUCO MAITA JOSE ANTONIO
 
-2008172 DIDACTICA DE LA CIENCIAS I
-
-1
-
-LU 945-1115(FISCOM)
-
-CASTRO LAZARTE CECILIA BEATRIZ
-
-2008172 DIDACTICA DE LA CIENCIAS I
-
-1
-
-JU 945-1115(619)
-
-CASTRO LAZARTE CECILIA BEATRIZ
-
 Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
 
 Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
@@ -517,7 +501,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA MATEMATICA(114071)
 SisMat
@@ -554,7 +538,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA MATEMATICA(114071)
 SisMat
@@ -571,7 +555,7 @@ Nombre del Docente
 
 1
 
-JU 1545-1715(625D)
+JU 1715-1845(LABMAT)
 
 CUPE CLEMENTE GUALBERTO
 
@@ -579,9 +563,25 @@ CUPE CLEMENTE GUALBERTO
 
 1
 
-VI 945-1115(LABMAT)
+VI 1115-1245(LABMAT)
 
 CUPE CLEMENTE GUALBERTO
+
+2008178 DIDACTICA DE LAS CIENCIAS IV
+
+1
+
+LU 945-1115(FISCOM)
+
+CASTRO LAZARTE CECILIA BEATRIZ
+
+2008178 DIDACTICA DE LAS CIENCIAS IV
+
+1
+
+JU 945-1115(FISCOM)
+
+CASTRO LAZARTE CECILIA BEATRIZ
 
 2008179 CIENCIA TECNOLOGIA SOCIEDAD
 

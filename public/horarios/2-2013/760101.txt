@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA DE LA FISICA(760101)
 SisMat
@@ -124,7 +124,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA DE LA FISICA(760101)
 SisMat
@@ -207,7 +207,7 @@ CUPE CLEMENTE GUALBERTO
 
 SA 815-945(691D)
 
-Por Designar ...
+FLORES TABOADA DANNY ARIEL
 
 2008240 ALGEBRA LINEAL Y MATRICIAL
 
@@ -241,7 +241,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA DE LA FISICA(760101)
 SisMat
@@ -333,7 +333,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA DE LA FISICA(760101)
 SisMat
@@ -441,7 +441,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA DE LA FISICA(760101)
 SisMat
@@ -497,7 +497,7 @@ VISCARRA VARGAS MARCO ANTONIO
 
 1
 
-JU 945-1115(621A)
+JU 945-1115(619)
 
 VISCARRA VARGAS MARCO ANTONIO
 
@@ -525,7 +525,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA DE LA FISICA(760101)
 SisMat
@@ -578,7 +578,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA DE LA FISICA(760101)
 SisMat
@@ -631,7 +631,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN DIDACTICA DE LA FISICA(760101)
 SisMat
@@ -664,7 +664,7 @@ CASTRO LAZARTE CECILIA BEATRIZ
 
 1
 
-JU 945-1115(619)
+JU 945-1115(FISCOM)
 
 CASTRO LAZARTE CECILIA BEATRIZ
 

@@ -1,6 +1,6 @@
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA QUIMICA(339701)
 SisMat
@@ -257,7 +257,7 @@ GONZALES CASTELLON CARLOS ESTEBAN
 
 VI 1545-1715(617B)
 
-Por Designar ...
+GOMEZ VENTURA JORGE LUIS
 
 (*) 2008237 ALGEBRA LINEAL Y TEORIA MATRICIAL
 2008237 ALGEBRA LINEAL Y TEORIA MATRICIAL
@@ -314,7 +314,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA QUIMICA(339701)
 SisMat
@@ -485,7 +485,7 @@ CUPE CLEMENTE GUALBERTO
 
 SA 815-945(691D)
 
-Por Designar ...
+FLORES TABOADA DANNY ARIEL
 
 (*) 2008056 CALCULO II
 2008056 CALCULO II
@@ -542,7 +542,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA QUIMICA(339701)
 SisMat
@@ -738,7 +738,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA QUIMICA(339701)
 SisMat
@@ -924,7 +924,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA QUIMICA(339701)
 SisMat
@@ -1134,7 +1134,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA QUIMICA(339701)
 SisMat
@@ -1267,7 +1267,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA QUIMICA(339701)
 SisMat
@@ -1356,7 +1356,7 @@ VEGA ALFARO WILFREDO
 
 2
 
-MA 815-945(690D)
+MA 815-945(692H)
 
 SORUCO MAITA JOSE ANTONIO
 
@@ -1376,22 +1376,22 @@ VI 1545-1715(652)
 
 SORUCO MAITA JOSE ANTONIO
 
+2014087 ELECTROTECNIA INDUSTRIAL
+
+4
+
+LU 1845-2015(692G)
+
+ARISPE SANTANDER WALTER
+
 (*) 2014087 ELECTROTECNIA INDUSTRIAL
 2014087 ELECTROTECNIA INDUSTRIAL
 
 4
 
-MA 1715-1845(672)
+MA 1715-1930(672)
 
 ACHA PEREZ SAMUEL
-
-4
-
-MA 1845-2015(668)
-
-ARISPE SANTANDER WALTER
-
-2014087 ELECTROTECNIA INDUSTRIAL
 
 4
 
@@ -1415,7 +1415,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA QUIMICA(339701)
 SisMat
@@ -1547,7 +1547,7 @@ Unica impresión OFICIAL de horarios en la Facultad
 
 Horario de Clases por Plan de estudios
 
-2del 2013
+2 del 2013
 
 Plan: LICENCIATURA EN INGENIERIA QUIMICA(339701)
 SisMat
@@ -1708,14 +1708,6 @@ Por Designar ...
 
 2
 
-MA 945-1115(617B)
-
-VARGAS PEREDO EMIR FELIX
-
-2016024 INGENIERIA DE SEGURIDAD
-
-2
-
 MI 1245-1415(652)
 
 VARGAS PEREDO EMIR FELIX
@@ -1724,23 +1716,7 @@ VARGAS PEREDO EMIR FELIX
 
 2
 
-JU 945-1115(691E)
-
-VARGAS PEREDO EMIR FELIX
-
-2016024 INGENIERIA DE SEGURIDAD
-
-2
-
 JU 1245-1415(642)
-
-VARGAS PEREDO EMIR FELIX
-
-2016024 INGENIERIA DE SEGURIDAD
-
-2
-
-VI 945-1115(692G)
 
 VARGAS PEREDO EMIR FELIX
 

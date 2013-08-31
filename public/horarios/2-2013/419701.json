@@ -279,13 +279,13 @@
                                     "hora":"1715",
                                     "duracion":"2",
                                     "aula":"692A",
-                                    "docente":"Por Designar ..."
+                                    "docente":"CHIRI OVIEDO ARIEL ANDRES"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"945",
+                                    "hora":"1115",
                                     "duracion":"2",
-                                    "aula":"617",
+                                    "aula":"644",
                                     "docente":"PATINO TITO RONALD EDGAR"
                                 },
                                 {
@@ -371,7 +371,7 @@
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"692C",
-                                    "docente":"Por Designar ..."
+                                    "docente":"GUZMAN ZURITA FREDDY MARCOS"
                                 }]
                         }]
                 },
@@ -480,7 +480,7 @@
                                     "hora":"945",
                                     "duracion":"2",
                                     "aula":"692H",
-                                    "docente":"Por Designar ..."
+                                    "docente":"CHIRI OVIEDO ARIEL ANDRES"
                                 }]
                         },
                         {
@@ -1112,7 +1112,7 @@
                                     "hora":"1115",
                                     "duracion":"2",
                                     "aula":"692H",
-                                    "docente":"Por Designar ..."
+                                    "docente":"FLORES TABOADA DANNY ARIEL"
                                 }]
                         }]
                 },
@@ -3453,6 +3453,30 @@
                         }]
                 },
                 {
+                    "codigo":"2010181",
+                    "nombre":"TELECOMUNICACION I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MONTOYA BURGOS YONY RICHARD",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                }]
+                        }]
+                },
+                {
                     "codigo":"2010188",
                     "nombre":"SERVICIOS TELEMATICOS",
                     "grupos":[
@@ -3649,6 +3673,30 @@
                                     "duracion":"2",
                                     "aula":"INFDEP",
                                     "docente":"AYOROA CARDOZO JOSE RICHARD"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010176",
+                    "nombre":"PROGRAMACION DE SISTEMAS PARALELOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MONTOYA BURGOS YONY RICHARD",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
                                 }]
                         }]
                 },

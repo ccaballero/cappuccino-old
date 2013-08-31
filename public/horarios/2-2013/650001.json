@@ -490,7 +490,7 @@
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"642",
-                                    "docente":"Por Designar ..."
+                                    "docente":"JIMENEZ ZABALAGA PABLO ADOLFO"
                                 },
                                 {
                                     "dia":"MA",
@@ -875,7 +875,7 @@
                                     "dia":"VI",
                                     "hora":"945",
                                     "duracion":"2",
-                                    "aula":"617C",
+                                    "aula":"612",
                                     "docente":"CARRASCO CALVO ALVARO HERNANDO"
                                 }]
                         }]
@@ -960,18 +960,18 @@
                                     "docente":"PEREZ PEREDO YURI GERMAN"
                                 },
                                 {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"645",
                                     "duracion":"2",
                                     "aula":"668",
                                     "docente":"ESPINOZA OROSCO JOSE"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"815",
-                                    "duracion":"2",
-                                    "aula":"617C",
-                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
                                 },
                                 {
                                     "dia":"VI",
@@ -2073,10 +2073,10 @@
                             "docente":"TRIVENO HERRERA PEDRO",
                             "horarios":[
                                 {
-                                    "dia":"SA",
-                                    "hora":"815",
+                                    "dia":"JU",
+                                    "hora":"2015",
                                     "duracion":"2",
-                                    "aula":"690B",
+                                    "aula":"692H",
                                     "docente":"TRIVENO HERRERA PEDRO"
                                 }]
                         }]
@@ -2183,6 +2183,37 @@
                                     "duracion":"3",
                                     "aula":"692F",
                                     "docente":"ROJAS MONTANO FANOR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018136",
+                    "nombre":"MECATRONICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ARANCIBIA MIRANDA MARCO ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"690C",
+                                    "docente":"ARANCIBIA MIRANDA MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"690C",
+                                    "docente":"ARANCIBIA MIRANDA MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"690C",
+                                    "docente":"ARANCIBIA MIRANDA MARCO ANTONIO"
                                 }]
                         }]
                 }]
