@@ -6,49 +6,49 @@ var Config=new(function(){
 })()
 
 var Templates=new(function(){
-    this.tablero='<table><tbody><tr><th class="period"></th><th class="period">'
+    this.tablero='<table><tbody><tr><th class="period">'
         +'</th><th class="day">Lunes</th><th class="day">Martes</th>'
         +'<th class="day">Miercoles</th><th class="day">Jueves</th>'
         +'<th class="day">Viernes</th><th class="day">Sabado</th></tr>'
-        +'<tr><th>06:45</th><th>07:30</th><td></td><td></td>'
+        +'<tr><th>06:45</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>07:30</th><th>08:15</th><td></td><td></td>'
+        +'<tr><th>07:30</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>08:15</th><th>09:00</th><td></td><td></td>'
+        +'<tr><th>08:15</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>09:00</th><th>09:45</th><td></td><td></td>'
+        +'<tr><th>09:00</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>09:45</th><th>10:30</th><td></td><td></td>'
+        +'<tr><th>09:45</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>10:30</th><th>11:15</th><td></td><td></td>'
+        +'<tr><th>10:30</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>11:15</th><th>12:00</th><td></td><td></td>'
+        +'<tr><th>11:15</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>12:00</th><th>12:45</th><td></td><td></td>'
+        +'<tr><th>12:00</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>12:45</th><th>13:30</th><td></td><td></td>'
+        +'<tr><th>12:45</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>13:30</th><th>14:15</th><td></td><td></td>'
+        +'<tr><th>13:30</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>14:15</th><th>15:00</th><td></td><td></td>'
+        +'<tr><th>14:15</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>15:00</th><th>15:45</th><td></td><td></td>'
+        +'<tr><th>15:00</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>15:45</th><th>16:30</th><td></td><td></td>'
+        +'<tr><th>15:45</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>16:30</th><th>17:15</th><td></td><td></td>'
+        +'<tr><th>16:30</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>17:15</th><th>18:00</th><td></td><td></td>'
+        +'<tr><th>17:15</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>18:00</th><th>18:45</th><td></td><td></td>'
+        +'<tr><th>18:00</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>18:45</th><th>19:30</th><td></td><td></td>'
+        +'<tr><th>18:45</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>19:30</th><th>20:15</th><td></td><td></td>'
+        +'<tr><th>19:30</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>20:15</th><th>21:00</th><td></td><td></td>'
+        +'<tr><th>20:15</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>21:00</th><th>21:45</th><td></td><td></td>'
+        +'<tr><th>21:00</th><td></td><td></td>'
         +'<td></td><td></td><td></td><td></td></tr></tbody></table>';
     this.carrera='<li name="carrera-{0}"><a class="carrera">{2}</a></li>'
     this.nivel='<li name="nivel-{0}-{1}"><a class="nivel">Nivel {2}</a></li>'
@@ -109,6 +109,12 @@ var Events=new(function(){
             Tablero.repaint()
             $(this).next('a.grupo').removeClass('selected')
         }
+    }
+    this.preview=function(){
+        $('#options').hide('slow')
+        $('.tools').addClass('preview')
+        $('footer').hide('slow')
+        $('#schedule').addClass('preview')
     }
 })()
 
@@ -241,5 +247,6 @@ $(document).ready(function(){
         Render.renderCarreras()
     })
     $('header h1').append(' :: gestión: '+Config.gestion)
+    $('.preview').click(Events.preview)
     Tablero.repaint()
 })

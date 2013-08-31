@@ -115,10 +115,54 @@ footer ul li a:hover {}
     color: #DBE479;
     background-color: #748038;
 }
+.tools {
+    right: -4.4em;
+    top: 7.0em;
+    position: fixed;
+    background-color: #262C0A;
+    color: #F9F9B9;
+    transform: rotate(-90deg);
+    float: left;
+    padding: 0.5em 1.25em;
+    border-radius: 0.5em 0.5em 0em 0em;
+    box-shadow: 0 -3px 10px #748038 inset;
+}
+
+.tools.preview{
+    transform: translate(1.3em) rotate(-90deg);
+    transition: 1s ease-in-out 0.08s;
+}
+
+.tools.preview:hover{
+    transform: translate(-0.25em) rotate(-90deg);
+    transition: 0.5s ease-in-out 0.1s;
+}
+
+.tools ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tools ul li {
+    display: inline-block;
+}
+
+.tools ul li a {
+    font-family: 'GeoSansLightOblique';
+    cursor: pointer;
+    font-size: 0.95em;
+    font-weight: bold;
+    /*text-transform: uppercase;*/
+}
 
 #schedule {
-    float: left;
+    /*float: left;*/
     width: 660px;
+}
+
+#schedule.preview {
+    width: 100%;
 }
 
 #schedule table {
