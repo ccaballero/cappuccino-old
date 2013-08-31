@@ -173,7 +173,7 @@ var Tablero=new(function(){
         }
     }
     this.renderHorario=function(dia,hora,duracion,texto,color){
-        var dias={'LU':3,'MA':4,'MI':5,'JU':6,'VI':7,'SA':8}
+        var dias={'LU':2,'MA':3,'MI':4,'JU':5,'VI':6,'SA':7}
         var periodos={'645':2,'730':3,'815':4,'900':5,'945':6,'1030':7,'1115':8,'1200':9,'1245':10,'1330':11,'1415':12,'1500':13,'1545':14,'1630':15,'1715':16,'1800':17,'1845':18,'1930':19,'2015':20,'2100':21}
         for(var i=0;i<duracion;i++){
             var celda=$('tr:nth-child('+(periodos[hora]+i)+') :nth-child('+dias[dia]+')')
