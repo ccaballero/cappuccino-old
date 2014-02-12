@@ -1,264 +1,78 @@
-var Config=new(function(){
-    this.url='/horarios/'
-    this.gestion='2-2013'
-    this.url_gestion=this.url+this.gestion
-    this.carreras=[]
-})()
-
-var Templates=new(function(){
-    this.tablero='<table><tbody><tr><th class="period">'
-        +'</th><th class="day">Lunes</th><th class="day">Martes</th>'
-        +'<th class="day">Miercoles</th><th class="day">Jueves</th>'
-        +'<th class="day">Viernes</th><th class="day">Sabado</th></tr>'
-        +'<tr><th>06:45</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>07:30</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>08:15</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>09:00</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>09:45</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>10:30</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>11:15</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>12:00</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>12:45</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>13:30</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>14:15</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>15:00</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>15:45</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>16:30</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>17:15</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>18:00</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>18:45</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>19:30</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>20:15</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr>'
-        +'<tr><th>21:00</th><td></td><td></td>'
-        +'<td></td><td></td><td></td><td></td></tr></tbody></table>';
-    this.carrera='<li name="carrera-{0}"><a class="carrera">{2}</a></li>'
-    this.nivel='<li name="nivel-{0}-{1}"><a class="nivel">Nivel {2}</a></li>'
-    this.materia='<li name="materia-{0}-{1}-{2}">'
-        +'<a class="materia">{3}</a></li>'
-    this.grupo='<li name="grupo-{0}-{1}-{2}-{3}"><input type="checkbox" />'
-        +'<a class="grupo">Grupo #{4} ({5})</a></li>'
-})()
-
-var Events=new(function(){
-    this.clickCarrera=function(){
-        var ul=$(this).parent().has('ul')
-        if(ul.length===0){
-            var i=$(this).parent().attr('name').substring(8)
-            carrera=Config.carreras[i]
-            $.getJSON(Config.url_gestion+'/'+carrera.codigo+'.json',
-                function(json){
-                    if(typeof carrera.niveles==='undefined'){
-                        Config.carreras[i]=json
-                        Render.renderNiveles(i)
-            }})
-        }else{
-            ul.children('ul').fadeToggle()
+var Screen=new(function(){
+    this.canvas=null
+    this.getCanvas=function(){
+        if(!this.canvas){
+            this.canvas=document.getElementById('schedule')
         }
-        return false
+        return this.canvas
     }
-    this.clickNivel=function(){
-        var ul=$(this).parent().has('ul')
-        if(ul.length===0){
-            var i=$(this).parent().attr('name').substring(6).split('-')
-            Render.renderMaterias(i)
-        }else{
-            ul.children('ul').fadeToggle()
-        }
-        return false
-    }
-    this.clickMateria=function(){
-        var ul=$(this).parent().has('ul')
-        if(ul.length===0){
-            var i=$(this).parent().attr('name').substring(8).split('-')
-            Render.renderGrupos(i)
-        }else{
-            ul.children('ul').fadeToggle()
-        }
-        return false
-    }
-    this.clickGrupo=function(){
-        $(this).parent().children('input[type="checkbox"]').trigger('click')
-    }
-    this.checkGrupo=function(){
-        var i=$(this).parent().attr('name').substring(6).split('-')
-        if($(this).is(':checked')){
-            Horario.addGrupo(i)
-            Tablero.repaint()
-            $(this).next('a.grupo').addClass('selected')
-        }else{
-            Horario.removeGrupo(i)
-            Tablero.repaint()
-            $(this).next('a.grupo').removeClass('selected')
-        }
-    }
-    this.preview=function(){
-        if($('#schedule').hasClass('preview')){
-            $('#options').show('slow')
-            $('.tools').removeClass('preview')
-            $('footer').show('slow')
-            $('#schedule').removeClass('preview')
-        }
-        else{
-            $('#options').hide('slow')
-            $('.tools').addClass('preview')
-            $('footer').hide('slow')
-            $('#schedule').addClass('preview')
-        }
-    }
-    this.print=function(){
-        window.print()
+    this.height=function(){
+        if(window.innerHeight){return window.innerHeight}
+        else{return document.documentElement.clientHeight}}
+    this.width=function(){
+        if(window.innerWidth){return window.innerWidth}
+        else{return document.documentElement.clientWidth}}
+    this.resize=function(){
+        Screen.getCanvas().width=Screen.width()-36
+        Screen.getCanvas().height=Screen.height()-56
+        Schedule.render()
     }
 })()
 
-var Horario=new(function(){
-    this.horarios=new Array();
-    this.addGrupo=function(index){
-        var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
-        materia=Config.carreras[index[0]].niveles[index[1]].materias[index[2]]
-        grupo=materia.grupos[index[3]]
-        this.horarios.push([materia,grupo])
+var Schedule=new(function(){
+    this.days=['LUNES','MARTES','MIERCOLES','JUEVES','VIERNES','SABADO']
+    this.periods=['0645','0730','0815','0900','0945','1030','1115','1200',
+        '1245','1330','1415','1500','1545','1630','1715','1800','1845','1930',
+        '2015','2100']
+    this.canvas=null
+    this.context=null
+    this.init=function(){
+        this.canvas=Screen.getCanvas()
+        this.context=this.canvas.getContext('2d')
     }
-    this.removeGrupo=function(index){
-        var li=$('li[name="grupo-'+index[0]+'-'+index[1]+'-'+index[2]+'-'+index[3]+'"]')
-        materia=Config.carreras[index[0]].niveles[index[1]].materias[index[2]]
-        grupo=materia.grupos[index[3]]
-        for(i=0;i<this.horarios.length;i++){
-            var element=this.horarios[i]
-            if (element[0].codigo===materia.codigo&&element[1].codigo===grupo.codigo){
-                this.horarios.splice(i,1)
-            }
-        }
-    }
-})()
+    this.render=function(){
+        width=this.canvas.width
+        height=this.canvas.height
 
-var Tablero=new(function(){
-    this.repaint=function(){
-        $('#schedule').html(Templates.tablero)
-        for(var i in Horario.horarios){
-            materia=Horario.horarios[i][0]
-            grupo=Horario.horarios[i][1]
-            color='color'+((i+1)%9)
-            this.renderHorarios(materia,grupo,color)
-//            this.joinCeldas()
-        }
-    }
-    this.renderHorarios=function(materia,grupo,color){
-        for(var i in grupo.horarios){
-            this.renderHorario(
-                grupo.horarios[i].dia,
-                grupo.horarios[i].hora,
-                grupo.horarios[i].duracion,
-                materia.nombre+' ('+grupo.horarios[i].aula+')',
-                color
-            )
-        }
-    }
-    this.renderHorario=function(dia,hora,duracion,texto,color){
-        var dias={'LU':2,'MA':3,'MI':4,'JU':5,'VI':6,'SA':7}
-        var periodos={'645':2,'730':3,'815':4,'900':5,'945':6,'1030':7,'1115':8,'1200':9,'1245':10,'1330':11,'1415':12,'1500':13,'1545':14,'1630':15,'1715':16,'1800':17,'1845':18,'1930':19,'2015':20,'2100':21}
-        for(var i=0;i<duracion;i++){
-            var celda=$('tr:nth-child('+(periodos[hora]+i)+') :nth-child('+dias[dia]+')')
-            if(celda.text()!==''){
-                celda.removeClass().addClass('collision');
-            }else{
-                celda.addClass(color)
-            }
-            celda.append(texto+'<br />')
-        }
-    }
-    this.joinCeldas=function(){
-        for(var i=3;i<9;i++){
-            var texto_anterior=''
-            for(var j=2;j<22;j++){
-                var celda=$('tr:nth-child('+j+') :nth-child('+i+')')
-                var texto_actual=celda.text()
-                if(texto_actual!==''){
-                    if(texto_actual===texto_anterior){
-                        celda.remove()
-                        pivote.attr('rowspan', (parseInt(pivote.attr('rowspan'))+1))
-                    }else{
-                        pivote=celda.attr('rowspan', 1)
-                    }
-                }
-                texto_anterior=texto_actual
-            }
-        }
-        console.log('------')
-    }
-})
+        rows=this.periods.length
+        columns=this.days.length
 
-var Render=new(function(){
-    this.renderCarreras=function(){
-        $('#options').append('<ul></ul>')
-        for(var i in Config.carreras){
-            $('#options>ul').append(
-                Templates.carrera.format(
-                    i,
-                    Config.carreras[i].codigo,
-                    Config.carreras[i].nombre))
+        _C=40
+        _c=(width-_C)/columns
+        _B=20
+        _b=(height-_B)/rows
+
+        this.context.textAlign='center'
+        this.context.textBaseline='middle'
+        this.context.beginPath()
+
+        this.context.moveTo(_C,0)
+        this.context.lineTo(_C,height)
+
+        for(i=0;i<columns;i++){
+            this.context.fillText(this.days[i],_C+(_c*(i+0.5)),_B*0.5)
+            this.context.moveTo(_C+(_c*i),0)
+            this.context.lineTo(_C+(_c*i),height)
         }
-        $('a.carrera').click(Events.clickCarrera)
-    }
-    this.renderNiveles=function(index){
-        var li=$('li[name="carrera-'+index+'"]')
-        carrera=Config.carreras[index]
-        li.append('<ul></ul>')
-        for(var i in carrera.niveles){
-            li.children('ul').append(
-                Templates.nivel.format(index,i,carrera.niveles[i].codigo))
+
+        this.context.moveTo(0,_B)
+        this.context.lineTo(width,_B)
+
+        for(j=0;j<rows;j++){
+            this.context.fillText(this.periods[j].substring(0,2)+':'+
+                this.periods[j].substring(2,4),_C*0.5,_B+(_b*(j+0.5)))
+            this.context.moveTo(0,_B+(_b*j))
+            this.context.lineTo(width,_B+(_b*j))
         }
-        li.find('a.nivel').click(Events.clickNivel)
-    }
-    this.renderMaterias=function(index){
-        var li=$('li[name="nivel-'+index[0]+'-'+index[1]+'"]')
-        nivel=Config.carreras[index[0]].niveles[index[1]]
-        li.append('<ul></ul>')
-        for(var i in nivel.materias){
-            li.children('ul').append(
-                Templates.materia.format(index[0],index[1],i,nivel.materias[i].nombre))
-        }
-        li.find('a.materia').click(Events.clickMateria)
-    }
-    this.renderGrupos=function(index){
-        var li=$('li[name="materia-'+index[0]+'-'+index[1]+'-'+index[2]+'"]')
-        materia=Config.carreras[index[0]].niveles[index[1]].materias[index[2]]
-        li.append('<ul></ul>')
-        for(var i in materia.grupos){
-            li.children('ul').append(
-                Templates.grupo.format(index[0],index[1],index[2],i,materia.grupos[i].codigo,materia.grupos[i].docente))
-        }
-        li.find('a.grupo').click(Events.clickGrupo)
-        li.find('input[type="checkbox"]').change(Events.checkGrupo)
+
+        this.context.stroke()
     }
 })()
 
 $(document).ready(function(){
-    jQuery.fn.exists=function(){return this.length>0;}
-    $.getJSON(Config.url_gestion+'.json',function(json){
-        Config.carreras=json
-        Render.renderCarreras()
-    })
-    $('header h1').append(' :: gestión: '+Config.gestion)
-    $('a.preview').click(Events.preview)
-    $('a.print').click(Events.print)
-    Tablero.repaint()
+    Schedule.init()
+    Screen.resize()
 })
+
+$(window).resize(Screen.resize)
+

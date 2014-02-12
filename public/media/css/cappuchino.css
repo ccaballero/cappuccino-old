@@ -1,0 +1,75 @@
+
+body, div, ul, ol, li, p, a {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    font-size: 0.72em;
+    text-decoration: none;
+    color: #404040;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+#wrapper {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+
+    background-image: -webkit-gradient(linear, left top, left bottom,
+        color-stop(0, #C7F4FC), color-stop(1, #4E9494));
+    background-image: -o-linear-gradient(bottom, #C7F4FC 0%, #4E9494 100%);
+    background-image: -moz-linear-gradient(bottom, #C7F4FC 0%, #4E9494 100%);
+    background-image: -webkit-linear-gradient(bottom, #C7F4FC 0%, #4E9494 100%);
+    background-image: -ms-linear-gradient(bottom, #C7F4FC 0%, #4E9494 100%);
+    background-image: linear-gradient(to bottom, #C7F4FC 0%, #4E9494 100%);
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    left: 1.0em;
+    right: 1.0em;
+    background-color: #CDEEB0;
+    box-shadow: 0px -2px 4px #000000;
+    border-radius: 0.4em 0.4em 0em 0em;
+}
+
+footer ul {
+    float: left;
+}
+
+footer ul li {
+    list-style: none;
+    float: left;
+}
+
+footer ul li a {
+    float: left;
+    padding: 0.5em 0.3em 0.3em 0.3em;
+}
+
+footer ul li a:hover {}
+
+footer ul.left { margin-left: 0.5em; }
+footer ul.right { margin-right: 0.5em; }
+
+#schedule {
+    background-color: #ffffff;
+    margin-top: 18px;
+    margin-left: 18px;
+    box-shadow: 2px 2px 2px #000000 inset;
+    border-radius: 0.3em;
+    min-height:264px;
+    min-width:284px;
+}
+
