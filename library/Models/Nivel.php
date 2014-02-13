@@ -29,6 +29,14 @@ class Models_Nivel extends Models_Coleccion
         $this->materias[$codigo] = $materia;
     }
 
+    public function hasMateria($codigo) {
+        return array_key_exists($codigo, $this->materias);
+    }
+
+    public function getMateria($codigo) {
+        return $this->materias[$codigo];
+    }
+
     public function __toString() {
         $return = $this->codigo . PHP_EOL;
         foreach ($this->getMaterias() as $materia) {

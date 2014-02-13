@@ -39,6 +39,14 @@ class Models_Carrera extends Models_Coleccion
         return $this->niveles;
     }
 
+    public function hasNivel($codigo) {
+        return array_key_exists($codigo, $this->niveles);
+    }
+
+    public function getNivel($codigo) {
+        return $this->niveles[$codigo];
+    }
+
     public function __toString() {
         $return = $this->nombre . ' (' . $this->codigo . ')' . PHP_EOL;
         foreach ($this->getNiveles() as $nivel) {
