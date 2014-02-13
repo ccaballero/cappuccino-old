@@ -88,8 +88,8 @@ class ParseTxt {
                         $_materia = $output['materia'];
 
                         if (empty($_tipo)) {
-                            $_materia = trim(substr($_materia, 0, -1));
                             $_tipo = substr($_materia, -1);
+                            $_materia = trim(substr($_materia, 0, -1));
                             $i = $i - 2;
                         }
 
@@ -121,7 +121,7 @@ class ParseTxt {
                     }
 
                     $i = $i + 4;
-                    if (preg_match('/^(?P<hora>\d{4})$/',
+                    if (preg_match('/^(?P<hora>\d{3,4})$/',
                         $lines[$i], $output)) {
                         $_hora = $output['hora'];
                     }
@@ -140,6 +140,7 @@ class ParseTxt {
                     $_docente = $_apellidos . ' ' . $_nombres;
 
                     $horario->setDocente($_docente);
+                    echo $materia->getNombre() . ' ' . $_tipo . ' ' . $_docente . PHP_EOL;
                     if ($_tipo == 'C') {
                         $grupo->setDocente($_docente);
                     }

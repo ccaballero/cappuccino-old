@@ -29,14 +29,28 @@
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"GARCIA VELASCO NEIL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"GARCIA VELASCO NEIL"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"AVILES ROCHA MARTHA ELIZABETH"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"AVILES ROCHA MARTHA ELIZABETH"
@@ -48,7 +62,7 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"UBERHUAGA CANDIA PATRICIA DEL CARMEN"
@@ -76,7 +90,7 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1330",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"UBERHUAGA CANDIA PATRICIA DEL CARMEN"
@@ -227,7 +241,14 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"SEVILLA CESPEDES CLAUDIA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"SEVILLA CESPEDES CLAUDIA"
@@ -291,14 +312,21 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"JALDIN QUIROZ RENE"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"JALDIN QUIROZ RENE"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"GOMEZ SORUCO SILVANA"
@@ -309,6 +337,13 @@
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"GOMEZ SORUCO SILVANA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"JALDIN QUIROZ RENE"
                                 },
                                 {
                                     "dia":"JU",
@@ -338,7 +373,7 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"VASQUEZ GARCIA LETICIA"
@@ -352,7 +387,14 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E1A",
+                                    "docente":"MONTANO MONTANO JOSE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E1A",
                                     "docente":"MONTANO MONTANO JOSE"
@@ -364,21 +406,42 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E2B",
+                                    "docente":"MOYA ALBARRACIN MARTIN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E2B",
                                     "docente":"MOYA ALBARRACIN MARTIN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"AGUILAR MIRANDA SHIRLEY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"AGUILAR MIRANDA SHIRLEY"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E2B",
+                                    "docente":"MOYA ALBARRACIN MARTIN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E2B",
                                     "docente":"MOYA ALBARRACIN MARTIN"
@@ -442,21 +505,35 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"QUIROZ CLAURE COSME"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"QUIROZ CLAURE COSME"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"QUIROZ CLAURE COSME"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"QUIROZ CLAURE COSME"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1800",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"ORELLANA MONTA\u00d1O WILDER"
@@ -475,10 +552,24 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1030",
+                                    "hora":"815",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"DIAZ MONZON EDMUNDO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"DIAZ MONZON EDMUNDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E 101",
+                                    "docente":"QUIA HINOJOSA RICARDO BERTHO"
                                 },
                                 {
                                     "dia":"MA",
@@ -508,14 +599,35 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 103",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 103",
                                     "docente":"COVARRUBIAS VARGAS CAUJMAN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 103",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E 103",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"LAURA JUAN ERASMO"
@@ -534,14 +646,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"CONDORI ARIAS HERMOGENES"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"CONDORI ARIAS HERMOGENES"
@@ -572,7 +698,7 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E533",
                                     "docente":"ANTEZANA LA FUENTE JORGE CARLOS"
@@ -605,14 +731,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"ANTEZANA LA FUENTE JORGE CARLOS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"ANTEZANA LA FUENTE JORGE CARLOS"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"ANTEZANA LA FUENTE JORGE CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"ANTEZANA LA FUENTE JORGE CARLOS"
@@ -658,11 +798,11 @@
                     "grupos":[
                         {
                             "codigo":"01",
-                            "docente":"",
+                            "docente":"ANTEZANA ESCALERA RENE",
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1330",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E1B",
                                     "docente":"ANTEZANA ESCALERA RENE"
@@ -691,7 +831,7 @@
                         },
                         {
                             "codigo":"02",
-                            "docente":"",
+                            "docente":"ORELLANA AYLLON LORGIO EVERTH",
                             "horarios":[
                                 {
                                     "dia":"LU",
@@ -724,7 +864,7 @@
                         },
                         {
                             "codigo":"21",
-                            "docente":"",
+                            "docente":"ANTEZANA ESCALERA RENE",
                             "horarios":[
                                 {
                                     "dia":"MA",
@@ -770,7 +910,14 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"2100",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"CABERO CALATAYUD CARLOS F."
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"CABERO CALATAYUD CARLOS F."
@@ -791,7 +938,7 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"CABERO CALATAYUD CARLOS F."
@@ -904,7 +1051,14 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1800",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 101",
+                                    "docente":"IRIGOYEN HINOJOSA IGOR"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 101",
                                     "docente":"IRIGOYEN HINOJOSA IGOR"
@@ -920,8 +1074,8 @@
                                     "dia":"LU",
                                     "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E 101",
-                                    "docente":"IRIGOYEN HINOJOSA IGOR"
+                                    "aula":"E533",
+                                    "docente":"ALVAREZ ATORA RENE CRISTIAM"
                                 }]
                         }]
                 },
@@ -935,7 +1089,14 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"ANTEZANA ESCALERA RENE"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"ANTEZANA ESCALERA RENE"
@@ -947,14 +1108,21 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E1D",
+                                    "docente":"ORELLANA AYLLON LORGIO EVERTH"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E1D",
                                     "docente":"ORELLANA AYLLON LORGIO EVERTH"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E1D",
                                     "docente":"ORELLANA AYLLON LORGIO EVERTH"
@@ -1011,14 +1179,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 101",
+                                    "docente":"LOPEZ GUMUCIO RICARDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 101",
                                     "docente":"LOPEZ GUMUCIO RICARDO"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"LOPEZ GUMUCIO RICARDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"LOPEZ GUMUCIO RICARDO"
@@ -1030,14 +1212,21 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E1D",
+                                    "docente":"VILLARROEL DAZA MARIA HELEN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E1D",
                                     "docente":"VILLARROEL DAZA MARIA HELEN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1930",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E1D",
                                     "docente":"VILLARROEL DAZA MARIA HELEN"
@@ -1061,7 +1250,21 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"LEDEZMA SANDOVAL FEDERICO"
+                                },
+                                {
+                                    "dia":"LU",
                                     "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"LEDEZMA SANDOVAL FEDERICO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"LEDEZMA SANDOVAL FEDERICO"
@@ -1254,10 +1457,10 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
-                                    "aula":"E1D",
-                                    "docente":"TABORGA ACHA FIDEL"
+                                    "aula":"E529",
+                                    "docente":"TORRICO GUAMAN VICTOR HUGO"
                                 },
                                 {
                                     "dia":"JU",
@@ -1269,6 +1472,13 @@
                                 {
                                     "dia":"JU",
                                     "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E1D",
+                                    "docente":"TABORGA ACHA FIDEL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E1D",
                                     "docente":"TABORGA ACHA FIDEL"
@@ -1303,6 +1513,13 @@
                                     "dia":"JU",
                                     "hora":"1200",
                                     "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"MOYA ALBARRACIN MARTIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"1",
                                     "aula":"E529",
                                     "docente":"MOYA ALBARRACIN MARTIN"
                                 },
@@ -1320,14 +1537,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"MOYA ALBARRACIN MARTIN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"MOYA ALBARRACIN MARTIN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"MOYA ALBARRACIN MARTIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"MOYA ALBARRACIN MARTIN"
@@ -1358,7 +1589,7 @@
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"MONTA\u00d1O ROMERO JOSE"
@@ -1373,6 +1604,13 @@
                                 {
                                     "dia":"MA",
                                     "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"MONTA\u00d1O ROMERO JOSE"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"MONTA\u00d1O ROMERO JOSE"
@@ -1398,7 +1636,7 @@
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"ALVAREZ ATORA RENE CRISTIAM"
@@ -1431,14 +1669,28 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"CONDORI ARIAS HERMOGENES"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E529",
                                     "docente":"CONDORI ARIAS HERMOGENES"
@@ -1520,7 +1772,14 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 103",
+                                    "docente":"QUISPE CONDORI RODRIGO ALVARO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 103",
                                     "docente":"QUISPE CONDORI RODRIGO ALVARO"
@@ -1583,6 +1842,13 @@
                                     "dia":"JU",
                                     "hora":"1800",
                                     "duracion":"1",
+                                    "aula":"E 103",
+                                    "docente":"AZOGUE CRESPO RICARDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"1",
                                     "aula":"E547",
                                     "docente":"AGUILAR MIRANDA SHIRLEY"
                                 },
@@ -1605,17 +1871,38 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"CABERO CALATAYUD CARLOS F."
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"CABERO CALATAYUD CARLOS F."
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1030",
+                                    "hora":"815",
                                     "duracion":"1",
                                     "aula":"E546",
                                     "docente":"ESPINOZA QUIROZ MARISOL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
+                                    "duracion":"1",
+                                    "aula":"E546",
+                                    "docente":"ESPINOZA QUIROZ MARISOL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"CABERO CALATAYUD CARLOS F."
                                 },
                                 {
                                     "dia":"MI",
@@ -1708,6 +1995,20 @@
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"ALBA PINTO CRECENCIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"ALBA PINTO CRECENCIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"ALBA PINTO CRECENCIO"
                                 }]
                         },
                         {
@@ -1730,7 +2031,7 @@
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1500",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E533",
                                     "docente":"ALVAREZ QUIROZ RICHARD MILTON"
@@ -1744,7 +2045,14 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 101",
+                                    "docente":"ALVAREZ QUIROZ RICHARD MILTON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 101",
                                     "docente":"ALVAREZ QUIROZ RICHARD MILTON"
@@ -1770,7 +2078,14 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"2100",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"ALVAREZ QUIROZ RICHARD MILTON"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"ALVAREZ QUIROZ RICHARD MILTON"
@@ -1801,14 +2116,21 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"CLAURE FUENTES SHIRLEY CONSUELO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"CLAURE FUENTES SHIRLEY CONSUELO"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1800",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"CLAURE FUENTES SHIRLEY CONSUELO"
@@ -1827,14 +2149,28 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"CUBA ROJAS PABLO LUIS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"CUBA ROJAS PABLO LUIS"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"CUBA ROJAS PABLO LUIS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"CUBA ROJAS PABLO LUIS"
@@ -1849,6 +2185,13 @@
                             "codigo":"01",
                             "docente":"MARTINEZ ALPIRI ANAHI MONICA",
                             "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E533",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
                                 {
                                     "dia":"LU",
                                     "hora":"1030",
@@ -1872,7 +2215,14 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"MARTINEZ ALPIRI ANAHI MONICA"
@@ -1884,21 +2234,35 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E1B",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E1B",
                                     "docente":"MARTINEZ ALPIRI ANAHI MONICA"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E1B",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E1B",
                                     "docente":"MARTINEZ ALPIRI ANAHI MONICA"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E1B",
                                     "docente":"MARTINEZ ALPIRI ANAHI MONICA"
@@ -1969,7 +2333,7 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"ROSALES VASQUEZ DENISE MARIEL"
@@ -1983,7 +2347,21 @@
                                 },
                                 {
                                     "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"ROSALES VASQUEZ DENISE MARIEL"
+                                },
+                                {
+                                    "dia":"MA",
                                     "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"ROSALES VASQUEZ DENISE MARIEL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"ROSALES VASQUEZ DENISE MARIEL"
@@ -2044,7 +2422,14 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E507",
+                                    "docente":"ALIENDRE LAFUENTE ROMER SIMON"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E507",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
@@ -2070,7 +2455,14 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"2100",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 108",
+                                    "docente":"ALIENDRE LAFUENTE ROMER SIMON"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 108",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
@@ -2087,7 +2479,7 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"2100",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"OSIO PACO HENRY NELSON"
@@ -2101,6 +2493,13 @@
                                 },
                                 {
                                     "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E 103",
+                                    "docente":"SUCRE REYES MARIA ANTONIETA"
+                                },
+                                {
+                                    "dia":"MI",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E 103",
@@ -2108,7 +2507,14 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"SUCRE REYES MARIA ANTONIETA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"SUCRE REYES MARIA ANTONIETA"
@@ -2172,14 +2578,28 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"2100",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E533",
+                                    "docente":"ARAOZ VEIZAGA SILVIA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E533",
                                     "docente":"ARAOZ VEIZAGA SILVIA"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"2100",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E533",
+                                    "docente":"ARAOZ VEIZAGA SILVIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E533",
                                     "docente":"ARAOZ VEIZAGA SILVIA"
@@ -2191,14 +2611,28 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"2100",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E533",
+                                    "docente":"ARAOZ VEIZAGA SILVIA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E533",
                                     "docente":"ARAOZ VEIZAGA SILVIA"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"2100",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E533",
+                                    "docente":"ARAOZ VEIZAGA SILVIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E533",
                                     "docente":"ARAOZ VEIZAGA SILVIA"
@@ -2210,14 +2644,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"2100",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E533",
+                                    "docente":"ARAOZ VEIZAGA SILVIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E533",
                                     "docente":"ARAOZ VEIZAGA SILVIA"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"2100",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E533",
+                                    "docente":"ARAOZ VEIZAGA SILVIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E533",
                                     "docente":"ARAOZ VEIZAGA SILVIA"
@@ -2333,7 +2781,7 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1800",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"URQUIDI BELLIDO SONIA"
@@ -2427,14 +2875,35 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"APAZA COLQUE FELIX JUAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"APAZA COLQUE FELIX JUAN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"APAZA COLQUE FELIX JUAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E529",
+                                    "docente":"APAZA COLQUE FELIX JUAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"QUIA HINOJOSA RICARDO BERTHO"
@@ -2458,7 +2927,14 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E547",
+                                    "docente":"CUBA ROJAS PABLO LUIS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E547",
                                     "docente":"CUBA ROJAS PABLO LUIS"
@@ -2479,7 +2955,14 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E1B",
+                                    "docente":"CUBA ROJAS PABLO LUIS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E1B",
                                     "docente":"CUBA ROJAS PABLO LUIS"
@@ -2543,14 +3026,21 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1330",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E2B",
+                                    "docente":"ALVAREZ QUIROZ RICHARD MILTON"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E2B",
                                     "docente":"ALVAREZ QUIROZ RICHARD MILTON"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1330",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E2A",
                                     "docente":"ALVAREZ QUIROZ RICHARD MILTON"
@@ -2588,7 +3078,7 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"CLAURE RICHARD PATRICIA ANGELICA"
@@ -2653,6 +3143,20 @@
                                     "dia":"JU",
                                     "hora":"1930",
                                     "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"CALLA VILLEGAS EDWIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"CALLA VILLEGAS EDWIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
+                                    "duracion":"1",
                                     "aula":"E PB-4",
                                     "docente":"CALLA VILLEGAS EDWIN"
                                 }]
@@ -2677,14 +3181,28 @@
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"2100",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 205",
+                                    "docente":"ZEGARRA SALDANA PABLO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 205",
                                     "docente":"ZEGARRA SALDANA PABLO"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"2100",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 205",
+                                    "docente":"ZEGARRA SALDANA PABLO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 205",
                                     "docente":"ZEGARRA SALDANA PABLO"
@@ -2719,6 +3237,13 @@
                                     "dia":"VI",
                                     "hora":"1800",
                                     "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"NAVIA QUIROGA GUSTAVO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"1",
                                     "aula":"E503",
                                     "docente":"NAVIA QUIROGA GUSTAVO"
                                 },
@@ -2741,7 +3266,14 @@
                             "horarios":[
                                 {
                                     "dia":"JU",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"POLO NAJERA JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"POLO NAJERA JOSE"
@@ -2764,6 +3296,20 @@
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"POLO NAJERA JOSE"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"POLO NAJERA JOSE"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"POLO NAJERA JOSE"
                                 }]
                         }]
                 },
@@ -2773,11 +3319,11 @@
                     "grupos":[
                         {
                             "codigo":"01",
-                            "docente":"",
+                            "docente":"JIMENEZ VALDIVIA WALDO FERNANDO",
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"2100",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"JIMENEZ VALDIVIA WALDO FERNANDO"
@@ -2785,6 +3331,13 @@
                                 {
                                     "dia":"MA",
                                     "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"JIMENEZ VALDIVIA WALDO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"JIMENEZ VALDIVIA WALDO FERNANDO"
@@ -2799,18 +3352,32 @@
                         },
                         {
                             "codigo":"21",
-                            "docente":"",
+                            "docente":"JIMENEZ VALDIVIA WALDO FERNANDO",
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"JIMENEZ VALDIVIA WALDO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"JIMENEZ VALDIVIA WALDO FERNANDO"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"JIMENEZ VALDIVIA WALDO FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"JIMENEZ VALDIVIA WALDO FERNANDO"
@@ -2818,7 +3385,7 @@
                         },
                         {
                             "codigo":"22",
-                            "docente":"",
+                            "docente":"JIMENEZ VALDIVIA WALDO FERNANDO",
                             "horarios":[
                                 {
                                     "dia":"LU",
@@ -2860,7 +3427,7 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"ROMERO PADILLA CESAR"
@@ -2959,7 +3526,7 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E 101",
                                     "docente":"AZOGUE CRESPO RICARDO"
@@ -2969,6 +3536,13 @@
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E 101",
+                                    "docente":"AZOGUE CRESPO RICARDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E525",
                                     "docente":"AZOGUE CRESPO RICARDO"
                                 },
                                 {
@@ -3023,21 +3597,42 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"GUTIERREZ ROJAS RAUL ENRIQUE"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"GUTIERREZ ROJAS RAUL ENRIQUE"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"GUTIERREZ ROJAS RAUL ENRIQUE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"GUTIERREZ ROJAS RAUL ENRIQUE"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"GUTIERREZ ROJAS RAUL ENRIQUE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"GUTIERREZ ROJAS RAUL ENRIQUE"
@@ -3148,7 +3743,7 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E547",
                                     "docente":"CHURA JAUREGUI JUANA"
@@ -3299,21 +3894,42 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"LEDO GARCIA CARMEN"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"LEDO GARCIA CARMEN"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"LEDO GARCIA CARMEN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"LEDO GARCIA CARMEN"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"LEDO GARCIA CARMEN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"LEDO GARCIA CARMEN"
@@ -3330,21 +3946,42 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E547",
+                                    "docente":"GONZALES FERNANDEZ FERNANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E547",
                                     "docente":"GONZALES FERNANDEZ FERNANDO"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E547",
+                                    "docente":"GONZALES FERNANDEZ FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E547",
                                     "docente":"GONZALES FERNANDEZ FERNANDO"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E547",
+                                    "docente":"GONZALES FERNANDEZ FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E547",
                                     "docente":"GONZALES FERNANDEZ FERNANDO"
@@ -3413,14 +4050,21 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"VARGAS OROSCO FREDDY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"VARGAS OROSCO FREDDY"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1800",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E533",
                                     "docente":"VARGAS OROSCO FREDDY"
@@ -3439,14 +4083,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"MARTINEZ ALPIRI ANAHI MONICA"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1030",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"MARTINEZ ALPIRI ANAHI MONICA"
@@ -3463,7 +4121,14 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1030",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"SEMPERTEGUI ZEBALLOS SANDRA MA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"SEMPERTEGUI ZEBALLOS SANDRA MA"
@@ -3484,7 +4149,14 @@
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1330",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"SEMPERTEGUI ZEBALLOS SANDRA MA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"SEMPERTEGUI ZEBALLOS SANDRA MA"
@@ -3515,7 +4187,14 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1800",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"TORREZ AGUILAR JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"TORREZ AGUILAR JOSE"
@@ -3570,21 +4249,42 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"ALIENDRE LAFUENTE ROMER SIMON"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"ALIENDRE LAFUENTE ROMER SIMON"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"ALIENDRE LAFUENTE ROMER SIMON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
@@ -3601,21 +4301,42 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E526",
+                                    "docente":"GUILLEN ESCALERA ANA MARIA ELIANA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"GUILLEN ESCALERA ANA MARIA ELIANA"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"GUILLEN ESCALERA ANA MARIA ELIANA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"GUILLEN ESCALERA ANA MARIA ELIANA"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E546",
+                                    "docente":"GUILLEN ESCALERA ANA MARIA ELIANA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E546",
                                     "docente":"GUILLEN ESCALERA ANA MARIA ELIANA"
@@ -3636,28 +4357,56 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"ESCALERA MELGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"ESCALERA MELGAR ALBERTO"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"AREBALO HINOJOSA JOSE LUIS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 102",
                                     "docente":"AREBALO HINOJOSA JOSE LUIS"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"ESCALERA MELGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"ESCALERA MELGAR ALBERTO"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"ESCALERA MELGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"ESCALERA MELGAR ALBERTO"
@@ -3735,7 +4484,7 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1800",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E2A",
                                     "docente":"SUCRE REYES MARIA ANTONIETA"
@@ -3745,6 +4494,13 @@
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E2A",
+                                    "docente":"SUCRE REYES MARIA ANTONIETA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E2B",
                                     "docente":"SUCRE REYES MARIA ANTONIETA"
                                 },
                                 {
@@ -3846,21 +4602,42 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
@@ -3877,7 +4654,7 @@
                             "horarios":[
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E1C",
                                     "docente":"VILLAZON DEL CARPIO OSMAN ERICK"
@@ -3887,6 +4664,13 @@
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E1C",
+                                    "docente":"VILLAZON DEL CARPIO OSMAN ERICK"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"AUDPOSG",
                                     "docente":"VILLAZON DEL CARPIO OSMAN ERICK"
                                 },
                                 {
@@ -3941,21 +4725,42 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1800",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"DELGADILLO DORADO HERNAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"DELGADILLO DORADO HERNAN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1800",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"DELGADILLO DORADO HERNAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"DELGADILLO DORADO HERNAN"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"ALVAREZ ATORA RENE CRISTIAM"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"ALVAREZ ATORA RENE CRISTIAM"
@@ -3989,6 +4794,13 @@
                                 {
                                     "dia":"MI",
                                     "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E547",
+                                    "docente":"CAMACHO VILLARROEL MIRIAM DEL ROSARIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E528",
                                     "docente":"MARTINEZ JIMENES RONALD"
@@ -4050,21 +4862,42 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E1A",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E1A",
                                     "docente":"URQUIDI BELLIDO SONIA"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E1A",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E1A",
                                     "docente":"URQUIDI BELLIDO SONIA"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E1A",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E1A",
                                     "docente":"URQUIDI BELLIDO SONIA"
@@ -4115,7 +4948,7 @@
                     "grupos":[
                         {
                             "codigo":"21",
-                            "docente":"",
+                            "docente":"AVILES ROCHA MARTHA ELIZABETH",
                             "horarios":[
                                 {
                                     "dia":"LU",
@@ -4222,21 +5055,42 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E522",
                                     "docente":"ESCALERA ANTEZANA CARLOS"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E520",
                                     "docente":"ESCALERA ANTEZANA CARLOS"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E535",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E535",
                                     "docente":"ESCALERA ANTEZANA CARLOS"
@@ -4352,21 +5206,42 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"CABERO CALATAYUD CARLOS F."
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"CABERO CALATAYUD CARLOS F."
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 103",
+                                    "docente":"CABERO CALATAYUD CARLOS F."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 103",
                                     "docente":"CABERO CALATAYUD CARLOS F."
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"CABERO CALATAYUD CARLOS F."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"CABERO CALATAYUD CARLOS F."
@@ -4477,21 +5352,42 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"ZEGADA CLAURE OSCAR"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"ZEGADA CLAURE OSCAR"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E546",
+                                    "docente":"ZEGADA CLAURE OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E546",
                                     "docente":"ZEGADA CLAURE OSCAR"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"ZEGADA CLAURE OSCAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E530",
                                     "docente":"ZEGADA CLAURE OSCAR"
@@ -4508,14 +5404,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"PEREZ PEREZ JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"PEREZ PEREZ JORGE MARTIN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E527",
+                                    "docente":"PEREZ PEREZ JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"PEREZ PEREZ JORGE MARTIN"
@@ -4542,18 +5452,32 @@
                     "grupos":[
                         {
                             "codigo":"21",
-                            "docente":"",
+                            "docente":"DECKER MARQUEZ JOSE",
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"DECKER MARQUEZ JOSE"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"DECKER MARQUEZ JOSE"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"DECKER MARQUEZ JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E501",
                                     "docente":"DECKER MARQUEZ JOSE"
@@ -4612,14 +5536,28 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"2100",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E506",
+                                    "docente":"QUIROZ GOMEZ CARMEN RITA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E506",
                                     "docente":"QUIROZ GOMEZ CARMEN RITA"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"2100",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E508",
+                                    "docente":"QUIROZ GOMEZ CARMEN RITA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E508",
                                     "docente":"QUIROZ GOMEZ CARMEN RITA"
@@ -4669,16 +5607,30 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"2100",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 301",
+                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 301",
                                     "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"2100",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E513",
+                                    "aula":"E508",
+                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E508",
                                     "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
                                 },
                                 {
@@ -4692,8 +5644,8 @@
                                     "dia":"JU",
                                     "hora":"1330",
                                     "duracion":"1",
-                                    "aula":"E508",
-                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                    "aula":"E507",
+                                    "docente":"AREVALO CRESPO ADHALIT BEYMAR"
                                 }]
                         },
                         {
@@ -4777,7 +5729,14 @@
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E517",
+                                    "docente":"TORRICO SANCHEZ FELIPE ROBERTO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"E517",
                                     "docente":"TORRICO SANCHEZ FELIPE ROBERTO"
@@ -4888,7 +5847,7 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E526",
                                     "docente":"UBERHUAGA CANDIA PATRICIA DEL CARMEN"
@@ -4921,14 +5880,21 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E547",
+                                    "docente":"CUBA ROJAS PABLO LUIS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E547",
                                     "docente":"CUBA ROJAS PABLO LUIS"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E527",
                                     "docente":"CUBA ROJAS PABLO LUIS"
@@ -5013,7 +5979,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 101",
+                                    "docente":"RODRIGUEZ ROCA MARIA HILDA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E 101",
+                                    "docente":"RODRIGUEZ ROCA MARIA HILDA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"RODRIGUEZ ROCA MARIA HILDA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"RODRIGUEZ ROCA MARIA HILDA"
@@ -5344,6 +6331,20 @@
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"DECKER MARQUEZ JOSE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"DECKER MARQUEZ JOSE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E525",
+                                    "docente":"DECKER MARQUEZ JOSE"
                                 }]
                         }]
                 }]
@@ -5427,7 +6428,14 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO3",
+                                    "docente":"SUCRE REYES MARIA ANTONIETA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO3",
                                     "docente":"SUCRE REYES MARIA ANTONIETA"
@@ -5453,14 +6461,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO6",
+                                    "docente":"CLAURE FUENTES SHIRLEY CONSUELO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO6",
                                     "docente":"CLAURE FUENTES SHIRLEY CONSUELO"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO6",
+                                    "docente":"CLAURE FUENTES SHIRLEY CONSUELO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO6",
                                     "docente":"CLAURE FUENTES SHIRLEY CONSUELO"
@@ -5472,9 +6494,9 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
-                                    "aula":"ECO3",
+                                    "aula":"ECO2",
                                     "docente":"RODRIGUEZ ROCA MARIA HILDA"
                                 },
                                 {
@@ -5557,14 +6579,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO7",
+                                    "docente":"CONDORI ARIAS DOCENTE"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO7",
                                     "docente":"CONDORI ARIAS DOCENTE"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO8",
+                                    "docente":"CONDORI ARIAS DOCENTE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO8",
                                     "docente":"CONDORI ARIAS DOCENTE"
@@ -5576,14 +6612,21 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO2",
+                                    "docente":"AVILES ROCHA MARTHA ELIZABETH"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO2",
                                     "docente":"AVILES ROCHA MARTHA ELIZABETH"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO2",
                                     "docente":"AVILES ROCHA MARTHA ELIZABETH"
@@ -5668,14 +6711,28 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO1",
+                                    "docente":"GUTIERREZ ROJAS DOCENTE"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO1",
                                     "docente":"GUTIERREZ ROJAS DOCENTE"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO1",
+                                    "docente":"GUTIERREZ ROJAS DOCENTE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO1",
                                     "docente":"GUTIERREZ ROJAS DOCENTE"
@@ -5687,7 +6744,21 @@
                             "horarios":[
                                 {
                                     "dia":"VI",
-                                    "hora":"1930",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO4",
+                                    "docente":"GUTIERREZ ROJAS DOCENTE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
+                                    "duracion":"1",
+                                    "aula":"ECO4",
+                                    "docente":"GUTIERREZ ROJAS DOCENTE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO4",
                                     "docente":"GUTIERREZ ROJAS DOCENTE"
@@ -5819,7 +6890,14 @@
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1200",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO4",
+                                    "docente":"UBERHUAGA CANDIA PATRICIA DEL CARMEN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO4",
                                     "docente":"UBERHUAGA CANDIA PATRICIA DEL CARMEN"
@@ -5897,7 +6975,7 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO1",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
@@ -5905,6 +6983,13 @@
                                 {
                                     "dia":"MI",
                                     "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"ECO1",
+                                    "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO1",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
@@ -5942,14 +7027,21 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"2015",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO2",
                                     "docente":"ZEGADA CLAURE OSCAR"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"2015",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO2",
+                                    "docente":"ZEGADA CLAURE OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO2",
                                     "docente":"ZEGADA CLAURE OSCAR"
@@ -5961,14 +7053,28 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"2015",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO5",
+                                    "docente":"IRIARTE DE LA FUENTE MARCELA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO5",
                                     "docente":"IRIARTE DE LA FUENTE MARCELA"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"2015",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO5",
+                                    "docente":"IRIARTE DE LA FUENTE MARCELA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO5",
                                     "docente":"IRIARTE DE LA FUENTE MARCELA"
@@ -5994,7 +7100,7 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1630",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO6",
                                     "docente":"IRIARTE DE LA FUENTE MARCELA"
@@ -6021,6 +7127,20 @@
                                 {
                                     "dia":"LU",
                                     "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"ECO6",
+                                    "docente":"CUBA ROJAS PABLO LUIS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO8",
+                                    "docente":"CUBA ROJAS PABLO LUIS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO8",
                                     "docente":"CUBA ROJAS PABLO LUIS"
@@ -6065,7 +7185,14 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1800",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"ECO3",
+                                    "docente":"RODRIGUEZ ROCA MARIA HILDA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO3",
                                     "docente":"RODRIGUEZ ROCA MARIA HILDA"
@@ -6091,7 +7218,7 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO4",
                                     "docente":"URQUIDI BELLIDO SONIA"
@@ -6099,6 +7226,13 @@
                                 {
                                     "dia":"LU",
                                     "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"ECO4",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO4",
                                     "docente":"URQUIDI BELLIDO SONIA"
@@ -6176,7 +7310,7 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"1845",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO3",
                                     "docente":"POLO NAJERA DOCENTE"
@@ -6209,7 +7343,7 @@
                             "horarios":[
                                 {
                                     "dia":"JU",
-                                    "hora":"1200",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO3",
                                     "docente":"POLO NAJERA JOSE"
@@ -6224,6 +7358,13 @@
                                 {
                                     "dia":"JU",
                                     "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"ECO3",
+                                    "docente":"POLO NAJERA JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
                                     "duracion":"1",
                                     "aula":"ECO3",
                                     "docente":"POLO NAJERA JOSE"
@@ -6476,7 +7617,7 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"2100",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"ECO6",
                                     "docente":"CUBA ROJAS PABLO LUIS"
