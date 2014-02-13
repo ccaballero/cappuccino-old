@@ -105,6 +105,43 @@ class ParseTxt {
                     if (preg_match('/^(?P<grupo>\d{2})$/',
                         $lines[$i], $output)) {
                         $_grupo = $output['grupo'];
+
+                        if ($materia->hasGrupo($_grupo)) {
+                            $grupo = $materia->getGrupo($_grupo);
+                        } else {
+                            $grupo = new Models_Grupo($_grupo);
+                            $materia->addGrupo($_grupo, $grupo);
+                        }
+                    }
+
+                    $i = $i + 2;
+                    if (preg_match('/^(?P<dia>(LU|MA|MI|JU|VI))$/',
+                        $lines[$i], $output)) {
+                        $_dia = $output['dia'];
+                    }
+
+                    $i = $i + 4;
+                    if (preg_match('/^(?P<hora>\d{4})$/',
+                        $lines[$i], $output)) {
+                        $_hora = $output['hora'];
+                    }
+
+                    $i = $i + 2;
+                    if (preg_match('/^(?P<aula>.*)$/',
+                        $lines[$i], $output)) {
+                        $_aula = $output['aula'];
+                    }
+
+                    $start = intval($_hora);
+                    $horario = new Models_Horario(
+                        $_dia, $start, 1, $_aula);
+                    $grupo->addHorario($_dia, $start, $horario);
+
+                    $_docente = $_apellidos . ' ' . $_nombres;
+
+                    $horario->setDocente($_docente);
+                    if ($_tipo == 'C') {
+                        $grupo->setDocente($_docente);
                     }
                 }
             }
@@ -113,88 +150,33 @@ class ParseTxt {
         return $carreras;
     }
 
-    public function parser($content, $lines) {
-        foreach ($lines as $line) {
-            if (preg_match(
-                '/(?P<aux>\(?\*?\)?) ?(?P<codigo>\d{7}) (?P<nombre>.*) (?P<grupo>[0-9]{1,2}[a-zA-Z]?)/',
-                    $line, $output) ||
-                preg_match(
-                '/(?P<aux>\(?\*?\)?) ?(?P<codigo>\d{7}) (?P<nombre>.*)/',
-                    $line, $output)) {
-
-                if (isset($output['grupo'])) {
-                    $id_grupo = $output['grupo'];
-                    if (!array_key_exists($id_grupo, $materia->getGrupos())) {
-                        $grupo = new Models_Grupo($id_grupo);
-                        $materia->addGrupo($id_grupo, $grupo);
-                    } else {
-                        $grupos = $materia->getGrupos();
-                        $grupo = $grupos[$id_grupo];
-                    }
-                }
-            } else if (preg_match(
-                '/^(?P<codigo>[0-9]{1,2}[a-zA-Z]?)$/', $line,$output)) {
-                $codigo = $output['codigo'];
-                if (!array_key_exists($codigo, $materia->getGrupos())) {
-                    $grupo = new Models_Grupo($codigo);
-                    $materia->addGrupo($codigo, $grupo);
-                } else {
-                    $grupos = $materia->getGrupos();
-                    $grupo = $grupos[$codigo];
-                }
-            } else if (preg_match(
-                '/^(?P<dia>(LU|MA|MI|JU|VI|SA)) (?P<inicio>\d{3,4})-(?P<final>\d{3,4})\((?P<aula>.*)\)$/',
-                    $line, $output)) {
-                $dia = $output['dia'];
-                $inicio = intval($output['inicio']);
-                $final = intval($output['final']);
-                $duracion= intval(((intval($final/100)* 60 + ($final%100))-
-                           (intval($inicio/100)*60+($inicio%100)))/45);
-                $aula = $output['aula'];
-                $horario = new Models_Horario($dia, $inicio, $duracion, $aula);
-                $grupo->addHorario($dia, $inicio, $horario);
-            } else if (preg_match('/^([A-Z¥ \.\']+|Por Designar ...)$/', $line, $output)) {
-                $_docente = str_replace('¥', 'Ñ', $line);
-                $horario->setDocente($_docente);
-                if ($docente) {
-                    $grupo->setDocente($_docente);
-                    $docente = true;
-                }
-            }
-       }
-
-       return $carrera;
-    }
-
     public function transform($file) {
-        //echo 'Serializando a JSON ' . PHP_EOL;
+        echo 'Serializando a JSON ' . PHP_EOL;
+
+        $_carreras[] = array();
         $carreras = $this->parsePages($file);
         foreach ($carreras as $carrera) {
-            echo $carrera; 
+            $json_file = realpath(__DIR__ . '/../public/horarios/FCE/1-2014')
+                . '/' . $carrera->getCodigo() . '.json';
+
+            $json_carrera = $carrera->__toJSON();
+            $json_carrera = str_replace('Ñ', '\u00d1', $json_carrera);
+            file_put_contents($json_file, $json_carrera);
+
+            echo $json_file . '...OK' . PHP_EOL;
+
+            $_carrera = new StdClass();
+            $_carrera->codigo = $carrera->getCodigo();
+            $_carrera->nombre = $carrera->getNombre();
+            $_carreras[] = $_carrera;
         }
 
-        //$_carreras = array();
-
-        //$json_file = substr($file, 0, -4) . '.json';
-
-        //$json_carrera = $carrera->__toJSON();
-        //$json_carrera = str_replace('Ñ', '\u00d1', $json_carrera);
-        //file_put_contents($dir . $json_file, $json_carrera);
-
-        //$_carrera = new StdClass();
-        //$_carrera->codigo = $carrera->getCodigo();
-        //$_carrera->nombre = $carrera->getNombre();
-        //$_carreras[] = $_carrera;
-        
-        //echo $json_file . '...OK' . PHP_EOL;
-
-        //file_put_contents(substr($dir, 0, -1) . '.json', json_encode($_carreras));
+        $file = realpath(__DIR__ . '/../public/horarios/FCE') . '/1-2014.json';
+        file_put_contents($file, json_encode($_carreras));
     }
 }
 
 $file = __DIR__ . '/../public/horarios/FCE/2014-1.txt';
 $parser = new ParseTxt();
 $parser->transform($file);
-
-//echo $carrera;
 

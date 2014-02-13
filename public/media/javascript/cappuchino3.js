@@ -1,6 +1,6 @@
 var Config=new(function(){
-    this.url='/horarios/FCyT/'
-    this.gestion='2-2013'
+    this.url='/horarios/FCE/'
+    this.gestion='1-2014'
     this.url_gestion=this.url+this.gestion
     this.carreras=[]
 })()

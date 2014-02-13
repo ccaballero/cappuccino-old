@@ -1,0 +1,3922 @@
+{
+    "codigo":"125091",
+    "nombre":"LIC. EN INGENIERIA COMERCIAL",
+    "niveles":[
+        {
+            "codigo":"A",
+            "materias":[
+                {
+                    "codigo":"1301004",
+                    "nombre":"METODOLOGIA DE INVESTIGACION I",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"GUERRA TORO MARIA ELENA",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"GUERRA TORO MARIA ELENA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"GUERRA TORO MARIA ELENA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"GUERRA TORO MARIA ELENA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"GUERRA TORO MARIA ELENA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"GUERRA TORO MARIA ELENA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"GUERRA TORO MARIA ELENA"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"LOZADA TORRICO RUDY REMBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"09",
+                            "docente":"LOZADA TORRICO RUDY REMBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301131",
+                    "nombre":"INTRODUCCION A LA INGENIERIA COMERC",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"COCA CARASILA ANDRES MILTON",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"COCA CARASILA ANDRES MILTON"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"COCA CARASILA ANDRES MILTON"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"COCA CARASILA ANDRES MILTON"
+                                }]
+                        },
+                        {
+                            "codigo":"02",
+                            "docente":"VILLARROEL SOLIZ GROVER",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                }]
+                        },
+                        {
+                            "codigo":"03",
+                            "docente":"COCA CARASILA ANDRES MILTON",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"COCA CARASILA ANDRES MILTON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"COCA CARASILA ANDRES MILTON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301132",
+                    "nombre":"CONTABILIDAD GERENCIAL",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"MALDONADO ULUNQUE VICTOR HUGO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"MALDONADO ULUNQUE VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"MALDONADO ULUNQUE VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"MALDONADO ULUNQUE VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"MALDONADO ULUNQUE VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"MALDONADO ULUNQUE VICTOR HUGO"
+                                }]
+                        },
+                        {
+                            "codigo":"02",
+                            "docente":"ROCABADO SUAREZ ALVARO FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"03",
+                            "docente":"ROCABADO SUAREZ ALVARO FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E541",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E541",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E542",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E542",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301133",
+                    "nombre":"ALGEBRA LINEAL",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"VELARDE POMA JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"CALDERON VILLEGAS VANESSA NOELIA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"CALDERON VILLEGAS VANESSA NOELIA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                }]
+                        },
+                        {
+                            "codigo":"02",
+                            "docente":"VELARDE POMA JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"BEJARANO CONDORI RAMIRO KEVIN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"BEJARANO CONDORI RAMIRO KEVIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E510",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E510",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                }]
+                        },
+                        {
+                            "codigo":"03",
+                            "docente":"IRIARTE MERCADO EDGAR ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"IRIARTE MERCADO EDGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"IRIARTE MERCADO EDGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"IRIARTE MERCADO EDGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"IRIARTE MERCADO EDGAR ALBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"04",
+                            "docente":"LAZCANO ALANDIA RUBEN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"LAZCANO ALANDIA RUBEN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"LAZCANO ALANDIA RUBEN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"LAZCANO ALANDIA RUBEN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"LAZCANO ALANDIA RUBEN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"LAZCANO ALANDIA RUBEN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"LAZCANO ALANDIA RUBEN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301134",
+                    "nombre":"CALCULO I",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"QUIROZ CLAURE COSME",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"QUIROZ CLAURE COSME"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"QUIROZ CLAURE COSME"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"QUIROZ CLAURE COSME"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"FLORES VARGAS JOSE ISRAEL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"FLORES VARGAS JOSE ISRAEL"
+                                }]
+                        },
+                        {
+                            "codigo":"02",
+                            "docente":"DIAZ MONZON EDMUNDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"DIAZ MONZON EDMUNDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"DIAZ MONZON EDMUNDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"GONZALES TASTACA ADDERLY"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"GONZALES TASTACA ADDERLY"
+                                }]
+                        },
+                        {
+                            "codigo":"03",
+                            "docente":"QUIROZ CLAURE COSME",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"QUIROZ CLAURE COSME"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"QUIROZ CLAURE COSME"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"QUIROZ CLAURE COSME"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"B",
+            "materias":[
+                {
+                    "codigo":"1301006",
+                    "nombre":"TEORIA Y TECNICAS DE LA ORGANIZACION",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                }]
+                        },
+                        {
+                            "codigo":"22",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"JALDIN MEJIA RENE PATRICIO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"JALDIN MEJIA RENE PATRICIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"JALDIN MEJIA RENE PATRICIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"JALDIN MEJIA RENE PATRICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"JALDIN MEJIA RENE PATRICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"JALDIN MEJIA RENE PATRICIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301009",
+                    "nombre":"ESTADISTICA I",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"TABORGA ACHA FIDEL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"TABORGA ACHA FIDEL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"TABORGA ACHA FIDEL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"VERA HUANCA OMAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"VERA HUANCA OMAR"
+                                }]
+                        },
+                        {
+                            "codigo":"03",
+                            "docente":"SUAZNABAR CLAROS FERNANDO ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"SUAZNABAR CLAROS FERNANDO ALBERTO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"SUAZNABAR CLAROS FERNANDO ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"SUAZNABAR CLAROS FERNANDO ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"CLAROS NINA ERICK OSMAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"CLAROS NINA ERICK OSMAR"
+                                }]
+                        },
+                        {
+                            "codigo":"07",
+                            "docente":"MONTANO QUIROGA CLAUDIA CAROLA",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"MONTANO QUIROGA CLAUDIA CAROLA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"MONTANO QUIROGA CLAUDIA CAROLA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"MONTANO QUIROGA CLAUDIA CAROLA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"MONTANO QUIROGA CLAUDIA CAROLA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"MONTANO QUIROGA CLAUDIA CAROLA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"MONTANO QUIROGA CLAUDIA CAROLA"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"GUEVARA ESPINOZA JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E536",
+                                    "docente":"GUEVARA ESPINOZA JORGE"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E536",
+                                    "docente":"GUEVARA ESPINOZA JORGE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"GUEVARA ESPINOZA JORGE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"GUEVARA ESPINOZA JORGE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"GUEVARA ESPINOZA JORGE"
+                                }]
+                        },
+                        {
+                            "codigo":"21",
+                            "docente":"BUSTAMANTE MALDONADO FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"BUSTAMANTE MALDONADO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"BUSTAMANTE MALDONADO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"BUSTAMANTE MALDONADO FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ACARAPI MAMANI USIEL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ACARAPI MAMANI USIEL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301135",
+                    "nombre":"CONTABILIDAD PARA LA GESTION",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"ROCABADO SUAREZ ALVARO FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"02",
+                            "docente":"ROCABADO SUAREZ ALVARO FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E546",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E546",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E530",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 102",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301136",
+                    "nombre":"CALCULO II",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"DIAZ MONZON EDMUNDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"DIAZ MONZON EDMUNDO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"DIAZ MONZON EDMUNDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"DIAZ MONZON EDMUNDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"DIAZ MONZON EDMUNDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"DIAZ MONZON EDMUNDO"
+                                }]
+                        },
+                        {
+                            "codigo":"02",
+                            "docente":"VALDEZ ESCOBAR JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"VALDEZ ESCOBAR JORGE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"VALDEZ ESCOBAR JORGE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"VALDEZ ESCOBAR JORGE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"VALDEZ ESCOBAR JORGE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301137",
+                    "nombre":"ECONOMIA DE EMPRESAS",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"ZUBIETA FLORIDO FREDDY",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ZUBIETA FLORIDO FREDDY"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ZUBIETA FLORIDO FREDDY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ZUBIETA FLORIDO FREDDY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"ZUBIETA FLORIDO FREDDY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"ZUBIETA FLORIDO FREDDY"
+                                }]
+                        },
+                        {
+                            "codigo":"02",
+                            "docente":"LOZADA TORRICO RUDY REMBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"LOZADA TORRICO RUDY REMBERTO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"C",
+            "materias":[
+                {
+                    "codigo":"1301010",
+                    "nombre":"INGLES I",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"VALLEJO ECHEVERRIA JULIAN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"VALLEJO ECHEVERRIA JULIAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"VALLEJO ECHEVERRIA JULIAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"VALLEJO ECHEVERRIA JULIAN"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"VALLEJO ECHEVERRIA JULIAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E535",
+                                    "docente":"PARDO FERNANDEZ JULIO FRANCO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"VALLEJO ECHEVERRIA JULIAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"PARDO FERNANDEZ JULIO FRANCO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"VALLEJO ECHEVERRIA JULIAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"VALLEJO ECHEVERRIA JULIAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301016",
+                    "nombre":"ESTADISTICA II",
+                    "grupos":[
+                        {
+                            "codigo":"02",
+                            "docente":"MONTANO MONTANO JOSE",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"GONZALES TASTACA ADDERLY"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"GONZALES TASTACA ADDERLY"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"MONTANO MONTANO JOSE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"MONTANO MONTANO JOSE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"MONTANO MONTANO JOSE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"MONTANO MONTANO JOSE"
+                                }]
+                        },
+                        {
+                            "codigo":"07",
+                            "docente":"URQUIDI BELLIDO SONIA",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"URQUIDI BELLIDO SONIA"
+                                }]
+                        },
+                        {
+                            "codigo":"21",
+                            "docente":"CONDORI ARIAS HERMOGENES",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"LAURA JUAN ERASMO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"LAURA JUAN ERASMO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301138",
+                    "nombre":"GESTION DE LA ADMINISTRACION I",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"ARAMAYO CAMACHO MARCELO MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"ARAMAYO CAMACHO MARCELO MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301139",
+                    "nombre":"COSTOS EMPRESARIALES",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"GARCIA TORDOYA RICARDO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"LEDEZMA BELTRAN GUSTAVO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"LEDEZMA BELTRAN GUSTAVO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"LEDEZMA BELTRAN GUSTAVO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"LEDEZMA BELTRAN GUSTAVO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"LEDEZMA BELTRAN GUSTAVO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"LEDEZMA BELTRAN GUSTAVO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"LEDEZMA BELTRAN GUSTAVO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301140",
+                    "nombre":"MATEMATICA FINANCIERA",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"FERREIRA MONTES VICTOR HUGO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"FERREIRA MONTES VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"FERREIRA MONTES VICTOR HUGO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301141",
+                    "nombre":"DERECHO COMERCIAL Y LABORAL",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"VILLARROEL FRANCO CESAR VLADIMIR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"VILLARROEL FRANCO CESAR VLADIMIR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"VILLARROEL FRANCO CESAR VLADIMIR"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"D",
+            "materias":[
+                {
+                    "codigo":"1301011",
+                    "nombre":"INGLES II",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"VALLEJO ECHEVERRIA JULIAN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"VALLEJO ECHEVERRIA JULIAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E535",
+                                    "docente":"PARDO FERNANDEZ JULIO FRANCO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 205",
+                                    "docente":"VALLEJO ECHEVERRIA JULIAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"VALLEJO ECHEVERRIA JULIAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301017",
+                    "nombre":"MACROECONOMIA",
+                    "grupos":[
+                        {
+                            "codigo":"02",
+                            "docente":"ROMERO PADILLA CESAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"ROMERO PADILLA CESAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"ROMERO PADILLA CESAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"ROMERO PADILLA CESAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"ROMERO PADILLA CESAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"ROMERO PADILLA CESAR"
+                                }]
+                        },
+                        {
+                            "codigo":"07",
+                            "docente":"ESCALERA MELGAR ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"ESCALERA MELGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"ESCALERA MELGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"ESCALERA MELGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"ESCALERA MELGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E512",
+                                    "docente":"ESCALERA MELGAR ALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E512",
+                                    "docente":"ESCALERA MELGAR ALBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"21",
+                            "docente":"CONDORI ARIAS HERMOGENES",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E502",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"CONDORI ARIAS HERMOGENES"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301021",
+                    "nombre":"COSTOS PARA LA TOMA DE DECISIONES",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"CAMACHO PRADO OMAR ALEJANDRO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"CAMACHO PRADO OMAR ALEJANDRO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"CAMACHO PRADO OMAR ALEJANDRO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"CAMACHO PRADO OMAR ALEJANDRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"CAMACHO PRADO OMAR ALEJANDRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"CAMACHO PRADO OMAR ALEJANDRO"
+                                }]
+                        },
+                        {
+                            "codigo":"20",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"RODRIGUEZ HURTADO JOSE LUIS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"RODRIGUEZ HURTADO JOSE LUIS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                }]
+                        },
+                        {
+                            "codigo":"22",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 205",
+                                    "docente":"VEGA IGLECIAS MARIA DEL CARMEN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 205",
+                                    "docente":"VEGA IGLECIAS MARIA DEL CARMEN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301022",
+                    "nombre":"ANALISIS DE ESTADOS FINANCIEROS",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"BALDERRAMA MAMANI JOSE ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"MORALES ROJAS ARTURO JOSE L.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E503",
+                                    "docente":"MORALES ROJAS ARTURO JOSE L."
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"MORALES ROJAS ARTURO JOSE L."
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"MORALES ROJAS ARTURO JOSE L."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 107",
+                                    "docente":"MORALES ROJAS ARTURO JOSE L."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 107",
+                                    "docente":"MORALES ROJAS ARTURO JOSE L."
+                                }]
+                        },
+                        {
+                            "codigo":"09",
+                            "docente":"COCA GONZALES ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"COCA GONZALES ALBERTO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"COCA GONZALES ALBERTO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"COCA GONZALES ALBERTO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"COCA GONZALES ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"COCA GONZALES ALBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301142",
+                    "nombre":"PROGRAMACION BASICA",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"COVARRUBIAS VARGAS CAUJMAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"COVARRUBIAS VARGAS CAUJMAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E549",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E549",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301143",
+                    "nombre":"INVESTIGACION OPERATIVA I",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"VILLAGOMEZ VILLARROEL CESAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VILLAGOMEZ VILLARROEL CESAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VILLAGOMEZ VILLARROEL CESAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"VILLAGOMEZ VILLARROEL CESAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"VILLAGOMEZ VILLARROEL CESAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"VILLAGOMEZ VILLARROEL CESAR"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"E",
+            "materias":[
+                {
+                    "codigo":"1301019",
+                    "nombre":"PRESUPUESTOS",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"MARTINEZ ALPIRI ANAHI MONICA",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                }]
+                        },
+                        {
+                            "codigo":"07",
+                            "docente":"TORRICO LARA ALEX",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"TORRICO LARA ALEX"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"TORRICO LARA ALEX"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"TORRICO LARA ALEX"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301144",
+                    "nombre":"GESTION DE LA ADMINISTRACION II",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"ARAMAYO CAMACHO MARCELO MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                }]
+                        },
+                        {
+                            "codigo":"08",
+                            "docente":"ARAMAYO CAMACHO MARCELO MAURICIO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"ARAMAYO CAMACHO MARCELO MAURICIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301145",
+                    "nombre":"INVESTIGACION OPERATIVA II",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"VARGAS ANTEZANA ADEMAR MARCELO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VARGAS ANTEZANA ADEMAR MARCELO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VARGAS ANTEZANA ADEMAR MARCELO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VARGAS ANTEZANA ADEMAR MARCELO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VARGAS ANTEZANA ADEMAR MARCELO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VARGAS ANTEZANA ADEMAR MARCELO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301146",
+                    "nombre":"SISTEMA DE INFORMACION PARA LA GEST",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E545",
+                                    "docente":"VELASQUEZ ARIAS MARLENE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E503",
+                                    "docente":"VELASQUEZ ARIAS MARLENE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VELASQUEZ ARIAS MARLENE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301147",
+                    "nombre":"ECOLOGIA Y MEDIO AMBIENTE",
+                    "grupos":[
+                        {
+                            "codigo":"01",
+                            "docente":"ROCABADO SUAREZ ALVARO FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"ROCABADO SUAREZ ALVARO FERNANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"07",
+                            "docente":"SEJAS CHOQUE JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E1C",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E1C",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301148",
+                    "nombre":"PSICOLOGIA ORGANIZACIONAL",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"VILDOZO ZAMORANO WALTER FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"F",
+            "materias":[
+                {
+                    "codigo":"1301149",
+                    "nombre":"PROCESOS INDUSTRIALES ( PRODUCCION",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301150",
+                    "nombre":"LOGISTICA PARA OPERACIONES",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"COSSIO MC.GALEN LIMBERT PAUL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"COSSIO MC.GALEN LIMBERT PAUL"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"COSSIO MC.GALEN LIMBERT PAUL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 205",
+                                    "docente":"COSSIO MC.GALEN LIMBERT PAUL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 205",
+                                    "docente":"COSSIO MC.GALEN LIMBERT PAUL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"COSSIO MC.GALEN LIMBERT PAUL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"COSSIO MC.GALEN LIMBERT PAUL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301151",
+                    "nombre":"FINANZAS",
+                    "grupos":[
+                        {
+                            "codigo":"27",
+                            "docente":"RIVERA CLAROS WILDER OMAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E546",
+                                    "docente":"RIVERA CLAROS WILDER OMAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"RIVERA CLAROS WILDER OMAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E546",
+                                    "docente":"RIVERA CLAROS WILDER OMAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301152",
+                    "nombre":"MERCADOTECNIA",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"GUTIERREZ OVANDO ISELA",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301153",
+                    "nombre":"RECURSOS HUMANOS",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"TORRES ARANDIA WILLIAM",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"TORRES ARANDIA WILLIAM"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"TORRES ARANDIA WILLIAM"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"TORRES ARANDIA WILLIAM"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"TORRES ARANDIA WILLIAM"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"TORRES ARANDIA WILLIAM"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"TORRES ARANDIA WILLIAM"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"G",
+            "materias":[
+                {
+                    "codigo":"1301154",
+                    "nombre":"DIRECCION EMPRESARIAL",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"GUTIERREZ OVANDO ISELA",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 206",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E PB-4",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"GUTIERREZ OVANDO ISELA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301156",
+                    "nombre":"GESTION FINANCIERA",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"BURGOS MEDINA CARLOS ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"BURGOS MEDINA CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"BURGOS MEDINA CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"BURGOS MEDINA CARLOS ALBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301158",
+                    "nombre":"INVESTIGACION DE MERCADOS",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"SEJAS CHOQUE JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301171",
+                    "nombre":"COMERCIO EXTERIOR",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"SANCHEZ SANCHEZ EDSON OSWALDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"SANCHEZ SANCHEZ EDSON OSWALDO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"SANCHEZ SANCHEZ EDSON OSWALDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"SANCHEZ SANCHEZ EDSON OSWALDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"SANCHEZ SANCHEZ EDSON OSWALDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"SANCHEZ SANCHEZ EDSON OSWALDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"SANCHEZ SANCHEZ EDSON OSWALDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301172",
+                    "nombre":"MARKETING DE SERVICIOS Y RELACIONAL",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301173",
+                    "nombre":"ECONOMETRIA Y SIMULACIONES",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"GONZALES FERNANDEZ FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"GONZALES FERNANDEZ FERNANDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"GONZALES FERNANDEZ FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E549",
+                                    "docente":"GONZALES FERNANDEZ FERNANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E549",
+                                    "docente":"GONZALES FERNANDEZ FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E549",
+                                    "docente":"GONZALES FERNANDEZ FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E549",
+                                    "docente":"GONZALES FERNANDEZ FERNANDO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"H",
+            "materias":[
+                {
+                    "codigo":"1301044",
+                    "nombre":"PREPARACION Y EVALUACION DE PROYEC",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"VILLAZON ARANDIA RICARDO IVAN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301160",
+                    "nombre":"REGIMEN TRIBUTARIO Y ADUANERO",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"TORREZ AGUILAR JOSE",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"TORREZ AGUILAR JOSE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"TORREZ AGUILAR JOSE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"TORREZ AGUILAR JOSE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"TORREZ AGUILAR JOSE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301162",
+                    "nombre":"GESTION DE CALIDAD",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"GUZMAN DURAN GONZALO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"GUZMAN DURAN GONZALO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"GUZMAN DURAN GONZALO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"GUZMAN DURAN GONZALO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"GUZMAN DURAN GONZALO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"GUZMAN DURAN GONZALO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"GUZMAN DURAN GONZALO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301168",
+                    "nombre":"SEGURIDAD E HIGIENE INDUSTRIAL",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"VALDEZ ZEGARRA RAFAEL A.",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"VALDEZ ZEGARRA RAFAEL A."
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"VALDEZ ZEGARRA RAFAEL A."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"VALDEZ ZEGARRA RAFAEL A."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"VALDEZ ZEGARRA RAFAEL A."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"VALDEZ ZEGARRA RAFAEL A."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301174",
+                    "nombre":"INVESTIGACION DE MERCADOS II",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"APAZA COLQUE FELIX JUAN",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"APAZA COLQUE FELIX JUAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"APAZA COLQUE FELIX JUAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"APAZA COLQUE FELIX JUAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"APAZA COLQUE FELIX JUAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301175",
+                    "nombre":"NEUROMARKETING Y MARKETING LATERA",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"MALDONADO ROJAS RAMIRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"MALDONADO ROJAS RAMIRO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301176",
+                    "nombre":"INGENIERIA DE NUEVOS PRODUCTOS",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"ESCALERA ANTEZANA CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"I",
+            "materias":[
+                {
+                    "codigo":"1301165",
+                    "nombre":"PRACTICA PROFESIONAL",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"ESCALERA ANTEZANA CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301166",
+                    "nombre":"PUBLICIDAD Y COMUNICACION MASIVA",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"MEDRANO CLAURE DANNY OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"MEDRANO CLAURE DANNY OSCAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E522",
+                                    "docente":"MEDRANO CLAURE DANNY OSCAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"MEDRANO CLAURE DANNY OSCAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"MEDRANO CLAURE DANNY OSCAR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301167",
+                    "nombre":"MERCADOTECNIA Y NEGOCIOS DIGITALES",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"TORRICO BASCOPE ROSEMARY"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"TORRICO BASCOPE ROSEMARY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"TORRICO BASCOPE ROSEMARY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"TORRICO BASCOPE ROSEMARY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301169",
+                    "nombre":"TALLER DE DISENO DE PLANES MERCADO",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"RIVERO MORENO CARLOS SERGIO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E524",
+                                    "docente":"RIVERO MORENO CARLOS SERGIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"RIVERO MORENO CARLOS SERGIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1500",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"RIVERO MORENO CARLOS SERGIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"RIVERO MORENO CARLOS SERGIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"RIVERO MORENO CARLOS SERGIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301177",
+                    "nombre":"COMPORTAMIENTO DEL CONSUMIDOR",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"DELGADILLO SALAS MAYCOL MARCOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"DELGADILLO SALAS MAYCOL MARCOS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"DELGADILLO SALAS MAYCOL MARCOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"DELGADILLO SALAS MAYCOL MARCOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"DELGADILLO SALAS MAYCOL MARCOS"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301178",
+                    "nombre":"SISTEMA Y CANALES DE DISTRIBUCION",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"CAMPERO GUTIERREZ MILTON",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"CAMPERO GUTIERREZ MILTON"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E520",
+                                    "docente":"CAMPERO GUTIERREZ MILTON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"CAMPERO GUTIERREZ MILTON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E521",
+                                    "docente":"CAMPERO GUTIERREZ MILTON"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"1301179",
+                    "nombre":"GESTION DE PROYECTOS",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"SEJAS CHOQUE JUAN CARLOS",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E504",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E501",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E PB-3",
+                                    "docente":"SEJAS CHOQUE JUAN CARLOS"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"J",
+            "materias":[
+                {
+                    "codigo":"1301170",
+                    "nombre":"MODALIDADES DE TITULACION",
+                    "grupos":[
+                        {
+                            "codigo":"07",
+                            "docente":"MAZORCO IRURETA GRACIELA",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"MAZORCO IRURETA GRACIELA"
+                                }]
+                        }]
+                }]
+        }]
+}

@@ -41,6 +41,14 @@ class Models_Materia extends Models_Coleccion
         $this->grupos[$codigo] = $grupo;
     }
 
+    public function hasGrupo($codigo) {
+        return array_key_exists($codigo, $this->grupos);
+    }
+
+    public function getGrupo($codigo) {
+        return $this->grupos[$codigo];
+    }
+
     public function __toString() {
         $return = ' * (' . $this->codigo .') '.$this->nombre . PHP_EOL;
         foreach ($this->getGrupos() as $grupo) {
