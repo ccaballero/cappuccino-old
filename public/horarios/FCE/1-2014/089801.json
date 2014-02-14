@@ -203,16 +203,16 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1245",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E514",
+                                    "aula":"E 302",
                                     "docente":"MALDONADO ROJAS RAMIRO"
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"1330",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E514",
+                                    "aula":"E 302",
                                     "docente":"MALDONADO ROJAS RAMIRO"
                                 },
                                 {
@@ -451,15 +451,15 @@
                                     "docente":"TABORGA ACHA FIDEL"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"945",
+                                    "dia":"MA",
+                                    "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E512",
                                     "docente":"COLQUE MAMANI GRICEL CONCEPCION"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1030",
+                                    "dia":"MA",
+                                    "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E512",
                                     "docente":"COLQUE MAMANI GRICEL CONCEPCION"
@@ -1573,28 +1573,28 @@
                                     "dia":"MI",
                                     "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E511",
+                                    "aula":"E 301",
                                     "docente":"VARGAS PEREDO EMIR FELIX"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E511",
+                                    "aula":"E 301",
                                     "docente":"VARGAS PEREDO EMIR FELIX"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"1715",
+                                    "dia":"SA",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E511",
+                                    "aula":"E 106",
                                     "docente":"VARGAS PEREDO EMIR FELIX"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"1800",
+                                    "dia":"SA",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E511",
+                                    "aula":"E 106",
                                     "docente":"VARGAS PEREDO EMIR FELIX"
                                 }]
                         },
@@ -2266,30 +2266,30 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"945",
+                                    "hora":"815",
                                     "duracion":"1",
                                     "aula":"E516",
                                     "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"1030",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E516",
                                     "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"945",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E 108",
+                                    "aula":"E 106",
                                     "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1030",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E 108",
+                                    "aula":"E 106",
                                     "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
                                 },
                                 {
@@ -3118,49 +3118,49 @@
                         },
                         {
                             "codigo":"23",
-                            "docente":"ALVARADO RIVAS MERY",
+                            "docente":"MERCADO SORIA DOCENTE",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"645",
                                     "duracion":"1",
                                     "aula":"E 108",
-                                    "docente":"ALVARADO RIVAS MERY"
+                                    "docente":"MERCADO SORIA DOCENTE"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 108",
-                                    "docente":"ALVARADO RIVAS MERY"
+                                    "docente":"MERCADO SORIA DOCENTE"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1845",
                                     "duracion":"1",
                                     "aula":"E517",
-                                    "docente":"ALVARADO RIVAS MERY"
+                                    "docente":"MERCADO SORIA DOCENTE"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1930",
                                     "duracion":"1",
                                     "aula":"E517",
-                                    "docente":"ALVARADO RIVAS MERY"
+                                    "docente":"MERCADO SORIA DOCENTE"
                                 },
                                 {
                                     "dia":"SA",
-                                    "hora":"645",
+                                    "hora":"815",
                                     "duracion":"1",
                                     "aula":"E512",
-                                    "docente":"ALVARADO RIVAS MERY"
+                                    "docente":"MERCADO SORIA DOCENTE"
                                 },
                                 {
                                     "dia":"SA",
-                                    "hora":"730",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E512",
-                                    "docente":"ALVARADO RIVAS MERY"
+                                    "docente":"MERCADO SORIA DOCENTE"
                                 }]
                         },
                         {
@@ -3296,16 +3296,16 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1245",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E PB-1",
+                                    "aula":"E 108",
                                     "docente":"MALDONADO ROJAS RAMIRO"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1330",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E PB-1",
+                                    "aula":"E 108",
                                     "docente":"MALDONADO ROJAS RAMIRO"
                                 }]
                         },
@@ -3480,16 +3480,16 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"2015",
+                                    "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E510",
+                                    "aula":"E PB-1",
                                     "docente":"ESCALERA MELGAR ALBERTO"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"2100",
+                                    "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E510",
+                                    "aula":"E PB-1",
                                     "docente":"ESCALERA MELGAR ALBERTO"
                                 }]
                         },
@@ -3704,14 +3704,14 @@
                                     "docente":"MONTA\u00d1O VARGAS OSCAR"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E514",
                                     "docente":"ALMARAZ AREBALO NELCY"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E514",
@@ -4055,35 +4055,35 @@
                         },
                         {
                             "codigo":"06",
-                            "docente":"HINOJOSA DE IRAOLA MARCELO",
+                            "docente":"APAZA COLQUE FELIX JUAN",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"815",
                                     "duracion":"1",
                                     "aula":"E517",
-                                    "docente":"HINOJOSA DE IRAOLA MARCELO"
+                                    "docente":"APAZA COLQUE FELIX JUAN"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"900",
                                     "duracion":"1",
                                     "aula":"E517",
-                                    "docente":"HINOJOSA DE IRAOLA MARCELO"
+                                    "docente":"APAZA COLQUE FELIX JUAN"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
                                     "duracion":"1",
                                     "aula":"E518",
-                                    "docente":"HINOJOSA DE IRAOLA MARCELO"
+                                    "docente":"APAZA COLQUE FELIX JUAN"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"900",
                                     "duracion":"1",
                                     "aula":"E518",
-                                    "docente":"HINOJOSA DE IRAOLA MARCELO"
+                                    "docente":"APAZA COLQUE FELIX JUAN"
                                 }]
                         },
                         {
@@ -4129,31 +4129,31 @@
                             "docente":"HINOJOSA DE IRAOLA MARCELO",
                             "horarios":[
                                 {
-                                    "dia":"LU",
-                                    "hora":"1245",
+                                    "dia":"MI",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E508",
-                                    "docente":"HINOJOSA DE IRAOLA MARCELO"
-                                },
-                                {
-                                    "dia":"LU",
-                                    "hora":"1330",
-                                    "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E 303",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1845",
+                                    "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E542",
+                                    "aula":"E 303",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1930",
+                                    "dia":"VI",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E542",
+                                    "aula":"E507",
+                                    "docente":"HINOJOSA DE IRAOLA MARCELO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E507",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 }]
                         },
@@ -4162,31 +4162,31 @@
                             "docente":"HINOJOSA DE IRAOLA MARCELO",
                             "horarios":[
                                 {
-                                    "dia":"MA",
-                                    "hora":"1845",
+                                    "dia":"JU",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E541",
+                                    "aula":"E 302",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"MA",
-                                    "hora":"1930",
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E541",
+                                    "aula":"E 302",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"1845",
+                                    "dia":"SA",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E510",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"1930",
+                                    "dia":"SA",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E510",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 }]
                         },
@@ -4228,31 +4228,31 @@
                             "docente":"HINOJOSA DE IRAOLA MARCELO",
                             "horarios":[
                                 {
-                                    "dia":"MI",
-                                    "hora":"1245",
+                                    "dia":"MA",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E506",
+                                    "aula":"E512",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1330",
+                                    "dia":"MA",
+                                    "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E506",
+                                    "aula":"E512",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"1245",
+                                    "dia":"SA",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E506",
+                                    "aula":"E507",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"1330",
+                                    "dia":"SA",
+                                    "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E506",
+                                    "aula":"E507",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 }]
                         },
@@ -4366,30 +4366,30 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1545",
+                                    "hora":"1245",
                                     "duracion":"1",
-                                    "aula":"E518",
+                                    "aula":"E 301",
                                     "docente":"MANSILLA HEREDIA ALFREDO EDUARDO"
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"1630",
+                                    "hora":"1330",
                                     "duracion":"1",
-                                    "aula":"E518",
+                                    "aula":"E 301",
                                     "docente":"MANSILLA HEREDIA ALFREDO EDUARDO"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1545",
+                                    "hora":"1245",
                                     "duracion":"1",
-                                    "aula":"E518",
+                                    "aula":"E 301",
                                     "docente":"MANSILLA HEREDIA ALFREDO EDUARDO"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1630",
+                                    "hora":"1330",
                                     "duracion":"1",
-                                    "aula":"E518",
+                                    "aula":"E 301",
                                     "docente":"MANSILLA HEREDIA ALFREDO EDUARDO"
                                 }]
                         },
@@ -4530,31 +4530,31 @@
                             "docente":"MANSILLA HEREDIA ALFREDO EDUARDO",
                             "horarios":[
                                 {
-                                    "dia":"LU",
-                                    "hora":"1715",
+                                    "dia":"MA",
+                                    "hora":"1245",
                                     "duracion":"1",
-                                    "aula":"E509",
+                                    "aula":"E 301",
                                     "docente":"MANSILLA HEREDIA ALFREDO EDUARDO"
                                 },
                                 {
-                                    "dia":"LU",
-                                    "hora":"1800",
+                                    "dia":"MA",
+                                    "hora":"1330",
                                     "duracion":"1",
-                                    "aula":"E509",
+                                    "aula":"E 301",
                                     "docente":"MANSILLA HEREDIA ALFREDO EDUARDO"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1715",
+                                    "dia":"JU",
+                                    "hora":"1245",
                                     "duracion":"1",
-                                    "aula":"E537",
+                                    "aula":"E 301",
                                     "docente":"MANSILLA HEREDIA ALFREDO EDUARDO"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1800",
+                                    "dia":"JU",
+                                    "hora":"1330",
                                     "duracion":"1",
-                                    "aula":"E537",
+                                    "aula":"E 301",
                                     "docente":"MANSILLA HEREDIA ALFREDO EDUARDO"
                                 }]
                         }]
@@ -4758,7 +4758,7 @@
                 },
                 {
                     "codigo":"1302021",
-                    "nombre":"ESTADISTICA II",
+                    "nombre":"ESTADISTICA I",
                     "grupos":[
                         {
                             "codigo":"01",
@@ -5969,14 +5969,14 @@
                                     "dia":"SA",
                                     "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E507",
+                                    "aula":"E512",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E507",
+                                    "aula":"E512",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
                                 }]
                         },
@@ -6324,6 +6324,20 @@
                             "docente":"MALDONADO ULUNQUE VICTOR HUGO",
                             "horarios":[
                                 {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E 301",
+                                    "docente":"MALDONADO ULUNQUE VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E 301",
+                                    "docente":"MALDONADO ULUNQUE VICTOR HUGO"
+                                },
+                                {
                                     "dia":"MA",
                                     "hora":"1715",
                                     "duracion":"1",
@@ -6335,20 +6349,6 @@
                                     "hora":"1800",
                                     "duracion":"1",
                                     "aula":"E508",
-                                    "docente":"MALDONADO ULUNQUE VICTOR HUGO"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"1245",
-                                    "duracion":"1",
-                                    "aula":"E 302",
-                                    "docente":"MALDONADO ULUNQUE VICTOR HUGO"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"1330",
-                                    "duracion":"1",
-                                    "aula":"E 302",
                                     "docente":"MALDONADO ULUNQUE VICTOR HUGO"
                                 },
                                 {
@@ -6739,16 +6739,16 @@
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1115",
+                                    "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E 302",
                                     "docente":"CHOQUEPALPA RIOZ ORLANDO DANIEL"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E 302",
                                     "docente":"CHOQUEPALPA RIOZ ORLANDO DANIEL"
                                 },
                                 {
@@ -7599,6 +7599,20 @@
                                     "docente":"MARTINEZ ALPIRI ANAHI MONICA"
                                 },
                                 {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E 107",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 107",
+                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"1115",
                                     "duracion":"1",
@@ -7607,20 +7621,6 @@
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
-                                    "duracion":"1",
-                                    "aula":"E510",
-                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"1115",
-                                    "duracion":"1",
-                                    "aula":"E510",
-                                    "docente":"MARTINEZ ALPIRI ANAHI MONICA"
-                                },
-                                {
-                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E510",
@@ -7809,14 +7809,14 @@
                                     "dia":"SA",
                                     "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E536",
+                                    "aula":"E 303",
                                     "docente":"ZENTENO CARRILLO FREDDY"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E536",
+                                    "aula":"E 303",
                                     "docente":"ZENTENO CARRILLO FREDDY"
                                 }]
                         },
@@ -7826,44 +7826,44 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1845",
+                                    "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E514",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E514",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"645",
+                                    "dia":"MA",
+                                    "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E507",
+                                    "aula":"E514",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"730",
+                                    "dia":"MA",
+                                    "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E507",
+                                    "aula":"E514",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
-                                    "dia":"SA",
-                                    "hora":"815",
+                                    "dia":"MI",
+                                    "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E516",
+                                    "aula":"E513",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
-                                    "dia":"SA",
-                                    "hora":"900",
+                                    "dia":"MI",
+                                    "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E516",
+                                    "aula":"E513",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 }]
                         },
@@ -7889,28 +7889,28 @@
                                     "dia":"VI",
                                     "hora":"1115",
                                     "duracion":"1",
-                                    "aula":"E536",
+                                    "aula":"E514",
                                     "docente":"ZENTENO CARRILLO FREDDY"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1200",
                                     "duracion":"1",
-                                    "aula":"E536",
+                                    "aula":"E514",
                                     "docente":"ZENTENO CARRILLO FREDDY"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
-                                    "aula":"E536",
+                                    "aula":"E513",
                                     "docente":"ZENTENO CARRILLO FREDDY"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
-                                    "aula":"E536",
+                                    "aula":"E513",
                                     "docente":"ZENTENO CARRILLO FREDDY"
                                 }]
                         },
@@ -8112,45 +8112,45 @@
                             "docente":"GARCIA TORDOYA RICARDO",
                             "horarios":[
                                 {
-                                    "dia":"MI",
-                                    "hora":"645",
+                                    "dia":"LU",
+                                    "hora":"945",
                                     "duracion":"1",
-                                    "aula":"E510",
+                                    "aula":"E 301",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 301",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"1",
+                                    "aula":"E 303",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1030",
+                                    "duracion":"1",
+                                    "aula":"E 303",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"730",
+                                    "hora":"945",
                                     "duracion":"1",
-                                    "aula":"E510",
+                                    "aula":"E 302",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"645",
+                                    "dia":"MI",
+                                    "hora":"1030",
                                     "duracion":"1",
-                                    "aula":"E506",
-                                    "docente":"GARCIA TORDOYA RICARDO"
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"730",
-                                    "duracion":"1",
-                                    "aula":"E506",
-                                    "docente":"GARCIA TORDOYA RICARDO"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1245",
-                                    "duracion":"1",
-                                    "aula":"E509",
-                                    "docente":"GARCIA TORDOYA RICARDO"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1330",
-                                    "duracion":"1",
-                                    "aula":"E509",
+                                    "aula":"E 302",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 }]
                         },
@@ -8411,14 +8411,14 @@
                                     "dia":"LU",
                                     "hora":"945",
                                     "duracion":"1",
-                                    "aula":"E512",
+                                    "aula":"E509",
                                     "docente":"ARAOZ VEIZAGA SILVIA"
                                 },
                                 {
                                     "dia":"LU",
                                     "hora":"1030",
                                     "duracion":"1",
-                                    "aula":"E512",
+                                    "aula":"E509",
                                     "docente":"ARAOZ VEIZAGA SILVIA"
                                 },
                                 {
@@ -8837,44 +8837,44 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"2015",
+                                    "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E511",
+                                    "aula":"E 301",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"2100",
+                                    "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E511",
+                                    "aula":"E 301",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1845",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E 108",
+                                    "aula":"E 302",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E 108",
+                                    "aula":"E 302",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1845",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E510",
+                                    "aula":"E 302",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
+                                    "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E510",
+                                    "aula":"E 302",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 }]
                         }]
@@ -9156,43 +9156,43 @@
                             "docente":"MENDIZABAL VEGA VICTOR HUGO",
                             "horarios":[
                                 {
-                                    "dia":"LU",
-                                    "hora":"645",
+                                    "dia":"MA",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E1D",
+                                    "aula":"E 104",
                                     "docente":"MENDIZABAL VEGA VICTOR HUGO"
                                 },
                                 {
-                                    "dia":"LU",
-                                    "hora":"730",
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E1D",
-                                    "docente":"MENDIZABAL VEGA VICTOR HUGO"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"645",
-                                    "duracion":"1",
-                                    "aula":"E1C",
-                                    "docente":"MENDIZABAL VEGA VICTOR HUGO"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"730",
-                                    "duracion":"1",
-                                    "aula":"E1C",
+                                    "aula":"E 104",
                                     "docente":"MENDIZABAL VEGA VICTOR HUGO"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"645",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E 107",
+                                    "docente":"MENDIZABAL VEGA VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"900",
+                                    "duracion":"1",
+                                    "aula":"E 107",
+                                    "docente":"MENDIZABAL VEGA VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
                                     "duracion":"1",
                                     "aula":"E 302",
                                     "docente":"JIMENEZ ROJAS NEIZA"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"730",
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 302",
                                     "docente":"JIMENEZ ROJAS NEIZA"
@@ -9201,14 +9201,14 @@
                                     "dia":"SA",
                                     "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E513",
+                                    "aula":"E 107",
                                     "docente":"MENDIZABAL VEGA VICTOR HUGO"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E513",
+                                    "aula":"E 107",
                                     "docente":"MENDIZABAL VEGA VICTOR HUGO"
                                 }]
                         },
@@ -9530,14 +9530,14 @@
                                     "dia":"LU",
                                     "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E514",
+                                    "aula":"E507",
                                     "docente":"VILLACORTA GUZMAN ROSMERY"
                                 },
                                 {
                                     "dia":"LU",
                                     "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E514",
+                                    "aula":"E507",
                                     "docente":"VILLACORTA GUZMAN ROSMERY"
                                 },
                                 {
@@ -9574,6 +9574,20 @@
                             "docente":"VILLACORTA GUZMAN ROSMERY",
                             "horarios":[
                                 {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"E507",
+                                    "docente":"VILLACORTA GUZMAN ROSMERY"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
+                                    "duracion":"1",
+                                    "aula":"E507",
+                                    "docente":"VILLACORTA GUZMAN ROSMERY"
+                                },
+                                {
                                     "dia":"MA",
                                     "hora":"645",
                                     "duracion":"1",
@@ -9596,20 +9610,6 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"730",
-                                    "duracion":"1",
-                                    "aula":"E 104",
-                                    "docente":"VILLACORTA GUZMAN ROSMERY"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"645",
-                                    "duracion":"1",
-                                    "aula":"E 104",
-                                    "docente":"VILLACORTA GUZMAN ROSMERY"
-                                },
-                                {
-                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 104",
@@ -10073,8 +10073,22 @@
                                     "dia":"MA",
                                     "hora":"2100",
                                     "duracion":"1",
-                                    "aula":"",
-                                    "docente":"CORTEZ VALLEJO "
+                                    "aula":"E541",
+                                    "docente":"CORTEZ VALLEJO WALTER"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E541",
+                                    "docente":"CORTEZ VALLEJO NULL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E541",
+                                    "docente":"CORTEZ VALLEJO NULL"
                                 },
                                 {
                                     "dia":"JU",
@@ -10436,14 +10450,14 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1715",
+                                    "hora":"2015",
                                     "duracion":"1",
                                     "aula":"E550",
                                     "docente":"LAFUENTE ARANIBAR JIMMY ROBERTO"
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"1800",
+                                    "hora":"2100",
                                     "duracion":"1",
                                     "aula":"E550",
                                     "docente":"LAFUENTE ARANIBAR JIMMY ROBERTO"
@@ -10663,14 +10677,14 @@
                                     "dia":"VI",
                                     "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E513",
+                                    "aula":"E509",
                                     "docente":"VILLACORTA GUZMAN ROSMERY"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E513",
+                                    "aula":"E509",
                                     "docente":"VILLACORTA GUZMAN ROSMERY"
                                 }]
                         }]
@@ -10924,45 +10938,45 @@
                             "docente":"GARCIA TORDOYA RICARDO",
                             "horarios":[
                                 {
-                                    "dia":"MA",
-                                    "hora":"645",
+                                    "dia":"LU",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E512",
+                                    "aula":"E 301",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
+                                    "duracion":"1",
+                                    "aula":"E 301",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"730",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E512",
+                                    "aula":"E 303",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"1715",
+                                    "dia":"MA",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E 303",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"1800",
+                                    "dia":"MI",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E 302",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 },
                                 {
-                                    "dia":"SA",
-                                    "hora":"645",
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E517",
-                                    "docente":"GARCIA TORDOYA RICARDO"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"730",
-                                    "duracion":"1",
-                                    "aula":"E517",
+                                    "aula":"E 302",
                                     "docente":"GARCIA TORDOYA RICARDO"
                                 }]
                         },
@@ -11273,29 +11287,29 @@
                             "docente":"HINOJOSA DE IRAOLA MARCELO",
                             "horarios":[
                                 {
-                                    "dia":"LU",
-                                    "hora":"1845",
+                                    "dia":"VI",
+                                    "hora":"815",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"LU",
-                                    "hora":"1930",
+                                    "dia":"VI",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"1245",
+                                    "dia":"SA",
+                                    "hora":"945",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"1330",
+                                    "dia":"SA",
+                                    "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"HINOJOSA DE IRAOLA MARCELO"
@@ -11985,14 +11999,21 @@
                                     "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
-                                    "aula":"1845",
-                                    "docente":"PEREZ VILLANUEVA "
+                                    "aula":"E599",
+                                    "docente":"PEREZ VILLANUEVA MARCIAL"
                                 }]
                         },
                         {
                             "codigo":"51",
                             "docente":"GARCIA TORDOYA RICARDO",
                             "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E599",
+                                    "docente":"GARCIA TORDOYA RICARDO"
+                                },
                                 {
                                     "dia":"MA",
                                     "hora":"1930",
@@ -12020,43 +12041,43 @@
                             "docente":"CACERES MONTERO JAIME",
                             "horarios":[
                                 {
-                                    "dia":"LU",
+                                    "dia":"JU",
                                     "hora":"1845",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"LU",
+                                    "dia":"JU",
                                     "hora":"1930",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"MA",
+                                    "dia":"VI",
                                     "hora":"1845",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"MA",
+                                    "dia":"VI",
                                     "hora":"1930",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1845",
+                                    "dia":"SA",
+                                    "hora":"815",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1930",
+                                    "dia":"SA",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"E599",
                                     "docente":"CACERES MONTERO JAIME"
@@ -12275,8 +12296,15 @@
                                     "dia":"VI",
                                     "hora":"730",
                                     "duracion":"1",
-                                    "aula":"815",
-                                    "docente":"CORTEZ VALLEJO "
+                                    "aula":"CEPLAC",
+                                    "docente":"CORTEZ VALLEJO DOCENTE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"1",
+                                    "aula":"CEPLAC",
+                                    "docente":"CORTEZ VALLEJO DOCENTE"
                                 },
                                 {
                                     "dia":"VI",
@@ -12313,7 +12341,14 @@
                                     "dia":"LU",
                                     "hora":"2015",
                                     "duracion":"1",
-                                    "aula":"2014 1 089801 I",
+                                    "aula":"E543",
+                                    "docente":"PEREZ VILLANUEVA MARCIAL"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"E543",
                                     "docente":"PEREZ VILLANUEVA MARCIAL"
                                 },
                                 {
@@ -12574,14 +12609,14 @@
                                     "dia":"SA",
                                     "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E PB-1",
+                                    "aula":"E542",
                                     "docente":"ARAMAYO ANTEZANA JAIME ANTONIO"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E PB-1",
+                                    "aula":"E542",
                                     "docente":"ARAMAYO ANTEZANA JAIME ANTONIO"
                                 }]
                         }]

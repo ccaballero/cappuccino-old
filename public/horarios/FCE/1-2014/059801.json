@@ -622,15 +622,8 @@
                                     "dia":"JU",
                                     "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E 103",
+                                    "aula":"2014 1 059801 A",
                                     "docente":"COVARRUBIAS VARGAS CAUJMAN"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"E526",
-                                    "docente":"LAURA JUAN ERASMO"
                                 },
                                 {
                                     "dia":"SA",
@@ -777,124 +770,25 @@
                                     "docente":"AILLON GOMEZ TANIA LEDA"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"1245",
+                                    "dia":"MI",
+                                    "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E527",
+                                    "aula":"E 104",
                                     "docente":"AILLON GOMEZ TANIA LEDA"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"1330",
+                                    "dia":"MI",
+                                    "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E527",
-                                    "docente":"AILLON GOMEZ TANIA LEDA"
+                                    "aula":"",
+                                    "docente":"ANTEZANA ESCALERA RENE"
                                 }]
                         }]
                 },
                 {
                     "codigo":"1304006",
-                    "nombre":"HISTORIA ECONOMICA DE AMERICA LATINA",
-                    "grupos":[
-                        {
-                            "codigo":"01",
-                            "docente":"ANTEZANA ESCALERA RENE",
-                            "horarios":[
-                                {
-                                    "dia":"LU",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"E1B",
-                                    "docente":"ANTEZANA ESCALERA RENE"
-                                },
-                                {
-                                    "dia":"LU",
-                                    "hora":"1030",
-                                    "duracion":"1",
-                                    "aula":"E1B",
-                                    "docente":"ANTEZANA ESCALERA RENE"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1115",
-                                    "duracion":"1",
-                                    "aula":"E1B",
-                                    "docente":"ANTEZANA ESCALERA RENE"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1200",
-                                    "duracion":"1",
-                                    "aula":"E1B",
-                                    "docente":"ANTEZANA ESCALERA RENE"
-                                }]
-                        },
-                        {
-                            "codigo":"02",
-                            "docente":"ORELLANA AYLLON LORGIO EVERTH",
-                            "horarios":[
-                                {
-                                    "dia":"LU",
-                                    "hora":"1115",
-                                    "duracion":"1",
-                                    "aula":"E501",
-                                    "docente":"ORELLANA AYLLON LORGIO EVERTH"
-                                },
-                                {
-                                    "dia":"LU",
-                                    "hora":"1200",
-                                    "duracion":"1",
-                                    "aula":"E501",
-                                    "docente":"ORELLANA AYLLON LORGIO EVERTH"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1115",
-                                    "duracion":"1",
-                                    "aula":"E501",
-                                    "docente":"ORELLANA AYLLON LORGIO EVERTH"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1200",
-                                    "duracion":"1",
-                                    "aula":"E501",
-                                    "docente":"ORELLANA AYLLON LORGIO EVERTH"
-                                }]
-                        },
-                        {
-                            "codigo":"21",
-                            "docente":"ANTEZANA ESCALERA RENE",
-                            "horarios":[
-                                {
-                                    "dia":"MA",
-                                    "hora":"2015",
-                                    "duracion":"1",
-                                    "aula":"E501",
-                                    "docente":"ANTEZANA ESCALERA RENE"
-                                },
-                                {
-                                    "dia":"MA",
-                                    "hora":"2100",
-                                    "duracion":"1",
-                                    "aula":"E501",
-                                    "docente":"ANTEZANA ESCALERA RENE"
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"2015",
-                                    "duracion":"1",
-                                    "aula":"E501",
-                                    "docente":"ANTEZANA ESCALERA RENE"
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"2100",
-                                    "duracion":"1",
-                                    "aula":"E501",
-                                    "docente":"ANTEZANA ESCALERA RENE"
-                                }]
-                        }]
+                    "nombre":"HISTORIA ECONOMICA DE AMERICA LATIN",
+                    "grupos":[]
                 }]
         },
         {
@@ -1884,15 +1778,8 @@
                                     "dia":"JU",
                                     "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E 103",
+                                    "aula":"2014 1 059801 C",
                                     "docente":"AZOGUE CRESPO RICARDO"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"E547",
-                                    "docente":"AGUILAR MIRANDA SHIRLEY"
                                 },
                                 {
                                     "dia":"SA",
@@ -2480,14 +2367,14 @@
                                     "dia":"SA",
                                     "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E507",
+                                    "aula":"E512",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E507",
+                                    "aula":"E512",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
                                 }]
                         },
@@ -2520,7 +2407,7 @@
                                     "dia":"VI",
                                     "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E 108",
+                                    "aula":"2014 1 059801 D",
                                     "docente":"ALIENDRE LAFUENTE ROMER SIMON"
                                 }]
                         }]
@@ -2533,13 +2420,6 @@
                             "codigo":"01",
                             "docente":"SUCRE REYES MARIA ANTONIETA",
                             "horarios":[
-                                {
-                                    "dia":"LU",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"E527",
-                                    "docente":"OSIO PACO HENRY NELSON"
-                                },
                                 {
                                     "dia":"LU",
                                     "hora":"1030",
@@ -3134,16 +3014,16 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"945",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E525",
+                                    "aula":"E 104",
                                     "docente":"CLAURE RICHARD PATRICIA ANGELICA"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1030",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E525",
+                                    "aula":"E 104",
                                     "docente":"CLAURE RICHARD PATRICIA ANGELICA"
                                 },
                                 {
@@ -3482,7 +3362,7 @@
                                     "dia":"JU",
                                     "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E525",
+                                    "aula":"2014 1 059801 E",
                                     "docente":"JIMENEZ VALDIVIA WALDO FERNANDO"
                                 }]
                         }]
@@ -3495,13 +3375,6 @@
                             "codigo":"01",
                             "docente":"ROMERO PADILLA CESAR",
                             "horarios":[
-                                {
-                                    "dia":"LU",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"E526",
-                                    "docente":"ROMERO PADILLA CESAR"
-                                },
                                 {
                                     "dia":"LU",
                                     "hora":"1030",
@@ -3803,7 +3676,7 @@
                                     "dia":"VI",
                                     "hora":"1200",
                                     "duracion":"1",
-                                    "aula":"E547",
+                                    "aula":"2014 1 059801 E",
                                     "docente":"DELGADILLO DORADO HERNAN"
                                 }]
                         },
@@ -3811,13 +3684,6 @@
                             "codigo":"02",
                             "docente":"SARAVIA LOPEZ VICKY ALEJANDRA",
                             "horarios":[
-                                {
-                                    "dia":"LU",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"E547",
-                                    "docente":"CHURA JAUREGUI JUANA"
-                                },
                                 {
                                     "dia":"LU",
                                     "hora":"1030",
@@ -4129,14 +3995,7 @@
                                     "dia":"MA",
                                     "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E527",
-                                    "docente":"VARGAS OROSCO FREDDY"
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"E533",
+                                    "aula":"2014 1 059801 E",
                                     "docente":"VARGAS OROSCO FREDDY"
                                 },
                                 {
@@ -4182,8 +4041,8 @@
                         }]
                 },
                 {
-                    "codigo":"1304142",
-                    "nombre":"SEMINARIO DE ESTADISTICA",
+                    "codigo":"1304140",
+                    "nombre":"PROGRAMAS ESTADISTICOS",
                     "grupos":[
                         {
                             "codigo":"21",
@@ -4668,7 +4527,7 @@
                         },
                         {
                             "codigo":"21",
-                            "docente":"BALDERRAMA MAMANI JOSE ANTONIO",
+                            "docente":"ZEGADA CLAURE OSCAR",
                             "horarios":[
                                 {
                                     "dia":"LU",
@@ -4709,81 +4568,15 @@
                                     "dia":"VI",
                                     "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E528",
-                                    "docente":"BALDERRAMA MAMANI JOSE ANTONIO"
+                                    "aula":"",
+                                    "docente":"ZEGADA CLAURE OSCAR"
                                 }]
                         }]
                 },
                 {
                     "codigo":"1304035",
-                    "nombre":"TEORIA DE LAS INSTITUCIONES ECONOMIC",
-                    "grupos":[
-                        {
-                            "codigo":"01",
-                            "docente":"VILLAZON DEL CARPIO OSMAN ERICK",
-                            "horarios":[
-                                {
-                                    "dia":"JU",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"E1C",
-                                    "docente":"VILLAZON DEL CARPIO OSMAN ERICK"
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"1030",
-                                    "duracion":"1",
-                                    "aula":"E1C",
-                                    "docente":"VILLAZON DEL CARPIO OSMAN ERICK"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"AUDPOSG",
-                                    "docente":"VILLAZON DEL CARPIO OSMAN ERICK"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1030",
-                                    "duracion":"1",
-                                    "aula":"AUDPOSG",
-                                    "docente":"VILLAZON DEL CARPIO OSMAN ERICK"
-                                }]
-                        },
-                        {
-                            "codigo":"21",
-                            "docente":"ZEGADA CLAURE OSCAR",
-                            "horarios":[
-                                {
-                                    "dia":"LU",
-                                    "hora":"2015",
-                                    "duracion":"1",
-                                    "aula":"E529",
-                                    "docente":"ZEGADA CLAURE OSCAR"
-                                },
-                                {
-                                    "dia":"LU",
-                                    "hora":"2100",
-                                    "duracion":"1",
-                                    "aula":"E529",
-                                    "docente":"ZEGADA CLAURE OSCAR"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"1715",
-                                    "duracion":"1",
-                                    "aula":"E546",
-                                    "docente":"ZEGADA CLAURE OSCAR"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"1800",
-                                    "duracion":"1",
-                                    "aula":"E546",
-                                    "docente":"ZEGADA CLAURE OSCAR"
-                                }]
-                        }]
+                    "nombre":"TEORIA DE LAS INSTITUCIONES ECONOMI",
+                    "grupos":[]
                 },
                 {
                     "codigo":"1304036",
@@ -5013,8 +4806,8 @@
                         }]
                 },
                 {
-                    "codigo":"1304161",
-                    "nombre":"GESTION DE PROYECTOS DE INVERSION",
+                    "codigo":"1304162",
+                    "nombre":"GESTION DE PROYECTOS SOCIALES",
                     "grupos":[
                         {
                             "codigo":"21",
@@ -5080,14 +4873,14 @@
                                     "dia":"LU",
                                     "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E532",
+                                    "aula":"E502",
                                     "docente":"NAVIA QUIROGA GUSTAVO"
                                 },
                                 {
                                     "dia":"LU",
                                     "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E532",
+                                    "aula":"E502",
                                     "docente":"NAVIA QUIROGA GUSTAVO"
                                 },
                                 {
@@ -5223,43 +5016,43 @@
                             "docente":"LEDEZMA RIVERA JHONNY LIMBERT",
                             "horarios":[
                                 {
-                                    "dia":"LU",
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1800",
+                                    "duracion":"1",
+                                    "aula":"E528",
+                                    "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
+                                },
+                                {
+                                    "dia":"JU",
                                     "hora":"1715",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
                                 },
                                 {
-                                    "dia":"LU",
+                                    "dia":"JU",
                                     "hora":"1800",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
                                 },
                                 {
-                                    "dia":"MA",
-                                    "hora":"1845",
-                                    "duracion":"1",
-                                    "aula":"E525",
-                                    "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
-                                },
-                                {
-                                    "dia":"MA",
-                                    "hora":"1930",
+                                    "dia":"VI",
+                                    "hora":"1715",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1845",
-                                    "duracion":"1",
-                                    "aula":"E525",
-                                    "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1930",
+                                    "hora":"1800",
                                     "duracion":"1",
                                     "aula":"E525",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
@@ -5997,14 +5790,14 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1845",
+                                    "hora":"1715",
                                     "duracion":"1",
                                     "aula":"E 101",
                                     "docente":"AILLON GOMEZ TANIA LEDA"
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"1800",
                                     "duracion":"1",
                                     "aula":"E 101",
                                     "docente":"AILLON GOMEZ TANIA LEDA"
@@ -6368,14 +6161,14 @@
                                     "dia":"VI",
                                     "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E529",
+                                    "aula":"E 102",
                                     "docente":"HOFFMANN B. KARL"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E529",
+                                    "aula":"E 102",
                                     "docente":"HOFFMANN B. KARL"
                                 }]
                         }]
@@ -6858,28 +6651,14 @@
                                     "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
-                                    "aula":"ECO4",
-                                    "docente":"GUTIERREZ ROJAS DOCENTE"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"1030",
-                                    "duracion":"1",
-                                    "aula":"ECO4",
-                                    "docente":"GUTIERREZ ROJAS DOCENTE"
+                                    "aula":"2014 1 059801 I",
+                                    "docente":"GUTIERREZ ROJAS 1304048 TALLER DE TITULACION"
                                 }]
                         },
                         {
                             "codigo":"18",
                             "docente":"CUBA ROJAS PABLO LUIS",
                             "horarios":[
-                                {
-                                    "dia":"MA",
-                                    "hora":"1715",
-                                    "duracion":"1",
-                                    "aula":"ECO7",
-                                    "docente":"CUBA ROJAS PABLO LUIS"
-                                },
                                 {
                                     "dia":"MA",
                                     "hora":"1800",
@@ -7073,28 +6852,28 @@
                             "horarios":[
                                 {
                                     "dia":"MI",
-                                    "hora":"945",
+                                    "hora":"815",
                                     "duracion":"1",
                                     "aula":"ECO1",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1030",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO1",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"945",
+                                    "hora":"815",
                                     "duracion":"1",
                                     "aula":"ECO1",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1030",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"ECO1",
                                     "docente":"LEDEZMA RIVERA JHONNY LIMBERT"
@@ -7106,7 +6885,7 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1030",
+                                    "hora":"900",
                                     "duracion":"1",
                                     "aula":"DOCENTE",
                                     "docente":"LEDEZMA RIVERA DOCENTE"
@@ -7398,8 +7177,15 @@
                                     "dia":"MI",
                                     "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"1930",
-                                    "docente":"POLO NAJERA ECO3"
+                                    "aula":"ECO3",
+                                    "docente":"POLO NAJERA JOSE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"ECO3",
+                                    "docente":"POLO NAJERA JOSE"
                                 }]
                         },
                         {
@@ -7629,21 +7415,14 @@
                                     "dia":"MI",
                                     "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"ECO6",
-                                    "docente":"BLANCO BLACUTT VICTOR HUGO"
+                                    "aula":"",
+                                    "docente":"BLANCO BLACUTT 100 POR DESIGNAR"
                                 }]
                         },
                         {
                             "codigo":"47",
                             "docente":"BLANCO BLACUTT DOCENTE",
                             "horarios":[
-                                {
-                                    "dia":"LU",
-                                    "hora":"2015",
-                                    "duracion":"1",
-                                    "aula":"ECO7",
-                                    "docente":"BLANCO BLACUTT DOCENTE"
-                                },
                                 {
                                     "dia":"LU",
                                     "hora":"2100",

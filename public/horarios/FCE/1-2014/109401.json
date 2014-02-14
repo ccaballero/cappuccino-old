@@ -1364,15 +1364,8 @@
                                     "dia":"VI",
                                     "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E502",
+                                    "aula":"2014 1 109401 A",
                                     "docente":"DIAZ MONZON EDMUNDO"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"E504",
-                                    "docente":"CHIPANA WARISTE JAVIER RENE"
                                 },
                                 {
                                     "dia":"SA",
@@ -1587,7 +1580,14 @@
                                     "dia":"LU",
                                     "hora":"1245",
                                     "duracion":"1",
-                                    "aula":"2014 1 109401 B",
+                                    "aula":"E548",
+                                    "docente":"VILLARROEL SOLIZ GROVER"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1330",
+                                    "duracion":"1",
+                                    "aula":"E548",
                                     "docente":"VILLARROEL SOLIZ GROVER"
                                 },
                                 {
@@ -2060,14 +2060,14 @@
                                     "dia":"LU",
                                     "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E502",
+                                    "aula":"E520",
                                     "docente":"MONTA\u00d1O VARGAS OSCAR"
                                 },
                                 {
                                     "dia":"LU",
                                     "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E502",
+                                    "aula":"E520",
                                     "docente":"MONTA\u00d1O VARGAS OSCAR"
                                 },
                                 {
@@ -3588,14 +3588,14 @@
                                     "dia":"VI",
                                     "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E502",
+                                    "aula":"E532",
                                     "docente":"JALDIN QUIROZ RENE"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E502",
+                                    "aula":"E532",
                                     "docente":"JALDIN QUIROZ RENE"
                                 }]
                         }]
@@ -3720,14 +3720,14 @@
                                     "dia":"JU",
                                     "hora":"1115",
                                     "duracion":"1",
-                                    "aula":"E 203",
+                                    "aula":"E532",
                                     "docente":"VILLAZON DEL CARPIO OSMAN ERICK"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1200",
                                     "duracion":"1",
-                                    "aula":"E 203",
+                                    "aula":"E532",
                                     "docente":"VILLAZON DEL CARPIO OSMAN ERICK"
                                 },
                                 {
@@ -3881,17 +3881,17 @@
                                     "docente":"LOPEZ GUMUCIO RICARDO"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"945",
+                                    "dia":"MI",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E524",
+                                    "aula":"E 202",
                                     "docente":"LOPEZ GUMUCIO RICARDO"
                                 },
                                 {
-                                    "dia":"VI",
-                                    "hora":"1030",
+                                    "dia":"MI",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E524",
+                                    "aula":"E 202",
                                     "docente":"LOPEZ GUMUCIO RICARDO"
                                 }]
                         },
@@ -3961,20 +3961,6 @@
                                     "docente":"CALLA VILLEGAS EDWIN"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"645",
-                                    "duracion":"1",
-                                    "aula":"E532",
-                                    "docente":"CALLA VILLEGAS EDWIN"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"730",
-                                    "duracion":"1",
-                                    "aula":"E532",
-                                    "docente":"CALLA VILLEGAS EDWIN"
-                                },
-                                {
                                     "dia":"VI",
                                     "hora":"2015",
                                     "duracion":"1",
@@ -3986,6 +3972,20 @@
                                     "hora":"2100",
                                     "duracion":"1",
                                     "aula":"E 201",
+                                    "docente":"CALLA VILLEGAS EDWIN"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E503",
+                                    "docente":"CALLA VILLEGAS EDWIN"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E503",
                                     "docente":"CALLA VILLEGAS EDWIN"
                                 }]
                         }]
@@ -4046,45 +4046,45 @@
                             "docente":"CACERES MONTERO JAIME",
                             "horarios":[
                                 {
-                                    "dia":"LU",
-                                    "hora":"945",
+                                    "dia":"JU",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E523",
+                                    "aula":"E535",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"LU",
-                                    "hora":"1030",
+                                    "dia":"JU",
+                                    "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E523",
+                                    "aula":"E535",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"MA",
-                                    "hora":"945",
+                                    "dia":"VI",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E PB-3",
+                                    "aula":"E535",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"MA",
-                                    "hora":"1030",
+                                    "dia":"VI",
+                                    "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E PB-3",
+                                    "aula":"E535",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"945",
+                                    "dia":"SA",
+                                    "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E523",
+                                    "aula":"E535",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1030",
+                                    "dia":"SA",
+                                    "hora":"730",
                                     "duracion":"1",
-                                    "aula":"E523",
+                                    "aula":"E535",
                                     "docente":"CACERES MONTERO JAIME"
                                 }]
                         },
@@ -4140,45 +4140,45 @@
                             "docente":"CACERES MONTERO JAIME",
                             "horarios":[
                                 {
-                                    "dia":"JU",
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E532",
+                                    "docente":"CACERES MONTERO JAIME"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E532",
+                                    "docente":"CACERES MONTERO JAIME"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"CACERES MONTERO JAIME"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 204",
+                                    "docente":"CACERES MONTERO JAIME"
+                                },
+                                {
+                                    "dia":"MI",
                                     "hora":"1845",
                                     "duracion":"1",
                                     "aula":"E535",
                                     "docente":"CACERES MONTERO JAIME"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"MI",
                                     "hora":"1930",
                                     "duracion":"1",
                                     "aula":"E535",
-                                    "docente":"CACERES MONTERO JAIME"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"2015",
-                                    "duracion":"1",
-                                    "aula":"E 206",
-                                    "docente":"CACERES MONTERO JAIME"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"2100",
-                                    "duracion":"1",
-                                    "aula":"E 206",
-                                    "docente":"CACERES MONTERO JAIME"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"815",
-                                    "duracion":"1",
-                                    "aula":"E532",
-                                    "docente":"CACERES MONTERO JAIME"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"900",
-                                    "duracion":"1",
-                                    "aula":"E532",
                                     "docente":"CACERES MONTERO JAIME"
                                 }]
                         }]
@@ -4254,28 +4254,28 @@
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1845",
+                                    "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E549",
+                                    "aula":"E548",
                                     "docente":"VELARDE POMA JUAN CARLOS"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1930",
-                                    "duracion":"1",
-                                    "aula":"E549",
-                                    "docente":"VELARDE POMA JUAN CARLOS"
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"2015",
+                                    "hora":"1800",
                                     "duracion":"1",
                                     "aula":"E548",
                                     "docente":"VELARDE POMA JUAN CARLOS"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"2100",
+                                    "hora":"1715",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1800",
                                     "duracion":"1",
                                     "aula":"E548",
                                     "docente":"VELARDE POMA JUAN CARLOS"
@@ -4781,30 +4781,30 @@
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1115",
+                                    "hora":"945",
                                     "duracion":"1",
-                                    "aula":"E523",
+                                    "aula":"E520",
                                     "docente":"COCA GONZALES ALBERTO"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"1030",
                                     "duracion":"1",
-                                    "aula":"E523",
+                                    "aula":"E520",
                                     "docente":"COCA GONZALES ALBERTO"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1115",
+                                    "hora":"945",
                                     "duracion":"1",
-                                    "aula":"E522",
+                                    "aula":"E520",
                                     "docente":"COCA GONZALES ALBERTO"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"1030",
                                     "duracion":"1",
-                                    "aula":"E522",
+                                    "aula":"E520",
                                     "docente":"COCA GONZALES ALBERTO"
                                 }]
                         },
@@ -5013,14 +5013,14 @@
                                     "dia":"MI",
                                     "hora":"1115",
                                     "duracion":"1",
-                                    "aula":"E502",
+                                    "aula":"E 101",
                                     "docente":"ZARATE TOLEDO NADDYR"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1200",
                                     "duracion":"1",
-                                    "aula":"E502",
+                                    "aula":"E 101",
                                     "docente":"ZARATE TOLEDO NADDYR"
                                 },
                                 {
@@ -5237,44 +5237,44 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1715",
+                                    "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E549",
+                                    "aula":"E548",
                                     "docente":"COVARRUBIAS VARGAS CAUJMAN"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1800",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E548",
+                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
                                     "duracion":"1",
                                     "aula":"E549",
                                     "docente":"COVARRUBIAS VARGAS CAUJMAN"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1715",
-                                    "duracion":"1",
-                                    "aula":"E548",
-                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"1800",
-                                    "duracion":"1",
-                                    "aula":"E548",
-                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
-                                },
-                                {
                                     "dia":"JU",
-                                    "hora":"1715",
+                                    "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E548",
-                                    "docente":"COVARRUBIAS VARGAS CAUJMAN"
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"1800",
-                                    "duracion":"1",
-                                    "aula":"E548",
+                                    "aula":"E549",
                                     "docente":"COVARRUBIAS VARGAS CAUJMAN"
                                 }]
                         },
@@ -5576,44 +5576,44 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"645",
+                                    "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E545",
+                                    "aula":"E PB-3",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"730",
+                                    "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E545",
+                                    "aula":"E PB-3",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"645",
+                                    "dia":"JU",
+                                    "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E524",
+                                    "aula":"E544",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"730",
-                                    "duracion":"1",
-                                    "aula":"E524",
-                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"645",
+                                    "dia":"JU",
+                                    "hora":"1930",
                                     "duracion":"1",
                                     "aula":"E544",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"730",
+                                    "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E PB-1",
+                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E PB-1",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 }]
                         }]
@@ -5824,20 +5824,6 @@
                             "docente":"CALLA VILLEGAS EDWIN",
                             "horarios":[
                                 {
-                                    "dia":"LU",
-                                    "hora":"645",
-                                    "duracion":"1",
-                                    "aula":"E 205",
-                                    "docente":"CALLA VILLEGAS EDWIN"
-                                },
-                                {
-                                    "dia":"LU",
-                                    "hora":"730",
-                                    "duracion":"1",
-                                    "aula":"E 205",
-                                    "docente":"CALLA VILLEGAS EDWIN"
-                                },
-                                {
                                     "dia":"MA",
                                     "hora":"1845",
                                     "duracion":"1",
@@ -5847,6 +5833,20 @@
                                 {
                                     "dia":"MA",
                                     "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"CALLA VILLEGAS EDWIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"1",
+                                    "aula":"E 202",
+                                    "docente":"CALLA VILLEGAS EDWIN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2100",
                                     "duracion":"1",
                                     "aula":"E 202",
                                     "docente":"CALLA VILLEGAS EDWIN"
@@ -6745,14 +6745,14 @@
                                     "dia":"LU",
                                     "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"E532",
+                                    "aula":"E502",
                                     "docente":"NAVIA QUIROGA GUSTAVO"
                                 },
                                 {
                                     "dia":"LU",
                                     "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"E532",
+                                    "aula":"E502",
                                     "docente":"NAVIA QUIROGA GUSTAVO"
                                 },
                                 {
@@ -7035,44 +7035,44 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1845",
+                                    "hora":"945",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E 205",
                                     "docente":"ESCALERA ANTEZANA CARLOS"
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"1930",
+                                    "hora":"1030",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E 205",
                                     "docente":"ESCALERA ANTEZANA CARLOS"
                                 },
                                 {
-                                    "dia":"MA",
-                                    "hora":"1845",
+                                    "dia":"MI",
+                                    "hora":"945",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E 205",
                                     "docente":"ESCALERA ANTEZANA CARLOS"
                                 },
                                 {
-                                    "dia":"MA",
-                                    "hora":"1930",
+                                    "dia":"MI",
+                                    "hora":"1030",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E 205",
                                     "docente":"ESCALERA ANTEZANA CARLOS"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"1845",
+                                    "dia":"VI",
+                                    "hora":"945",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E 201",
                                     "docente":"ESCALERA ANTEZANA CARLOS"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"1930",
+                                    "dia":"VI",
+                                    "hora":"1030",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E 201",
                                     "docente":"ESCALERA ANTEZANA CARLOS"
                                 }]
                         },
@@ -7685,37 +7685,44 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"1715",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"2014 1 109401 H",
+                                    "aula":"E 204",
+                                    "docente":"PEREZ PEREZ JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"900",
+                                    "duracion":"1",
+                                    "aula":"E 204",
                                     "docente":"PEREZ PEREZ JORGE MARTIN"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1715",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E PB-3",
+                                    "aula":"E1B",
                                     "docente":"PEREZ PEREZ JORGE MARTIN"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1800",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E PB-3",
+                                    "aula":"E1B",
                                     "docente":"PEREZ PEREZ JORGE MARTIN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1715",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E1B",
                                     "docente":"PEREZ PEREZ JORGE MARTIN"
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1800",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E1B",
                                     "docente":"PEREZ PEREZ JORGE MARTIN"
                                 }]
                         },
@@ -7725,44 +7732,44 @@
                             "horarios":[
                                 {
                                     "dia":"LU",
-                                    "hora":"645",
+                                    "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E545",
+                                    "aula":"E 203",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"730",
+                                    "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E545",
+                                    "aula":"E 203",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1115",
+                                    "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E 202",
+                                    "aula":"E546",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"1200",
+                                    "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E 202",
+                                    "aula":"E546",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"645",
+                                    "dia":"SA",
+                                    "hora":"815",
                                     "duracion":"1",
-                                    "aula":"E504",
+                                    "aula":"E 203",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
-                                    "dia":"JU",
-                                    "hora":"730",
+                                    "dia":"SA",
+                                    "hora":"900",
                                     "duracion":"1",
-                                    "aula":"E504",
+                                    "aula":"E 203",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 }]
                         },
@@ -7785,20 +7792,6 @@
                                     "docente":"CHAVEZ MARCELA MABEL"
                                 },
                                 {
-                                    "dia":"MA",
-                                    "hora":"2015",
-                                    "duracion":"1",
-                                    "aula":"E 202",
-                                    "docente":"CHAVEZ MARCELA MABEL"
-                                },
-                                {
-                                    "dia":"MA",
-                                    "hora":"2100",
-                                    "duracion":"1",
-                                    "aula":"E 202",
-                                    "docente":"CHAVEZ MARCELA MABEL"
-                                },
-                                {
                                     "dia":"MI",
                                     "hora":"2015",
                                     "duracion":"1",
@@ -7808,6 +7801,13 @@
                                 {
                                     "dia":"MI",
                                     "hora":"2100",
+                                    "duracion":"1",
+                                    "aula":"2014 1 109401 H",
+                                    "docente":"CHAVEZ MARCELA MABEL"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E 202",
                                     "docente":"CHAVEZ MARCELA MABEL"
@@ -7823,45 +7823,45 @@
                             "docente":"VILDOZO ZAMORANO WALTER FERNANDO",
                             "horarios":[
                                 {
-                                    "dia":"MA",
-                                    "hora":"2015",
+                                    "dia":"LU",
+                                    "hora":"1715",
                                     "duracion":"1",
-                                    "aula":"ADM1",
+                                    "aula":"E533",
                                     "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
                                 },
                                 {
-                                    "dia":"MA",
-                                    "hora":"2100",
+                                    "dia":"LU",
+                                    "hora":"1800",
                                     "duracion":"1",
-                                    "aula":"ADM1",
-                                    "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"2015",
-                                    "duracion":"1",
-                                    "aula":"ADM1",
-                                    "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"2100",
-                                    "duracion":"1",
-                                    "aula":"ADM1",
+                                    "aula":"E533",
                                     "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"2015",
                                     "duracion":"1",
-                                    "aula":"ADM1",
+                                    "aula":"E535",
                                     "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"2100",
                                     "duracion":"1",
-                                    "aula":"ADM1",
+                                    "aula":"E535",
+                                    "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"1",
+                                    "aula":"E535",
+                                    "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1630",
+                                    "duracion":"1",
+                                    "aula":"E535",
                                     "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
                                 }]
                         },
@@ -8058,6 +8058,20 @@
                             "docente":"LOPEZ GUMUCIO RICARDO",
                             "horarios":[
                                 {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"LOPEZ GUMUCIO RICARDO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1930",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"LOPEZ GUMUCIO RICARDO"
+                                },
+                                {
                                     "dia":"MA",
                                     "hora":"1115",
                                     "duracion":"1",
@@ -8073,28 +8087,14 @@
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"815",
+                                    "hora":"1845",
                                     "duracion":"1",
                                     "aula":"ADM1",
                                     "docente":"LOPEZ GUMUCIO RICARDO"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"900",
-                                    "duracion":"1",
-                                    "aula":"ADM1",
-                                    "docente":"LOPEZ GUMUCIO RICARDO"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1115",
-                                    "duracion":"1",
-                                    "aula":"ADM1",
-                                    "docente":"LOPEZ GUMUCIO RICARDO"
-                                },
-                                {
-                                    "dia":"VI",
-                                    "hora":"1200",
+                                    "hora":"1930",
                                     "duracion":"1",
                                     "aula":"ADM1",
                                     "docente":"LOPEZ GUMUCIO RICARDO"
@@ -8289,17 +8289,17 @@
                                     "docente":"VALLEJO RUIZ JAVIER"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"JU",
                                     "hora":"2015",
                                     "duracion":"1",
-                                    "aula":"E545",
+                                    "aula":"E532",
                                     "docente":"VALLEJO RUIZ JAVIER"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"JU",
                                     "hora":"2100",
                                     "duracion":"1",
-                                    "aula":"E545",
+                                    "aula":"E532",
                                     "docente":"VALLEJO RUIZ JAVIER"
                                 }]
                         },
@@ -8810,15 +8810,15 @@
                                     "dia":"LU",
                                     "hora":"815",
                                     "duracion":"1",
-                                    "aula":"ADM1",
-                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                    "aula":"E524",
+                                    "docente":"QUIROZ GOMEZ CARMEN RITA"
                                 },
                                 {
                                     "dia":"LU",
                                     "hora":"900",
                                     "duracion":"1",
-                                    "aula":"ADM1",
-                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                    "aula":"E524",
+                                    "docente":"QUIROZ GOMEZ CARMEN RITA"
                                 },
                                 {
                                     "dia":"MA",
@@ -8895,14 +8895,14 @@
                                     "hora":"1245",
                                     "duracion":"1",
                                     "aula":"ADM1",
-                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                    "docente":"CARRASCO BRANEZ OSCAR"
                                 },
                                 {
                                     "dia":"LU",
                                     "hora":"1330",
                                     "duracion":"1",
                                     "aula":"ADM1",
-                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                    "docente":"CARRASCO BRANEZ OSCAR"
                                 },
                                 {
                                     "dia":"MI",
@@ -9004,13 +9004,6 @@
                                 },
                                 {
                                     "dia":"LU",
-                                    "hora":"945",
-                                    "duracion":"1",
-                                    "aula":"ADM1",
-                                    "docente":"VARGAS OROSCO FREDDY"
-                                },
-                                {
-                                    "dia":"LU",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"ADM1",
@@ -9073,18 +9066,32 @@
                                     "docente":"SANCHEZ CHACON JORGE ALBERTO"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"815",
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"730",
                                     "duracion":"1",
                                     "aula":"ADM1",
                                     "docente":"VILLAZON ARANDIA RICARDO IVAN"
                                 },
                                 {
                                     "dia":"MI",
-                                    "hora":"900",
+                                    "hora":"1115",
                                     "duracion":"1",
                                     "aula":"ADM1",
-                                    "docente":"VILLAZON ARANDIA RICARDO IVAN"
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
                                 },
                                 {
                                     "dia":"VI",
@@ -9099,6 +9106,34 @@
                                     "duracion":"1",
                                     "aula":"ADM1",
                                     "docente":"POZO VALLEJOS MARIA ESTHER"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"ESCALERA ANTEZANA CARLOS"
                                 },
                                 {
                                     "dia":"JU",
@@ -9217,28 +9252,28 @@
                                     "dia":"MI",
                                     "hora":"1115",
                                     "duracion":"1",
-                                    "aula":"E532",
+                                    "aula":"E502",
                                     "docente":"NAVIA QUIROGA GUSTAVO"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1200",
                                     "duracion":"1",
-                                    "aula":"E532",
+                                    "aula":"E502",
                                     "docente":"NAVIA QUIROGA GUSTAVO"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E532",
+                                    "aula":"E502",
                                     "docente":"NAVIA QUIROGA GUSTAVO"
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E532",
+                                    "aula":"E502",
                                     "docente":"NAVIA QUIROGA GUSTAVO"
                                 },
                                 {
@@ -9327,17 +9362,17 @@
                                     "docente":"VALLEJO RUIZ JAVIER"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"JU",
                                     "hora":"1845",
                                     "duracion":"1",
-                                    "aula":"E549",
+                                    "aula":"E532",
                                     "docente":"VALLEJO RUIZ JAVIER"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"JU",
                                     "hora":"1930",
                                     "duracion":"1",
-                                    "aula":"E549",
+                                    "aula":"E532",
                                     "docente":"VALLEJO RUIZ JAVIER"
                                 },
                                 {
@@ -9559,42 +9594,42 @@
                             "horarios":[
                                 {
                                     "dia":"MA",
-                                    "hora":"1845",
+                                    "hora":"2015",
                                     "duracion":"1",
                                     "aula":"ADM1",
                                     "docente":"CHAVEZ MARCELA MABEL"
                                 },
                                 {
                                     "dia":"MA",
-                                    "hora":"1930",
+                                    "hora":"2100",
                                     "duracion":"1",
                                     "aula":"ADM1",
                                     "docente":"CHAVEZ MARCELA MABEL"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1845",
+                                    "dia":"VI",
+                                    "hora":"2015",
                                     "duracion":"1",
                                     "aula":"ADM1",
                                     "docente":"CHAVEZ MARCELA MABEL"
                                 },
                                 {
-                                    "dia":"MI",
-                                    "hora":"1930",
-                                    "duracion":"1",
-                                    "aula":"ADM1",
-                                    "docente":"CHAVEZ MARCELA MABEL"
-                                },
-                                {
-                                    "dia":"SA",
-                                    "hora":"815",
+                                    "dia":"VI",
+                                    "hora":"2100",
                                     "duracion":"1",
                                     "aula":"ADM1",
                                     "docente":"CHAVEZ MARCELA MABEL"
                                 },
                                 {
                                     "dia":"SA",
-                                    "hora":"900",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"ADM1",
+                                    "docente":"CHAVEZ MARCELA MABEL"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1200",
                                     "duracion":"1",
                                     "aula":"ADM1",
                                     "docente":"CHAVEZ MARCELA MABEL"
