@@ -501,6 +501,20 @@
                                     "duracion":"1",
                                     "aula":"E PB-2",
                                     "docente":"PEREZ AMADOR MARIO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E PB-2",
+                                    "docente":"PEREZ AMADOR MARIO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E PB-2",
+                                    "docente":"PEREZ AMADOR MARIO"
                                 }]
                         }]
                 },
@@ -555,14 +569,14 @@
                                     "docente":"TABORGA ACHA FIDEL"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
                                     "aula":"E512",
                                     "docente":"TABORGA ACHA FIDEL"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E512",
@@ -616,14 +630,14 @@
                                     "docente":"IRIARTE MERCADO EDGAR ALBERTO"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"815",
                                     "duracion":"1",
                                     "aula":"E 303",
                                     "docente":"CALDERON VILLEGAS VANESSA NOELIA"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 303",
@@ -666,11 +680,25 @@
                                     "dia":"VI",
                                     "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E 106",
+                                    "aula":"E PB-1",
                                     "docente":"VELARDE POMA JUAN CARLOS"
                                 },
                                 {
                                     "dia":"VI",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E PB-1",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 106",
+                                    "docente":"VELARDE POMA JUAN CARLOS"
+                                },
+                                {
+                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 106",
@@ -944,11 +972,25 @@
                                     "dia":"VI",
                                     "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E518",
+                                    "aula":"E523",
                                     "docente":"MOSCOSO FORONDA DAVID"
                                 },
                                 {
                                     "dia":"VI",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E523",
+                                    "docente":"MOSCOSO FORONDA DAVID"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E518",
+                                    "docente":"MOSCOSO FORONDA DAVID"
+                                },
+                                {
+                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E518",
@@ -1128,11 +1170,25 @@
                                     "dia":"VI",
                                     "hora":"815",
                                     "duracion":"1",
+                                    "aula":"E 108",
+                                    "docente":"MENDIZABAL VEGA VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"900",
+                                    "duracion":"1",
+                                    "aula":"E 108",
+                                    "docente":"MENDIZABAL VEGA VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"1",
                                     "aula":"E517",
                                     "docente":"VARGAS MAMANI RENE"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"900",
                                     "duracion":"1",
                                     "aula":"E517",
@@ -1186,14 +1242,14 @@
                                     "docente":"MENA MENA NELSON BISMARK"
                                 },
                                 {
-                                    "dia":"MI",
+                                    "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
                                     "aula":"E 108",
                                     "docente":"MENA MENA NELSON BISMARK"
                                 },
                                 {
-                                    "dia":"MI",
+                                    "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E 108",
@@ -1252,14 +1308,14 @@
                                     "docente":"QUIROZ CLAURE COSME"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E 108",
                                     "docente":"SALAZAR MERCADO TONY"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E 108",
@@ -1412,14 +1468,14 @@
                                     "docente":"ARAMAYO ANTEZANA JAIME ANTONIO"
                                 },
                                 {
-                                    "dia":"MA",
+                                    "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
                                     "aula":"E537",
                                     "docente":"ARAMAYO ANTEZANA JAIME ANTONIO"
                                 },
                                 {
-                                    "dia":"MA",
+                                    "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E537",
@@ -1695,14 +1751,14 @@
                                     "docente":"RIVERA CLAROS WILDER OMAR"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"815",
                                     "duracion":"1",
                                     "aula":"E509",
                                     "docente":"RIVERA CLAROS WILDER OMAR"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"900",
                                     "duracion":"1",
                                     "aula":"E509",
@@ -1823,14 +1879,14 @@
                                     "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
                                 },
                                 {
-                                    "dia":"LU",
+                                    "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
                                     "aula":"E508",
                                     "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
                                 },
                                 {
-                                    "dia":"LU",
+                                    "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E508",
@@ -2010,11 +2066,25 @@
                                     "dia":"JU",
                                     "hora":"1115",
                                     "duracion":"1",
-                                    "aula":"E508",
+                                    "aula":"E507",
                                     "docente":"RIVERA MICHEL HENRY"
                                 },
                                 {
                                     "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"1",
+                                    "aula":"E507",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"1",
+                                    "aula":"E508",
+                                    "docente":"RIVERA MICHEL HENRY"
+                                },
+                                {
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E508",
@@ -2186,14 +2256,14 @@
                                     "docente":"GARAY ANAYA GONZALO"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"645",
                                     "duracion":"1",
                                     "aula":"E PB-1",
                                     "docente":"GARAY ANAYA GONZALO"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E PB-1",
@@ -2446,14 +2516,14 @@
                                     "docente":"MENA MENA NELSON BISMARK"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"645",
                                     "duracion":"1",
                                     "aula":"E 302",
                                     "docente":"MENA MENA NELSON BISMARK"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 302",
@@ -2852,14 +2922,14 @@
                                     "docente":"MENA MENA NELSON BISMARK"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E 106",
                                     "docente":"MENA MENA NELSON BISMARK"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E 106",
@@ -3187,14 +3257,14 @@
                                     "docente":"RIVERA CLAROS WILDER OMAR"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
                                     "aula":"E 103",
                                     "docente":"RIVERA CLAROS WILDER OMAR"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E 103",
@@ -3239,14 +3309,14 @@
                                     "docente":"SORIA GALVARRO VELASCO CARLOS ALBERTO"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"815",
                                     "duracion":"1",
                                     "aula":"E 103",
                                     "docente":"SORIA GALVARRO VELASCO CARLOS ALBERTO"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"900",
                                     "duracion":"1",
                                     "aula":"E 103",
@@ -3291,14 +3361,14 @@
                                     "docente":"CAMACHO GUZMAN FRANCO ARTURO"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"645",
                                     "duracion":"1",
                                     "aula":"E543",
                                     "docente":"CAMACHO GUZMAN FRANCO ARTURO"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E543",

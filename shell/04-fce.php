@@ -115,7 +115,7 @@ class ParseTxt {
                     }
 
                     $i = $i + 2;
-                    if (preg_match('/^(?P<dia>(LU|MA|MI|JU|VI))$/',
+                    if (preg_match('/^(?P<dia>(LU|MA|MI|JU|VI|SA))$/',
                         $lines[$i], $output)) {
                         $_dia = $output['dia'];
                     }

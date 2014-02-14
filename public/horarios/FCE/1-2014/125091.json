@@ -271,11 +271,25 @@
                                     "dia":"JU",
                                     "hora":"645",
                                     "duracion":"1",
-                                    "aula":"E544",
+                                    "aula":"E 203",
                                     "docente":"COCA CARASILA ANDRES MILTON"
                                 },
                                 {
                                     "dia":"JU",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E 203",
+                                    "docente":"COCA CARASILA ANDRES MILTON"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E544",
+                                    "docente":"COCA CARASILA ANDRES MILTON"
+                                },
+                                {
+                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E544",
@@ -480,14 +494,14 @@
                                     "docente":"VELARDE POMA JUAN CARLOS"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"815",
                                     "duracion":"1",
                                     "aula":"E545",
                                     "docente":"VELARDE POMA JUAN CARLOS"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"900",
                                     "duracion":"1",
                                     "aula":"E545",
@@ -541,14 +555,14 @@
                                     "docente":"VELARDE POMA JUAN CARLOS"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E522",
                                     "docente":"VELARDE POMA JUAN CARLOS"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E522",
@@ -701,14 +715,14 @@
                                     "docente":"QUIROZ CLAURE COSME"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E524",
                                     "docente":"FLORES VARGAS JOSE ISRAEL"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E524",
@@ -762,14 +776,14 @@
                                     "docente":"DIAZ MONZON EDMUNDO"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
                                     "aula":"E PB-4",
                                     "docente":"GONZALES TASTACA ADDERLY"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E PB-4",
@@ -1058,14 +1072,14 @@
                                     "docente":"SUAZNABAR CLAROS FERNANDO ALBERTO"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E 202",
                                     "docente":"CLAROS NINA ERICK OSMAR"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E 202",
@@ -1152,14 +1166,14 @@
                                     "docente":"GUEVARA ESPINOZA JORGE"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
                                     "aula":"E524",
                                     "docente":"GUEVARA ESPINOZA JORGE"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E524",
@@ -1397,14 +1411,14 @@
                                     "docente":"VALDEZ ESCOBAR JORGE"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E545",
                                     "docente":"VALDEZ ESCOBAR JORGE"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E545",
@@ -2023,14 +2037,14 @@
                                     "docente":"FERREIRA MONTES VICTOR HUGO"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"645",
                                     "duracion":"1",
                                     "aula":"E521",
                                     "docente":"FERREIRA MONTES VICTOR HUGO"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E521",
@@ -2498,14 +2512,14 @@
                                     "docente":"RIVERA MICHEL HENRY"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E 205",
                                     "docente":"VEGA IGLECIAS MARIA DEL CARMEN"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E 205",
@@ -2795,28 +2809,28 @@
                                     "docente":"VILLAGOMEZ VILLARROEL CESAR"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"645",
                                     "duracion":"1",
                                     "aula":"E504",
                                     "docente":"NINA LAURA ALVARO JESUS"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E504",
                                     "docente":"NINA LAURA ALVARO JESUS"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
                                     "aula":"E544",
                                     "docente":"VILLAGOMEZ VILLARROEL CESAR"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E544",
@@ -3266,14 +3280,14 @@
                                     "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E PB-3",
                                     "docente":"VILDOZO ZAMORANO WALTER FERNANDO"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E PB-3",
@@ -3632,6 +3646,20 @@
                                 },
                                 {
                                     "dia":"VI",
+                                    "hora":"730",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"BURGOS MEDINA CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"1",
+                                    "aula":"E 201",
+                                    "docente":"BURGOS MEDINA CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"SA",
                                     "hora":"730",
                                     "duracion":"1",
                                     "aula":"E 201",
@@ -4044,14 +4072,14 @@
                                     "docente":"VALDEZ ZEGARRA RAFAEL A."
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"945",
                                     "duracion":"1",
                                     "aula":"E 204",
                                     "docente":"VALDEZ ZEGARRA RAFAEL A."
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1030",
                                     "duracion":"1",
                                     "aula":"E 204",
@@ -4342,14 +4370,14 @@
                                     "docente":"RIVERO MORENO CARLOS SERGIO"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1115",
                                     "duracion":"1",
                                     "aula":"E521",
                                     "docente":"RIVERO MORENO CARLOS SERGIO"
                                 },
                                 {
-                                    "dia":"VI",
+                                    "dia":"SA",
                                     "hora":"1200",
                                     "duracion":"1",
                                     "aula":"E521",
@@ -4394,14 +4422,14 @@
                                     "docente":"DELGADILLO SALAS MAYCOL MARCOS"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"815",
                                     "duracion":"1",
                                     "aula":"E523",
                                     "docente":"DELGADILLO SALAS MAYCOL MARCOS"
                                 },
                                 {
-                                    "dia":"JU",
+                                    "dia":"SA",
                                     "hora":"900",
                                     "duracion":"1",
                                     "aula":"E523",
