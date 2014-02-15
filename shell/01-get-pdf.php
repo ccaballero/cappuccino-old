@@ -6,7 +6,7 @@ class GetPdf
     protected $pdf_dir;
     
     public function __construct() {
-        $this->pdf_dir = __DIR__ . '/../public/horarios/';
+        $this->pdf_dir = __DIR__ . '/../public/horarios/FCyT/';
     }
 
 

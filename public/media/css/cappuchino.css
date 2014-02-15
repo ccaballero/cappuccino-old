@@ -63,13 +63,17 @@ footer ul li a:hover {}
 footer ul.left { margin-left: 0.5em; }
 footer ul.right { margin-right: 0.5em; }
 
+@media only screen and (max-width: 280px) {
+    footer {
+        display: none;
+    }
+}
+
 #schedule {
     background-color: #ffffff;
     margin-top: 18px;
     margin-left: 18px;
     box-shadow: 2px 2px 2px #000000 inset;
     border-radius: 0.3em;
-    min-height:264px;
-    min-width:284px;
 }
 

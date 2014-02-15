@@ -24,13 +24,16 @@ class ParseTxt {
         $pages = explode('', $content);
 
         $carrera = new Models_Carrera();
+        $empty_msg = "Los horarios\npara esta\ncarrera aún no\nestán\nprocesados\n\n";
 
-        foreach ($pages as $page) {
-            $_carrera = $this->parser($page, explode("\n", $page));
-            if (!empty($_carrera)) {
-                $carrera->setCodigo($_carrera->getCodigo());
-                $carrera->setNombre($_carrera->getNombre());
-                $carrera->juntar($_carrera);
+        if (count($pages) > 1 && $pages[0] <> $empty_msg) {
+            foreach ($pages as $page) {
+                $_carrera = $this->parser($page, explode("\n", $page));
+                if (!empty($_carrera)) {
+                    $carrera->setCodigo($_carrera->getCodigo());
+                    $carrera->setNombre($_carrera->getNombre());
+                    $carrera->juntar($_carrera);
+                }
             }
         }
 
@@ -175,11 +178,7 @@ class ParseTxt {
     }
 }
 
-$dir = __DIR__ . '/../public/horarios/2-2013/';
+$dir = __DIR__ . '/../public/horarios/FCyT/2-2013/';
 $transform = new ParseTxt($dir);
 $transform->transform();
 
-//$dir = __DIR__ . '/../public/horarios/1-2013/760101.txt';
-//$parser = new ParseTxt(__DIR__);
-//$carrera = $parser->parsePages($dir);
-//echo $carrera;

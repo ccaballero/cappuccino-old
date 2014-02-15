@@ -20,7 +20,9 @@ var Screen=new(function(){
 })()
 
 var Schedule=new(function(){
-    this.days=['LUNES','MARTES','MIERCOLES','JUEVES','VIERNES','SABADO']
+    this.days1=['LUNES','MARTES','MIERCOLES','JUEVES','VIERNES','SABADO']
+    this.days2=['L','M','X','J','V','S']
+
     this.periods=['0645','0730','0815','0900','0945','1030','1115','1200',
         '1245','1330','1415','1500','1545','1630','1715','1800','1845','1930',
         '2015','2100']
@@ -35,7 +37,7 @@ var Schedule=new(function(){
         height=this.canvas.height
 
         rows=this.periods.length
-        columns=this.days.length
+        columns=this.days1.length
 
         _C=40
         _c=(width-_C)/columns
@@ -49,8 +51,21 @@ var Schedule=new(function(){
         this.context.moveTo(_C,0)
         this.context.lineTo(_C,height)
 
+        if(_c>70){
+            days=this.days1
+        }else{
+            days=this.days2
+        }
+
+        // fills drawings
+        e=3
+        this.context.fillStyle='#CDEEB0'
+        this.context.fillRect(e,e,width,_B-e)
+        this.context.fillRect(e,e,_C-e,height)
+
+        this.context.fillStyle='#000'
         for(i=0;i<columns;i++){
-            this.context.fillText(this.days[i],_C+(_c*(i+0.5)),_B*0.5)
+            this.context.fillText(days[i],_C+(_c*(i+0.5)),_B*0.5)
             this.context.moveTo(_C+(_c*i),0)
             this.context.lineTo(_C+(_c*i),height)
         }
