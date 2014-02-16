@@ -1,0 +1,2605 @@
+{
+    "codigo":"429701",
+    "nombre":"INGENIERIA ELECTRONICA",
+    "niveles":[
+        {
+            "codigo":"A",
+            "materias":[
+                {
+                    "codigo":"2006018",
+                    "nombre":"FISICA BASICA I",
+                    "grupos":[
+                        {
+                            "codigo":"13",
+                            "docente":"FERNANDEZ LEON JUAN A.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"FERNANDEZ LEON JUAN A."
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"FERNANDEZ LEON JUAN A."
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"FERNANDEZ LEON JUAN A."
+                                }]
+                        },
+                        {
+                            "codigo":"16",
+                            "docente":"VILLARROEL GIL ARMANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"VILLARROEL GIL ARMANDO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"VILLARROEL GIL ARMANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"6",
+                            "docente":"VALENZUELA MIRANDA ROBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"VALENZUELA MIRANDA ROBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"VALENZUELA MIRANDA ROBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008019",
+                    "nombre":"ALGEBRA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"OMONTE OJALVO JOSE GIL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"OMONTE OJALVO JOSE GIL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"OMONTE OJALVO JOSE GIL"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"RODRIGUEZ SEJAS JUAN ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"RODRIGUEZ SEJAS JUAN ANTONIO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"RODRIGUEZ SEJAS JUAN ANTONIO"
+                                }]
+                        },
+                        {
+                            "codigo":"2A",
+                            "docente":"SANCHEZ ROCHA MARTIN GONZALO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"SANCHEZ ROCHA MARTIN GONZALO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"SANCHEZ ROCHA MARTIN GONZALO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008029",
+                    "nombre":"PROBABILIDAD Y ESTADISTICA",
+                    "grupos":[
+                        {
+                            "codigo":"4",
+                            "docente":"OMONTE OJALVO JOSE ROBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"OMONTE OJALVO JOSE ROBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"OMONTE OJALVO JOSE ROBERTO"
+                                }]
+                        },
+                        {
+                            "codigo":"5",
+                            "docente":"TRUJILLO ARANIBAR WILSON",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"TRUJILLO ARANIBAR WILSON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"LUPA CRUZ LUZ MARIA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008054",
+                    "nombre":"CALCULO I",
+                    "grupos":[
+                        {
+                            "codigo":"3",
+                            "docente":"RELOS PACO SANTIAGO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"ANCARI VILLCA SAUL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"RELOS PACO SANTIAGO"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "docente":"ROMERO ENCINAS RAUL",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"ROMERO ENCINAS RAUL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"ROMERO ENCINAS RAUL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010010",
+                    "nombre":"INTRODUCCION A LA PROGRAMACION",
+                    "grupos":[
+                        {
+                            "codigo":"11",
+                            "docente":"VILLARROEL TAPIA HENRY FRANK",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"VILLARROEL TAPIA HENRY FRANK"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"VILLARROEL TAPIA HENRY FRANK"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"PAZ CANDIA ADRIANA MILENKA"
+                                }]
+                        },
+                        {
+                            "codigo":"8",
+                            "docente":"MANZUR SORIA CARLOS B.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"VELIZ GUARDIA AMIRA ABRIL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"MANZUR SORIA CARLOS B."
+                                }]
+                        },
+                        {
+                            "codigo":"9",
+                            "docente":"MONTANO QUIROGA VICTOR HUGO",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"693D",
+                                    "docente":"MONTANO QUIROGA VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"Por Designar ..."
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"B",
+            "materias":[
+                {
+                    "codigo":"2006020",
+                    "nombre":"FISICA BASICA III",
+                    "grupos":[
+                        {
+                            "codigo":"5",
+                            "docente":"ALARCON ORIHUELA RAFAEL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"ALARCON ORIHUELA RAFAEL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"ALARCON ORIHUELA RAFAEL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"ALARCON ORIHUELA RAFAEL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008022",
+                    "nombre":"ALGEBRA II",
+                    "grupos":[
+                        {
+                            "codigo":"3",
+                            "docente":"FLORES TABOADA DANNY ARIEL",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"LEON ROMERO RUPERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"ANCARI VILLCA SAUL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"FLORES TABOADA DANNY ARIEL"
+                                }]
+                        },
+                        {
+                            "codigo":"3A",
+                            "docente":"TERRAZAS LOBO JUAN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"TERRAZAS LOBO JUAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"TERRAZAS LOBO JUAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008056",
+                    "nombre":"CALCULO II",
+                    "grupos":[
+                        {
+                            "codigo":"3",
+                            "docente":"MARTINEZ MAIDA AMILCAR SAUL",
+                            "horarios":[
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MARTINEZ MAIDA AMILCAR SAUL"
+                                }]
+                        },
+                        {
+                            "codigo":"3A",
+                            "docente":"BUSTILLOS VARGAS ALEX ISRRAEL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"BUSTILLOS VARGAS ALEX ISRRAEL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"BUSTILLOS VARGAS ALEX ISRRAEL"
+                                }]
+                        },
+                        {
+                            "codigo":"3B",
+                            "docente":"TORRICO BASCOPE ROSEMARY",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"CATARI RIOS RAUL"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"CATARI RIOS RAUL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"690C",
+                                    "docente":"TORRICO BASCOPE ROSEMARY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010003",
+                    "nombre":"ELEM. DE PROGRAMACION Y ESTRUC. DE DATOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"GUEVARA ROMERO JOSE CARLOS"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "docente":"BLANCO COCA LETICIA",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"BLANCO COCA LETICIA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"625D",
+                                    "docente":"BLANCO COCA LETICIA"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014002",
+                    "nombre":"CIRCUITOS ELECTRICOS I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"PEREZ PEREDO YURI GERMAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"668",
+                                    "docente":"ESPINOZA OROSCO JOSE"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"668",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"PEREZ PEREDO YURI GERMAN"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"MONTERO GUEVARA JUAN JOSE EDGAR",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"668",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"668",
+                                    "docente":"PEREZ PEREDO YURI GERMAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"693D",
+                                    "docente":"MONTERO GUEVARA JUAN JOSE EDGAR"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"MONTERO GUEVARA JUAN JOSE EDGAR"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"RODRIGUEZ SEJAS JUAN ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"4",
+                                    "aula":"668",
+                                    "docente":"PEREZ PEREDO YURI GERMAN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"RODRIGUEZ SEJAS JUAN ANTONIO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"C",
+            "materias":[
+                {
+                    "codigo":"2006019",
+                    "nombre":"FISICA BASICA II",
+                    "grupos":[
+                        {
+                            "codigo":"2",
+                            "docente":"GARCIA ANTURIANO OSCAR",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"GARCIA ANTURIANO OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"GARCIA ANTURIANO OSCAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"GARCIA ANTURIANO OSCAR"
+                                }]
+                        },
+                        {
+                            "codigo":"5",
+                            "docente":"VILLARROEL GIL ARMANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"VILLARROEL GIL ARMANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"VILLARROEL GIL ARMANDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008024",
+                    "nombre":"VARIABLE COMPLEJA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ROJAS ZURITA RAMIRO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"ROJAS ZURITA RAMIRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"ROJAS ZURITA RAMIRO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2008058",
+                    "nombre":"ECUACIONES DIFERENCIALES",
+                    "grupos":[
+                        {
+                            "codigo":"4",
+                            "docente":"TAYLOR TERRAZAS DARLONG HOWARD",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"TAYLOR TERRAZAS DARLONG HOWARD"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":"TAYLOR TERRAZAS DARLONG HOWARD"
+                                }]
+                        },
+                        {
+                            "codigo":"5",
+                            "docente":"ROMERO ENCINAS RAUL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"ROMERO ENCINAS RAUL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"ROMERO ENCINAS RAUL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014003",
+                    "nombre":"ELECTROMAGNETISMO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ALARCON ORIHUELA RAFAEL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"3",
+                                    "aula":"668",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"ALARCON ORIHUELA RAFAEL"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"ALARCON ORIHUELA RAFAEL"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014004",
+                    "nombre":"CIRCUITOS ELECTRICOS II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ALARCON ORIHUELA RAFAEL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"668",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"668",
+                                    "docente":"PEREZ PEREDO YURI GERMAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"690C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"693D",
+                                    "docente":"ALARCON ORIHUELA RAFAEL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"ALARCON ORIHUELA RAFAEL"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"668",
+                                    "docente":"ESPINOZA OROSCO JOSE"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"BUSTILLOS VARGAS ALEX ISRRAEL",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"BUSTILLOS VARGAS ALEX ISRRAEL"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"668",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"668",
+                                    "docente":"PEREZ PEREDO YURI GERMAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"BUSTILLOS VARGAS ALEX ISRRAEL"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"D",
+            "materias":[
+                {
+                    "codigo":"2008157",
+                    "nombre":"TRANSFORMADAS INTEGRALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CARRASCO CALVO ALVARO HERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"CARRASCO CALVO ALVARO HERNANDO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"CARRASCO CALVO ALVARO HERNANDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"612",
+                                    "docente":"CARRASCO CALVO ALVARO HERNANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"VALLEJO CAMACHO MARCO ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"VALLEJO CAMACHO MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"VALLEJO CAMACHO MARCO ANTONIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010012",
+                    "nombre":"METODOS TECNICAS Y TALLER DE PROGRAMACION",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"FLORES VILLARROEL CORINA",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"625D",
+                                    "docente":"FLORES VILLARROEL CORINA"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"FLORES VILLARROEL CORINA"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"MANZUR SORIA CARLOS B.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"690B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"690B",
+                                    "docente":"MANZUR SORIA CARLOS B."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"690B",
+                                    "docente":"MANZUR SORIA CARLOS B."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014005",
+                    "nombre":"CIRCUITOS ELECTRICOS III",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"VALLEJO CAMACHO MARCO ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"3",
+                                    "aula":"668",
+                                    "docente":"RODRIGUEZ SEJAS JUAN ANTONIO"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"3",
+                                    "aula":"668",
+                                    "docente":"RODRIGUEZ SEJAS JUAN ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"VALLEJO CAMACHO MARCO ANTONIO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"USTARIZ ARAMAYO VICTOR",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"3",
+                                    "aula":"668",
+                                    "docente":"VALLEJO CAMACHO MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"USTARIZ ARAMAYO VICTOR"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"693D",
+                                    "docente":"USTARIZ ARAMAYO VICTOR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014006",
+                    "nombre":"ELECTRONICA ANALOGICA I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ESPINOZA OROSCO RUBEN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"ESPINOZA OROSCO RUBEN"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":"ESPINOZA OROSCO RUBEN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":"ESPINOZA OROSCO RUBEN"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"ESPINOZA OROSCO RUBEN"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ARISPE SANTANDER ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"623",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":"TANCARA SANDAGORDA JOSE FELIX"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"ARISPE SANTANDER ALBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":"TANCARA SANDAGORDA JOSE FELIX"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":"CASTELLON MERIDA JORGE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2018003",
+                    "nombre":"RESISTENCIA DE MATERIALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"TORREJON ROCABADO JULIO MARCELO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1200",
+                                    "duracion":"3",
+                                    "aula":"617B",
+                                    "docente":"TORREJON ROCABADO JULIO MARCELO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"TORREJON ROCABADO JULIO MARCELO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"E",
+            "materias":[
+                {
+                    "codigo":"2014007",
+                    "nombre":"ELECTRONICA ANALOGICA II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"SARAMANI AGUILAR ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"671C",
+                                    "docente":"SARAMANI AGUILAR ARTURO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"624",
+                                    "docente":"SARAMANI AGUILAR ARTURO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014014",
+                    "nombre":"ELECTRONICA DIGITAL I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"URRUTIA MEDRANO JOSE A.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"3",
+                                    "aula":"669B",
+                                    "docente":"PEREZ PEREDO YURI GERMAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"4",
+                                    "aula":"669B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"6",
+                                    "aula":"669B",
+                                    "docente":"PEREZ PEREDO YURI GERMAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014059",
+                    "nombre":"ANALISIS DE SE¥ALES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"TORRICO BARRON NORMAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"TORRICO BARRON NORMAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693D",
+                                    "docente":"TORRICO BARRON NORMAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"FLORES BALDERRAMA ARIEL VICTOR"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014061",
+                    "nombre":"MEDIDAS ELECTRONICAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ARISPE SANTANDER WALTER",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":"ARISPE ARIAS TITO MAURICIO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"ARISPE SANTANDER WALTER"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"671C",
+                                    "docente":"ARISPE SANTANDER WALTER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014087",
+                    "nombre":"ELECTROTECNIA INDUSTRIAL",
+                    "grupos":[
+                        {
+                            "codigo":"3",
+                            "docente":"ARISPE SANTANDER ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"3",
+                                    "aula":"672",
+                                    "docente":"MONTERO GUEVARA JUAN JOSE EDGAR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"ARISPE SANTANDER ALBERTO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"3",
+                                    "aula":"672",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"ARISPE SANTANDER ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":"ARISPE SANTANDER ALBERTO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"F",
+            "materias":[
+                {
+                    "codigo":"2006012",
+                    "nombre":"FISICA MODERNA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"FLORES FLORES FREDDY",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"FLORES FLORES FREDDY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"690B",
+                                    "docente":"FLORES FLORES FREDDY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"617C",
+                                    "docente":"FLORES FLORES FREDDY"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010005",
+                    "nombre":"TALLER DE PROGRAMACION EN BAJO NIVEL",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MONTECINOS CHOQUE MARCO ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"692C",
+                                    "docente":"MONTECINOS CHOQUE MARCO ANTONIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"607",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"MONTECINOS CHOQUE MARCO ANTONIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014063",
+                    "nombre":"SISTEMAS DE CONTROL DINAMICO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ARISPE SANTANDER ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"670",
+                                    "docente":"ARISPE SANTANDER ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"ARISPE SANTANDER ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"3",
+                                    "aula":"670",
+                                    "docente":"VICTORIA ANTEZANA ALVARO EMILIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014064",
+                    "nombre":"TELECOMUNICACIONES I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CAMACHO VILLARROEL ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"621A",
+                                    "docente":"CAMACHO VILLARROEL ARTURO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"619",
+                                    "docente":"CAMACHO VILLARROEL ARTURO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":"JALDIN CORRALES WILLIAM"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ZAMBRANA VILAR JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"670",
+                                    "docente":"ZAMBRANA VILAR JORGE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"ZAMBRANA VILAR JORGE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014065",
+                    "nombre":"LINEAS DE TRANSMISION Y PROPAGACION",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ZAMBRANA VILAR JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"ZAMBRANA VILAR JORGE"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"692F",
+                                    "docente":"ZAMBRANA VILAR JORGE"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"3",
+                                    "aula":"669B",
+                                    "docente":"DORADO CLAVIJO DANIEL"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"G",
+            "materias":[
+                {
+                    "codigo":"2008052",
+                    "nombre":"CALCULO NUMERICO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"SORUCO MAITA JOSE ANTONIO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"SORUCO MAITA JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"SORUCO MAITA JOSE ANTONIO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"SORUCO MAITA JOSE ANTONIO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014011",
+                    "nombre":"INSTALACIONES ELECTRICAS I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"GUZMAN ALANES GERARDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"GUZMAN ALANES GERARDO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"3",
+                                    "aula":"670",
+                                    "docente":"GUTIERREZ PEREZ JAIRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"GUZMAN ALANES GERARDO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"MERIDA LOPEZ REINALDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"MERIDA LOPEZ REINALDO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MERIDA LOPEZ REINALDO"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691C",
+                                    "docente":"MERIDA LOPEZ REINALDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014015",
+                    "nombre":"ELECTRONICA DE POTENCIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"JALDIN FLORERO HERNAN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1930",
+                                    "duracion":"3",
+                                    "aula":"667B",
+                                    "docente":"JALDIN FLORERO HERNAN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"667B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"691D",
+                                    "docente":"JALDIN FLORERO HERNAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"693C",
+                                    "docente":"JALDIN FLORERO HERNAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014037",
+                    "nombre":"ELECTRONICA DIGITAL II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"URRUTIA MEDRANO JOSE A.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":"CAMACHO CAMACHO WILY ROGER"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"669A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014066",
+                    "nombre":"TELECOMUNICACIONES II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CAMACHO VILLARROEL ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"670",
+                                    "docente":"VEIZAGA TORRICO ALEJANDRO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"670",
+                                    "docente":"VEIZAGA TORRICO ALEJANDRO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"667B",
+                                    "docente":"CAMACHO VILLARROEL ARTURO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ZAMBRANA VILAR JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"670",
+                                    "docente":"ZAMBRANA VILAR JORGE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"670",
+                                    "docente":"ZAMBRANA VILAR JORGE"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"H",
+            "materias":[
+                {
+                    "codigo":"2014035",
+                    "nombre":"MICROPROCESADORES I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ARISPE SANTANDER ALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"CASTELLON MERIDA JORGE"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"667A",
+                                    "docente":"ORSI SALDIAS HERNAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"3",
+                                    "aula":"670",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"3",
+                                    "aula":"667B",
+                                    "docente":"ORSI SALDIAS HERNAN"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"3",
+                                    "aula":"670",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":"ARISPE SANTANDER ALBERTO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014071",
+                    "nombre":"ROBOTICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"670",
+                                    "docente":"QUISPE ZARATE ISRAEL FERNANDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014075",
+                    "nombre":"DISE¥O DE ELECTRONICA ANALOGICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"SARAMANI AGUILAR ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"SARAMANI AGUILAR ARTURO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"671C",
+                                    "docente":"SARAMANI AGUILAR ARTURO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"671C",
+                                    "docente":"SARAMANI AGUILAR ARTURO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014139",
+                    "nombre":"TELECOMUNICACIONES III",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ORSI SALDIAS HERNAN",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"617",
+                                    "docente":"ORSI SALDIAS HERNAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1930",
+                                    "duracion":"3",
+                                    "aula":"690B",
+                                    "docente":"ORSI SALDIAS HERNAN"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014140",
+                    "nombre":"MULTIMEDIA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"BUTRON GANDARILLAS FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"3",
+                                    "aula":"607",
+                                    "docente":"BUTRON GANDARILLAS FERNANDO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014141",
+                    "nombre":"DISE¥O DE SISTEMAS DIGITALES I",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"AGREDA CORRALES LUIS ROBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"670",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"AGREDA CORRALES LUIS ROBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"AGREDA CORRALES LUIS ROBERTO"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"I",
+            "materias":[
+                {
+                    "codigo":"2010017",
+                    "nombre":"TALLER DE SISTEMAS OPERATIVOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"HERRERA ACEBEY JOHNNY",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"691E",
+                                    "docente":"HERRERA ACEBEY JOHNNY"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"HERRERA ACEBEY JOHNNY"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691A",
+                                    "docente":"HERRERA ACEBEY JOHNNY"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ORELLANA ARAOZ JORGE WALTER",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"ORELLANA ARAOZ JORGE WALTER"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"692G",
+                                    "docente":"ORELLANA ARAOZ JORGE WALTER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014030",
+                    "nombre":"PROYECTO TERMINAL I",
+                    "grupos":[
+                        {
+                            "codigo":"11",
+                            "docente":"ANTEZANA NOGALES VICTOR HUGO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"ANTEZANA NOGALES VICTOR HUGO"
+                                }]
+                        },
+                        {
+                            "codigo":"15",
+                            "docente":"GUZMAN RIOS GONZALO",
+                            "horarios":[
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"671B",
+                                    "docente":"GUZMAN RIOS GONZALO"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"GUZMAN RIOS GONZALO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"671A",
+                                    "docente":"GUZMAN RIOS GONZALO"
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "docente":"BUTRON GANDARILLAS FERNANDO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"671B",
+                                    "docente":"BUTRON GANDARILLAS FERNANDO"
+                                }]
+                        },
+                        {
+                            "codigo":"5",
+                            "docente":"ZAMBRANA VILAR JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"ZAMBRANA VILAR JORGE"
+                                }]
+                        },
+                        {
+                            "codigo":"6",
+                            "docente":"ANTEZANA NOGALES VICTOR HUGO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"ANTEZANA NOGALES VICTOR HUGO"
+                                }]
+                        },
+                        {
+                            "codigo":"7",
+                            "docente":"ESPINOZA OROSCO JOSE",
+                            "horarios":[
+                                {
+                                    "dia":"SA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"690B",
+                                    "docente":"ESPINOZA OROSCO JOSE"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014042",
+                    "nombre":"MICROPROCESADORES II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"SARAMANI AGUILAR ARTURO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"3",
+                                    "aula":"670",
+                                    "docente":"SARAMANI AGUILAR ARTURO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"SARAMANI AGUILAR ARTURO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014142",
+                    "nombre":"DISE¥O DE SISTEMAS DIGITALES II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"URRUTIA MEDRANO JOSE A.",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"669B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014143",
+                    "nombre":"TALLER DE CONTROL Y AUTOMATISMO",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"COSSIO CABRERA WALTER",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"3",
+                                    "aula":"672",
+                                    "docente":"CASTELLON MERIDA JORGE"
+                                },
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"3",
+                                    "aula":"667A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"667A",
+                                    "docente":"COSSIO CABRERA WALTER"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"J",
+            "materias":[
+                {
+                    "codigo":"2010047",
+                    "nombre":"REDES DE COMPUTADORAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"HERRERA ACEBEY JOHNNY",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"691F",
+                                    "docente":"HERRERA ACEBEY JOHNNY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"HERRERA ACEBEY JOHNNY"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"645",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"HERRERA ACEBEY JOHNNY"
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"ORELLANA ARAOZ JORGE WALTER",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"691B",
+                                    "docente":"ORELLANA ARAOZ JORGE WALTER"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":"ORELLANA ARAOZ JORGE WALTER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014034",
+                    "nombre":"PROYECTO TERMINAL II",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"URRUTIA MEDRANO JOSE A.",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"3",
+                                    "aula":"671B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                }]
+                        },
+                        {
+                            "codigo":"2",
+                            "docente":"PEREZ APARICIO JOSE LUIS",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"671B",
+                                    "docente":"PEREZ APARICIO JOSE LUIS"
+                                }]
+                        },
+                        {
+                            "codigo":"4A",
+                            "docente":"ZAMBRANA VILAR JORGE",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"671B",
+                                    "docente":"ZAMBRANA VILAR JORGE"
+                                }]
+                        },
+                        {
+                            "codigo":"5",
+                            "docente":"URRUTIA MEDRANO JOSE A.",
+                            "horarios":[
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"671B",
+                                    "docente":"URRUTIA MEDRANO JOSE A."
+                                }]
+                        },
+                        {
+                            "codigo":"6",
+                            "docente":"ANTEZANA NOGALES VICTOR HUGO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"631",
+                                    "docente":"ANTEZANA NOGALES VICTOR HUGO"
+                                }]
+                        },
+                        {
+                            "codigo":"6A",
+                            "docente":"ANTEZANA NOGALES VICTOR HUGO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"671B",
+                                    "docente":"ZAMBRANA VILAR JORGE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"ANTEZANA NOGALES VICTOR HUGO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014046",
+                    "nombre":"TOPICOS ELECTRONICOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"ANTEZANA NOGALES VICTOR HUGO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"ANTEZANA NOGALES VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"690B",
+                                    "docente":"ANTEZANA NOGALES VICTOR HUGO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014049",
+                    "nombre":"TOPICOS ELECTRONICOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"GUZMAN RIOS GONZALO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"631",
+                                    "docente":"BALDERRAMA ANGULO ROGER WILMER"
+                                },
+                                {
+                                    "dia":"SA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"625C",
+                                    "docente":"BALDERRAMA ANGULO ROGER WILMER"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"815",
+                                    "duracion":"2",
+                                    "aula":"670",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"GUZMAN RIOS GONZALO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2016005",
+                    "nombre":"PREPARACION Y EVALUACION DE PROYECTOS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"CANEDO ESPINOZA WALTER",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"617B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"622",
+                                    "docente":"CANEDO ESPINOZA WALTER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692B",
+                                    "docente":"CANEDO ESPINOZA WALTER"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2014144",
+                    "nombre":"COMUNICACION DE DATOS",
+                    "grupos":[
+                        {
+                            "codigo":"8",
+                            "docente":"",
+                            "horarios":[]
+                        }]
+                }]
+        }]
+}
