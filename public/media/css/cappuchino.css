@@ -7,7 +7,7 @@ body, div, ul, ol, li, p, a {
 a {
     font-size: 0.72em;
     text-decoration: none;
-    color: #404040;
+    color: #000000;
 }
 
 .left {
@@ -18,32 +18,70 @@ a {
     float: right;
 }
 
+.menu {
+    background-color: #CC3300;
+}
+
+.carrera {
+    background-color: #462C1F;
+}
+
+.materia {
+    background-color: #B0A69D;
+}
+
+.grupo {
+    background-color: #5F8FB4;
+}
+
 #wrapper {
     position: absolute;
     top: 0px;
     bottom: 0px;
     left: 0px;
     right: 0px;
-
-    background-image: -webkit-gradient(linear, left top, left bottom,
-        color-stop(0, #C7F4FC), color-stop(1, #4E9494));
-    background-image: -o-linear-gradient(bottom, #C7F4FC 0%, #4E9494 100%);
-    background-image: -moz-linear-gradient(bottom, #C7F4FC 0%, #4E9494 100%);
-    background-image: -webkit-linear-gradient(bottom, #C7F4FC 0%, #4E9494 100%);
-    background-image: -ms-linear-gradient(bottom, #C7F4FC 0%, #4E9494 100%);
-    background-image: linear-gradient(to bottom, #C7F4FC 0%, #4E9494 100%);
 }
 
-footer {
+header {
     position: absolute;
-    /*bottom: 0px;*/
     top:0px;
-    left: 1.0em;
-    right: 1.0em;
-    background-color: #CDEEB0;
+    left: 0.0em;
+    right: 0.5em;
+}
+
+header nav {
+    float: left;
+    margin-top: 0px;
+    margin-left: 1px;
+    display: block;
+    padding-left: 10px;
+}
+
+header nav ul {
+    float: left;
     box-shadow: 0px -2px 4px #000000;
-    /*border-radius: 0.4em 0.4em 0em 0em;*/
-    border-radius: 0em 0em 0.4em 0.4em;
+    border-radius: 0.0em 0.0em 0.4em 0.4em;
+}
+
+header nav ul li {
+    list-style: none;
+    float: left;
+}
+
+header nav ul li a {
+    float: left;
+    padding: 0.5em 0.3em 0.3em 0.3em;
+}
+
+header nav ul.left { margin-left: 0.5em; }
+
+@media only screen and (max-width: 280px) {
+    header {
+        display: none;
+    }
+    footer {
+        display: none;
+    }
 }
 
 footer ul {
@@ -53,29 +91,19 @@ footer ul {
 footer ul li {
     list-style: none;
     float: left;
+    margin-left: 7px;
 }
 
-footer ul li a {
+footer nav ul li a {
     float: left;
     padding: 0.5em 0.3em 0.3em 0.3em;
 }
 
 footer ul li a:hover {}
 
-footer ul.left { margin-left: 0.5em; }
 footer ul.right { margin-right: 0.5em; }
 
-@media only screen and (max-width: 280px) {
-    footer {
-        display: none;
-    }
-}
-
 #schedule {
-    background-color: #ffffff;
     margin-top: 40px;
-    margin-left: 18px;
-    box-shadow: 2px 2px 2px #000000 inset;
-    border-radius: 0.3em;
+    margin-left: 5px;
 }
-

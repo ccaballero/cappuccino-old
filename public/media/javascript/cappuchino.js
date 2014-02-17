@@ -13,8 +13,8 @@ var Screen=new(function(){
         if(window.innerWidth){return window.innerWidth}
         else{return document.documentElement.clientWidth}}
     this.resize=function(){
-        Screen.getCanvas().width=Screen.width()-36
-        Screen.getCanvas().height=Screen.height()-56
+        Screen.getCanvas().width=Screen.width()-15
+        Screen.getCanvas().height=Screen.height()-78
         Schedule.render()
     }
 })()
@@ -63,7 +63,7 @@ var Schedule=new(function(){
         this.context.beginPath()
 
         this.context.moveTo(_C,0)
-        this.context.lineTo(_C,height)
+//        this.context.lineTo(_C,height)
 
         if(_c>70){
             days=this.days1
@@ -77,7 +77,7 @@ var Schedule=new(function(){
 
         // fills drawings
         e=3
-        this.context.fillStyle='#CDEEB0'
+//        this.context.fillStyle='#CDEEB0'
         this.context.fillRect(e,e,width,_B-e)
         this.context.fillRect(e,e,_C-e,height)
 
