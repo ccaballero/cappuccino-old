@@ -1,0 +1,11 @@
+Cappuchino 2.0
+==============
+
+Funcionalidades pendientes:
+---------------------------
+
+1. Popup para ver el detalle del horario.
+2. Pintado de las materias.
+3. Menu
+    3.1. Transicion de menus.
+    3.2. Desplegado de materias y grupos.
