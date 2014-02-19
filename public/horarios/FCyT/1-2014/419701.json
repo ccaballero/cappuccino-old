@@ -575,7 +575,7 @@
                                     "hora":"945",
                                     "duracion":"2",
                                     "aula":"INFLAB",
-                                    "docente":""
+                                    "docente":"COSTAS JAUREGUI VLADIMIR ABEL"
                                 },
                                 {
                                     "dia":"VI",
@@ -709,9 +709,9 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1845",
+                                    "hora":"945",
                                     "duracion":"2",
-                                    "aula":"690B",
+                                    "aula":"623",
                                     "docente":""
                                 },
                                 {
@@ -1475,10 +1475,10 @@
                                     "docente":"MONTANO QUIROGA VICTOR HUGO"
                                 },
                                 {
-                                    "dia":"MI",
+                                    "dia":"JU",
                                     "hora":"1115",
                                     "duracion":"2",
-                                    "aula":"623",
+                                    "aula":"INFLAB",
                                     "docente":"MONTANO QUIROGA VICTOR HUGO"
                                 }]
                         },
@@ -3246,7 +3246,7 @@
                         },
                         {
                             "codigo":"5",
-                            "docente":"FIORILO LOZADA AMERICO",
+                            "docente":"Por Designar ...",
                             "horarios":[
                                 {
                                     "dia":"LU",
@@ -3260,7 +3260,7 @@
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"631",
-                                    "docente":"FIORILO LOZADA AMERICO"
+                                    "docente":"Por Designar ..."
                                 }]
                         }]
                 },
@@ -3429,28 +3429,28 @@
                         },
                         {
                             "codigo":"4",
-                            "docente":"FIORILO LOZADA AMERICO",
+                            "docente":"JALDIN ROSALES K. ROLANDO",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"690B",
-                                    "docente":"FIORILO LOZADA AMERICO"
+                                    "docente":"JALDIN ROSALES K. ROLANDO"
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"625D",
-                                    "docente":"FIORILO LOZADA AMERICO"
+                                    "docente":"JALDIN ROSALES K. ROLANDO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"690D",
-                                    "docente":"FIORILO LOZADA AMERICO"
+                                    "docente":"JALDIN ROSALES K. ROLANDO"
                                 }]
                         },
                         {
@@ -3505,8 +3505,32 @@
                         }]
                 },
                 {
-                    "codigo":"2010178",
-                    "nombre":"ENTORNOS VIRTUALES DE APRENDIZAJE",
+                    "codigo":"2010182",
+                    "nombre":"TELEFONIA IP",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MONTOYA BURGOS YONY RICHARD",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010198",
+                    "nombre":"APLICACIONES WEB AVANZADAS",
                     "grupos":[
                         {
                             "codigo":"1",
@@ -3541,10 +3565,10 @@
                             "docente":"CALANCHA NAVIA BORIS",
                             "horarios":[
                                 {
-                                    "dia":"MI",
-                                    "hora":"1415",
+                                    "dia":"MA",
+                                    "hora":"2015",
                                     "duracion":"2",
-                                    "aula":"691E",
+                                    "aula":"693A",
                                     "docente":""
                                 },
                                 {
@@ -3557,26 +3581,26 @@
                         }]
                 },
                 {
-                    "codigo":"2010066",
-                    "nombre":"PROCESOS AGILES",
+                    "codigo":"2010103",
+                    "nombre":"ROBOTICA",
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"AZERO ALCOCER PABLO",
+                            "docente":"GARCIA PEREZ CARMEN ROSA",
                             "horarios":[
                                 {
-                                    "dia":"MI",
-                                    "hora":"1415",
+                                    "dia":"LU",
+                                    "hora":"945",
                                     "duracion":"2",
-                                    "aula":"692D",
+                                    "aula":"690C",
                                     "docente":""
                                 },
                                 {
                                     "dia":"VI",
-                                    "hora":"1415",
+                                    "hora":"1115",
                                     "duracion":"2",
-                                    "aula":"692D",
-                                    "docente":"AZERO ALCOCER PABLO"
+                                    "aula":"644",
+                                    "docente":"GARCIA PEREZ CARMEN ROSA"
                                 }]
                         }]
                 },
@@ -3586,21 +3610,21 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"FIORILO LOZADA AMERICO",
+                            "docente":"Por Designar ...",
                             "horarios":[
                                 {
                                     "dia":"LU",
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"692G",
-                                    "docente":"FIORILO LOZADA AMERICO"
+                                    "docente":"Por Designar ..."
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"945",
                                     "duracion":"2",
                                     "aula":"INFDEP",
-                                    "docente":"FIORILO LOZADA AMERICO"
+                                    "docente":"Por Designar ..."
                                 }]
                         },
                         {
@@ -3609,9 +3633,9 @@
                             "horarios":[
                                 {
                                     "dia":"JU",
-                                    "hora":"2015",
+                                    "hora":"815",
                                     "duracion":"2",
-                                    "aula":"690B",
+                                    "aula":"INFDEP",
                                     "docente":"MONTANO QUIROGA VICTOR HUGO"
                                 },
                                 {
@@ -3677,6 +3701,54 @@
                                     "duracion":"2",
                                     "aula":"INFDEP",
                                     "docente":"AYOROA CARDOZO JOSE RICHARD"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010190",
+                    "nombre":"ADMINISTRACION SERVIDORES INTERNET",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MONTOYA BURGOS YONY RICHARD",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010191",
+                    "nombre":"TECNICAS DE RUTEO AVANZADA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MONTOYA BURGOS YONY RICHARD",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"692A",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"642",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
                                 }]
                         }]
                 },

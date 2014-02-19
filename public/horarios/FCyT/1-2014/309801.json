@@ -785,30 +785,23 @@
                                 {
                                     "dia":"JU",
                                     "hora":"1200",
-                                    "duracion":"1",
+                                    "duracion":"3",
                                     "aula":"616",
                                     "docente":""
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"1245",
-                                    "duracion":"2",
-                                    "aula":"616",
-                                    "docente":"LOPEZ ARZE JAVIER BERNARDO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"691B",
-                                    "docente":""
+                                    "docente":"RICALDEZ ALVAREZ FERNANDO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1845",
                                     "duracion":"3",
                                     "aula":"616",
-                                    "docente":"LEDEZMA MONTANO MARCELO FERNANDO"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"SA",
@@ -832,7 +825,7 @@
                                     "hora":"645",
                                     "duracion":"2",
                                     "aula":"692E",
-                                    "docente":"RUIZ UCUMARI IVAN"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"MI",
@@ -858,14 +851,14 @@
                                     "hora":"945",
                                     "duracion":"2",
                                     "aula":"617",
-                                    "docente":"CHOQUE UNO FRANCISCO"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"692A",
-                                    "docente":""
+                                    "docente":"CHOQUE UNO FRANCISCO"
                                 },
                                 {
                                     "dia":"VI",
@@ -889,14 +882,14 @@
                                     "hora":"1245",
                                     "duracion":"2",
                                     "aula":"691E",
-                                    "docente":""
+                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"945",
                                     "duracion":"2",
                                     "aula":"642",
-                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"VI",
@@ -915,14 +908,14 @@
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"612",
-                                    "docente":""
+                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"692B",
-                                    "docente":"JUCHANI BAZUALDO DEMETRIO"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"VI",
@@ -946,14 +939,14 @@
                                     "hora":"1715",
                                     "duracion":"2",
                                     "aula":"607",
-                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"MA",
                                     "hora":"1115",
                                     "duracion":"2",
                                     "aula":"692G",
-                                    "docente":""
+                                    "docente":"PASCUAL VARGAS JIMENA"
                                 },
                                 {
                                     "dia":"MI",
@@ -972,14 +965,14 @@
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"623",
-                                    "docente":""
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"624",
-                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"VI",
@@ -1003,14 +996,14 @@
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"624",
-                                    "docente":""
+                                    "docente":"MANCHEGO CASTELLON ROBERTO JUAN"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"622",
-                                    "docente":"MANCHEGO CASTELLON ROBERTO JUAN"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"SA",
@@ -1531,25 +1524,6 @@
                                     "aula":"692D",
                                     "docente":"ALVAREZ QUIROZ RICHARD MILTON"
                                 }]
-                        },
-                        {
-                            "codigo":"2",
-                            "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA",
-                            "horarios":[
-                                {
-                                    "dia":"MA",
-                                    "hora":"1715",
-                                    "duracion":"2",
-                                    "aula":"693C",
-                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"1545",
-                                    "duracion":"3",
-                                    "aula":"635",
-                                    "docente":"MAGARI\u00d1OS VILLARROEL MABEL GLORIA"
-                                }]
                         }]
                 },
                 {
@@ -1572,39 +1546,13 @@
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"693C",
-                                    "docente":"PEREZ FUENTES OMAR DAVID"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"MI",
                                     "hora":"1245",
                                     "duracion":"2",
                                     "aula":"691C",
-                                    "docente":"PEREZ FUENTES OMAR DAVID"
-                                }]
-                        },
-                        {
-                            "codigo":"1A",
-                            "docente":"PEREZ FUENTES OMAR DAVID",
-                            "horarios":[
-                                {
-                                    "dia":"MA",
-                                    "hora":"1845",
-                                    "duracion":"2",
-                                    "aula":"692B",
-                                    "docente":"PEREZ FUENTES OMAR DAVID"
-                                },
-                                {
-                                    "dia":"MI",
-                                    "hora":"1845",
-                                    "duracion":"2",
-                                    "aula":"631",
-                                    "docente":""
-                                },
-                                {
-                                    "dia":"JU",
-                                    "hora":"1415",
-                                    "duracion":"2",
-                                    "aula":"631",
                                     "docente":"PEREZ FUENTES OMAR DAVID"
                                 }]
                         }]
@@ -1615,28 +1563,28 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"COSIO PAPADOPOLIS CARLOS JAVIER",
+                            "docente":"MANCHEGO CASTELLON ROBERTO JUAN",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"692F",
-                                    "docente":""
+                                    "docente":"MANCHEGO CASTELLON ROBERTO JUAN"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"693C",
-                                    "docente":"MANCHEGO CASTELLON ROBERTO JUAN"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"VI",
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"607",
-                                    "docente":"COSIO PAPADOPOLIS CARLOS JAVIER"
+                                    "docente":"MANCHEGO CASTELLON ROBERTO JUAN"
                                 }]
                         }]
                 },
@@ -1717,7 +1665,7 @@
                                     "hora":"1845",
                                     "duracion":"2",
                                     "aula":"691B",
-                                    "docente":"MONTANO ANAYA FRANCISCO"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"MA",
@@ -1764,7 +1712,7 @@
                                     "hora":"1245",
                                     "duracion":"2",
                                     "aula":"691D",
-                                    "docente":""
+                                    "docente":"MONTANO ANAYA FRANCISCO"
                                 },
                                 {
                                     "dia":"SA",
@@ -2015,7 +1963,7 @@
                         },
                         {
                             "codigo":"2",
-                            "docente":"VARGAS PEREDO EMIR FELIX",
+                            "docente":"Por Designar ...",
                             "horarios":[
                                 {
                                     "dia":"MI",
@@ -2029,14 +1977,14 @@
                                     "hora":"1245",
                                     "duracion":"2",
                                     "aula":"642",
-                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                    "docente":"Por Designar ..."
                                 },
                                 {
                                     "dia":"SA",
                                     "hora":"945",
                                     "duracion":"2",
                                     "aula":"691E",
-                                    "docente":"VARGAS PEREDO EMIR FELIX"
+                                    "docente":"Por Designar ..."
                                 }]
                         }]
                 },
@@ -2744,6 +2692,30 @@
                                     "duracion":"2",
                                     "aula":"644A",
                                     "docente":"GARCIA MOLINA JUAN RUBEN"
+                                }]
+                        },
+                        {
+                            "codigo":"3",
+                            "docente":"Por Designar ...",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"690D",
+                                    "docente":"Por Designar ..."
+                                }]
+                        },
+                        {
+                            "codigo":"4",
+                            "docente":"Por Designar ...",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"652",
+                                    "docente":"Por Designar ..."
                                 }]
                         }]
                 }]

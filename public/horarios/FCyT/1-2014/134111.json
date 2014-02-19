@@ -397,9 +397,9 @@
                                 },
                                 {
                                     "dia":"JU",
-                                    "hora":"1845",
+                                    "hora":"945",
                                     "duracion":"2",
-                                    "aula":"690B",
+                                    "aula":"623",
                                     "docente":"MONTANO QUIROGA VICTOR HUGO"
                                 },
                                 {
@@ -2040,10 +2040,10 @@
                             "docente":"CALANCHA NAVIA BORIS",
                             "horarios":[
                                 {
-                                    "dia":"MI",
-                                    "hora":"1415",
+                                    "dia":"MA",
+                                    "hora":"2015",
                                     "duracion":"2",
-                                    "aula":"691E",
+                                    "aula":"693A",
                                     "docente":""
                                 },
                                 {
@@ -2369,6 +2369,30 @@
             "codigo":"I",
             "materias":[
                 {
+                    "codigo":"2010079",
+                    "nombre":"WEB SEMANTICAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"RODRIGUEZ BILBAO ERIKA PATRICIA",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"644A",
+                                    "docente":"RODRIGUEZ BILBAO ERIKA PATRICIA"
+                                }]
+                        }]
+                },
+                {
                     "codigo":"2010174",
                     "nombre":"PROGRAMACION MOVIL",
                     "grupos":[
@@ -2381,7 +2405,7 @@
                                     "hora":"2015",
                                     "duracion":"2",
                                     "aula":"690D",
-                                    "docente":"FIORILO LOZADA AMERICO"
+                                    "docente":""
                                 },
                                 {
                                     "dia":"SA",
@@ -2389,6 +2413,54 @@
                                     "duracion":"2",
                                     "aula":"617C",
                                     "docente":"FIORILO LOZADA AMERICO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010182",
+                    "nombre":"TELEFONIA IP",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"MONTOYA BURGOS YONY RICHARD",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"692E",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"2015",
+                                    "duracion":"2",
+                                    "aula":"693B",
+                                    "docente":"MONTOYA BURGOS YONY RICHARD"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010198",
+                    "nombre":"APLICACIONES WEB AVANZADAS",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"VILLARROEL NOVILLO JIMMY",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"693A",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692H",
+                                    "docente":"VILLARROEL NOVILLO JIMMY"
                                 }]
                         }]
                 },
@@ -2402,9 +2474,9 @@
                             "horarios":[
                                 {
                                     "dia":"JU",
-                                    "hora":"2015",
+                                    "hora":"815",
                                     "duracion":"2",
-                                    "aula":"690B",
+                                    "aula":"INFDEP",
                                     "docente":"MONTANO QUIROGA VICTOR HUGO"
                                 },
                                 {
@@ -2436,21 +2508,73 @@
                         },
                         {
                             "codigo":"4",
-                            "docente":"ROMERO RODRIGUEZ PATRICIA",
+                            "docente":"GARCIA PEREZ CARMEN ROSA",
                             "horarios":[
                                 {
                                     "dia":"MA",
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"690C",
-                                    "docente":""
+                                    "docente":"ROMERO RODRIGUEZ PATRICIA"
                                 },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"690C",
-                                    "docente":"ROMERO RODRIGUEZ PATRICIA"
+                                    "docente":"GARCIA PEREZ CARMEN ROSA"
+                                }]
+                        }]
+                }]
+        },
+        {
+            "codigo":"J",
+            "materias":[
+                {
+                    "codigo":"2010044",
+                    "nombre":"DISE¥O DE COMPILADORES",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"AZERO ALCOCER PABLO",
+                            "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"AZERO ALCOCER PABLO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"692D",
+                                    "docente":"AZERO ALCOCER PABLO"
+                                }]
+                        }]
+                },
+                {
+                    "codigo":"2010103",
+                    "nombre":"ROBOTICA",
+                    "grupos":[
+                        {
+                            "codigo":"1",
+                            "docente":"GARCIA PEREZ CARMEN ROSA",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"690C",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"644",
+                                    "docente":"GARCIA PEREZ CARMEN ROSA"
                                 }]
                         }]
                 }]
