@@ -554,10 +554,24 @@
                             "docente":"ANTEZANA ROMAN OMAR",
                             "horarios":[
                                 {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                },
+                                {
                                     "dia":"MA",
                                     "hora":"1715",
                                     "duracion":"4",
                                     "aula":"CAE",
+                                    "docente":"ANTEZANA ROMAN OMAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
                                     "docente":"ANTEZANA ROMAN OMAR"
                                 }]
                         },
@@ -603,6 +617,13 @@
                                     "hora":"1415",
                                     "duracion":"4",
                                     "aula":"CAE",
+                                    "docente":"VILLAZON ROCHA YAMIR"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
                                     "docente":"VILLAZON ROCHA YAMIR"
                                 },
                                 {
@@ -1404,6 +1425,13 @@
                             "docente":"SACA VENTURA OSCAR",
                             "horarios":[
                                 {
+                                    "dia":"LU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
                                     "dia":"MI",
                                     "hora":"1415",
                                     "duracion":"2",
@@ -1477,8 +1505,22 @@
                         },
                         {
                             "codigo":"3",
-                            "docente":"",
+                            "docente":"DUCHEN AYALA JORGE MARTIN",
                             "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"DUCHEN AYALA JORGE MARTIN"
+                                },
                                 {
                                     "dia":"VI",
                                     "hora":"815",
@@ -1504,10 +1546,24 @@
                                     "docente":"MIRANDA VARGAS JUAN JOSE"
                                 },
                                 {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"5",
+                                    "aula":"CAMPO",
+                                    "docente":"MIRANDA VARGAS JUAN JOSE"
+                                },
+                                {
                                     "dia":"MA",
                                     "hora":"2015",
                                     "duracion":"2",
                                     "aula":"691A",
+                                    "docente":"VERA CORTES CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"4",
+                                    "aula":"CAMPO",
                                     "docente":"VERA CORTES CARLOS ALBERTO"
                                 }]
                         },
@@ -1520,6 +1576,13 @@
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"617C",
+                                    "docente":"VERA CORTES CARLOS ALBERTO"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"4",
+                                    "aula":"CAMPO",
                                     "docente":"DUCHEN AYALA JORGE MARTIN"
                                 },
                                 {
@@ -1528,12 +1591,26 @@
                                     "duracion":"5",
                                     "aula":"CAMPO",
                                     "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"5",
+                                    "aula":"CAMPO",
+                                    "docente":"ARUQUIPA LARICO EDGAR PEDRO"
                                 }]
                         },
                         {
                             "codigo":"3",
                             "docente":"LEDEZMA PERIZZA FERNANDO ARTURO",
                             "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"4",
+                                    "aula":"CAMPO",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                },
                                 {
                                     "dia":"JU",
                                     "hora":"1415",
@@ -1773,6 +1850,13 @@
                                     "duracion":"2",
                                     "aula":"691D",
                                     "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"SACA VENTURA OSCAR"
                                 }]
                         }]
                 },
@@ -1784,6 +1868,13 @@
                             "codigo":"1",
                             "docente":"ZABALAGA MONTANO OSCAR A.",
                             "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"4",
+                                    "aula":"CAMPO",
+                                    "docente":"ZABALAGA MONTANO OSCAR A."
+                                },
                                 {
                                     "dia":"MA",
                                     "hora":"2015",
@@ -1820,8 +1911,29 @@
                         },
                         {
                             "codigo":"3",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"LEDEZMA MIRANDA VITO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"LEDEZMA MIRANDA VITO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"LEDEZMA MIRANDA VITO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"LEDEZMA MIRANDA VITO"
+                                }]
                         }]
                 },
                 {
@@ -1837,6 +1949,13 @@
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"691C",
+                                    "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"3",
+                                    "aula":"MAGCIV",
                                     "docente":"LEDEZMA PERIZZA FERNANDO ARTURO"
                                 }]
                         },
@@ -1989,6 +2108,13 @@
                                     "docente":"MUNOZ VASQUEZ GALO OSVALDO"
                                 },
                                 {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"MUNOZ VASQUEZ GALO OSVALDO"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"1415",
                                     "duracion":"2",
@@ -2020,6 +2146,13 @@
                                     "docente":""
                                 },
                                 {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"ZULETA NOVILLO ENRIQUE WALTER"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"945",
                                     "duracion":"2",
@@ -2044,6 +2177,13 @@
                                     "duracion":"2",
                                     "aula":"692B",
                                     "docente":"MERUVIA MERUVIA JOSE"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"ZULETA NOVILLO ENRIQUE WALTER"
                                 },
                                 {
                                     "dia":"VI",
@@ -2404,6 +2544,13 @@
                             "docente":"ANDRADE UZIEDA MARKO JORGE",
                             "horarios":[
                                 {
+                                    "dia":"MA",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
+                                {
                                     "dia":"JU",
                                     "hora":"1715",
                                     "duracion":"2",
@@ -2694,6 +2841,13 @@
                                     "docente":"LOPEZ LOREDO GROVER DANTE"
                                 },
                                 {
+                                    "dia":"JU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"LOPEZ LOREDO GROVER DANTE"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"1415",
                                     "duracion":"2",
@@ -2911,6 +3065,20 @@
                             "codigo":"2",
                             "docente":"SACA VENTURA OSCAR",
                             "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1245",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
+                                    "docente":"SACA VENTURA OSCAR"
+                                },
                                 {
                                     "dia":"VI",
                                     "hora":"1415",
@@ -3276,6 +3444,13 @@
                                     "hora":"1545",
                                     "duracion":"2",
                                     "aula":"692D",
+                                    "docente":"AYLLON ACOSTA JAIME"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"MAGCIV",
                                     "docente":"AYLLON ACOSTA JAIME"
                                 },
                                 {

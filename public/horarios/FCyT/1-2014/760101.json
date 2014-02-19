@@ -405,6 +405,13 @@
                             "docente":"RUIZ UCUMARI IVAN",
                             "horarios":[
                                 {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
                                     "dia":"MA",
                                     "hora":"815",
                                     "duracion":"2",
@@ -675,8 +682,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"CASTRO LAZARTE CECILIA BEATRIZ",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
+                                }]
                         }]
                 }]
         },
@@ -689,8 +710,15 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"TORREZ PELAEZ RAUL WILDER",
+                            "horarios":[
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"FISDEP",
+                                    "docente":"TORREZ PELAEZ RAUL WILDER"
+                                }]
                         }]
                 }]
         }]

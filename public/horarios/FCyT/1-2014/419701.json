@@ -571,6 +571,13 @@
                             "docente":"COSTAS JAUREGUI VLADIMIR ABEL",
                             "horarios":[
                                 {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":""
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"945",
                                     "duracion":"2",
@@ -1461,6 +1468,13 @@
                                     "docente":"MONTANO QUIROGA VICTOR HUGO"
                                 },
                                 {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"MONTANO QUIROGA VICTOR HUGO"
+                                },
+                                {
                                     "dia":"MI",
                                     "hora":"1115",
                                     "duracion":"2",
@@ -1472,6 +1486,13 @@
                             "codigo":"4",
                             "docente":"COSTAS JAUREGUI VLADIMIR ABEL",
                             "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"COSTAS JAUREGUI VLADIMIR ABEL"
+                                },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
@@ -1517,6 +1538,20 @@
                             "codigo":"6",
                             "docente":"VILLARROEL NOVILLO JIMMY",
                             "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"VILLARROEL NOVILLO JIMMY"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"VILLARROEL NOVILLO JIMMY"
+                                },
                                 {
                                     "dia":"MI",
                                     "hora":"815",
@@ -3053,6 +3088,13 @@
                                     "duracion":"2",
                                     "aula":"INFLAB",
                                     "docente":"AYOROA CARDOZO JOSE RICHARD"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"AYOROA CARDOZO JOSE RICHARD"
                                 }]
                         }]
                 },
@@ -3149,6 +3191,13 @@
                             "codigo":"2",
                             "docente":"BLANCO COCA LETICIA",
                             "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"BLANCO COCA LETICIA"
+                                },
                                 {
                                     "dia":"JU",
                                     "hora":"1115",
@@ -3545,6 +3594,13 @@
                                     "duracion":"2",
                                     "aula":"692G",
                                     "docente":"FIORILO LOZADA AMERICO"
+                                },
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFDEP",
+                                    "docente":"FIORILO LOZADA AMERICO"
                                 }]
                         },
                         {
@@ -3556,6 +3612,13 @@
                                     "hora":"2015",
                                     "duracion":"2",
                                     "aula":"690B",
+                                    "docente":"MONTANO QUIROGA VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
                                     "docente":"MONTANO QUIROGA VICTOR HUGO"
                                 }]
                         },
@@ -3601,6 +3664,13 @@
                             "codigo":"5",
                             "docente":"AYOROA CARDOZO JOSE RICHARD",
                             "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"INFDEP",
+                                    "docente":"AYOROA CARDOZO JOSE RICHARD"
+                                },
                                 {
                                     "dia":"MI",
                                     "hora":"815",

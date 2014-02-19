@@ -18,6 +18,13 @@
                                     "hora":"2015",
                                     "duracion":"2",
                                     "aula":"690B",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
                                     "docente":"MONTANO QUIROGA VICTOR HUGO"
                                 }]
                         },

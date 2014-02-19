@@ -396,8 +396,29 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"GONZALES CASTELLON CARLOS ESTEBAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"MATDIR",
+                                    "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
+                                }]
                         }]
                 },
                 {
@@ -572,8 +593,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"ZEGARRA DORADO LUIS ROBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
+                                }]
                         }]
                 },
                 {
@@ -584,6 +619,13 @@
                             "codigo":"1",
                             "docente":"GONZALES CASTELLON CARLOS ESTEBAN",
                             "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"MATDIR",
+                                    "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
+                                },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
@@ -601,6 +643,13 @@
                             "codigo":"1",
                             "docente":"MULLER SANTA CRUZ HANS CRISTIAN",
                             "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                },
                                 {
                                     "dia":"JU",
                                     "hora":"945",
@@ -658,6 +707,13 @@
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"MATDIR",
+                                    "docente":""
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"MATDIR",
                                     "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
                                 }]
                         }]
@@ -668,8 +724,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"MARTINEZ MAIDA AMILCAR SAUL",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"MARTINEZ MAIDA AMILCAR SAUL"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"MARTINEZ MAIDA AMILCAR SAUL"
+                                }]
                         }]
                 },
                 {
@@ -705,6 +775,13 @@
                             "docente":"CARRASCO CALVO ALVARO HERNANDO",
                             "horarios":[
                                 {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"Por Designar ..."
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"815",
                                     "duracion":"2",
@@ -723,8 +800,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"ZEGARRA DORADO LUIS ROBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"MATDIR",
+                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"MATDIR",
+                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
+                                }]
                         }]
                 },
                 {
@@ -812,6 +903,13 @@
                             "docente":"MULLER SANTA CRUZ HANS CRISTIAN",
                             "horarios":[
                                 {
+                                    "dia":"LU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                },
+                                {
                                     "dia":"MI",
                                     "hora":"1545",
                                     "duracion":"2",
@@ -830,8 +928,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"CUPE CLEMENTE GUALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                }]
                         }]
                 }]
         }]

@@ -482,6 +482,13 @@
                             "docente":"RUIZ UCUMARI IVAN",
                             "horarios":[
                                 {
+                                    "dia":"LU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"RUIZ UCUMARI IVAN"
+                                },
+                                {
                                     "dia":"MA",
                                     "hora":"815",
                                     "duracion":"2",
@@ -579,8 +586,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"MOREIRA CALIZAYA RENE",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"MOREIRA CALIZAYA RENE"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"MOREIRA CALIZAYA RENE"
+                                }]
                         }]
                 },
                 {
@@ -826,6 +847,13 @@
                             "codigo":"1",
                             "docente":"ROJAS SALINAS HUGO",
                             "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"ANDRADE UZIEDA MARKO JORGE"
+                                },
                                 {
                                     "dia":"MI",
                                     "hora":"1415",

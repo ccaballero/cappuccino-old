@@ -452,8 +452,29 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"GONZALES CASTELLON CARLOS ESTEBAN",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"MATDIR",
+                                    "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"GONZALES CASTELLON CARLOS ESTEBAN"
+                                }]
                         }]
                 },
                 {
@@ -545,8 +566,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"CASTRO LAZARTE CECILIA BEATRIZ",
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"FISCOM",
+                                    "docente":"CASTRO LAZARTE CECILIA BEATRIZ"
+                                }]
                         }]
                 }]
         },
@@ -559,8 +594,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"ZEGARRA DORADO LUIS ROBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
+                                },
+                                {
+                                    "dia":"MI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
+                                }]
                         }]
                 }]
         },
@@ -573,8 +622,15 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
+                            "docente":"FERRUFINO RODRIGUEZ NELSON",
                             "horarios":[
+                                {
+                                    "dia":"MA",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"FERRUFINO RODRIGUEZ NELSON"
+                                },
                                 {
                                     "dia":"JU",
                                     "hora":"815",
@@ -597,7 +653,14 @@
                                     "hora":"1415",
                                     "duracion":"2",
                                     "aula":"690C",
-                                    "docente":"FERRUFINO RODRIGUEZ NELSON"
+                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1545",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"ZEGARRA DORADO LUIS ROBERTO"
                                 }]
                         }]
                 },
@@ -607,8 +670,15 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"MULLER SANTA CRUZ HANS CRISTIAN",
+                            "horarios":[
+                                {
+                                    "dia":"SA",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"MULLER SANTA CRUZ HANS CRISTIAN"
+                                }]
                         }]
                 },
                 {
@@ -618,7 +688,21 @@
                         {
                             "codigo":"1",
                             "docente":"FERRUFINO RODRIGUEZ NELSON",
-                            "horarios":[]
+                            "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"FERRUFINO RODRIGUEZ NELSON"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"FERRUFINO RODRIGUEZ NELSON"
+                                }]
                         }]
                 }]
         },
@@ -631,8 +715,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"CUPE CLEMENTE GUALBERTO",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1115",
+                                    "duracion":"2",
+                                    "aula":"LABMAT",
+                                    "docente":"CUPE CLEMENTE GUALBERTO"
+                                }]
                         }]
                 }]
         }]

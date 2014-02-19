@@ -851,6 +851,13 @@
                                     "duracion":"3",
                                     "aula":"690A",
                                     "docente":"IRIARTE PU\u00d1A MERCEDES"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1200",
+                                    "duracion":"3",
+                                    "aula":"MICBIO",
+                                    "docente":"IRIARTE PU\u00d1A MERCEDES"
                                 }]
                         }]
                 }]
@@ -1189,6 +1196,13 @@
                             "codigo":"1",
                             "docente":"IRIARTE PU\u00d1A MERCEDES",
                             "horarios":[
+                                {
+                                    "dia":"MI",
+                                    "hora":"1200",
+                                    "duracion":"3",
+                                    "aula":"MICBIO",
+                                    "docente":"IRIARTE PU\u00d1A MERCEDES"
+                                },
                                 {
                                     "dia":"JU",
                                     "hora":"1800",

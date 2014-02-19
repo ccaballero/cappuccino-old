@@ -2187,11 +2187,25 @@
                                     "docente":"VILLEGAS GONZALES LUIS"
                                 },
                                 {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"LABREF",
+                                    "docente":"LANGE GONZALES WILHELM EDUARDO"
+                                },
+                                {
                                     "dia":"MA",
                                     "hora":"815",
                                     "duracion":"2",
                                     "aula":"692E",
                                     "docente":"VILLEGAS GONZALES LUIS"
+                                },
+                                {
+                                    "dia":"JU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"LABREF",
+                                    "docente":"LANGE GONZALES WILHELM EDUARDO"
                                 }]
                         }]
                 },

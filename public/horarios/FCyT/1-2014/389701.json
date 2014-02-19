@@ -1419,8 +1419,22 @@
                     "grupos":[
                         {
                             "codigo":"1",
-                            "docente":"",
-                            "horarios":[]
+                            "docente":"CORONADO ROCHA JUAN OLVER",
+                            "horarios":[
+                                {
+                                    "dia":"JU",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"AGUAS",
+                                    "docente":"CORONADO ROCHA JUAN OLVER"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"1845",
+                                    "duracion":"2",
+                                    "aula":"AGUAS",
+                                    "docente":"CORONADO ROCHA JUAN OLVER"
+                                }]
                         }]
                 },
                 {
@@ -1495,6 +1509,13 @@
                             "codigo":"1",
                             "docente":"TORRICO VALLEJOS SONIA",
                             "horarios":[
+                                {
+                                    "dia":"LU",
+                                    "hora":"1415",
+                                    "duracion":"2",
+                                    "aula":"AGUAS",
+                                    "docente":"CORONADO ROCHA JUAN OLVER"
+                                },
                                 {
                                     "dia":"MI",
                                     "hora":"1415",

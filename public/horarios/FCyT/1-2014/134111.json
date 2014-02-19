@@ -259,6 +259,13 @@
                             "docente":"COSTAS JAUREGUI VLADIMIR ABEL",
                             "horarios":[
                                 {
+                                    "dia":"MI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"COSTAS JAUREGUI VLADIMIR ABEL"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"945",
                                     "duracion":"2",
@@ -2009,6 +2016,13 @@
                             "docente":"BLANCO COCA LETICIA",
                             "horarios":[
                                 {
+                                    "dia":"MI",
+                                    "hora":"1715",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
+                                    "docente":"BLANCO COCA LETICIA"
+                                },
+                                {
                                     "dia":"JU",
                                     "hora":"1115",
                                     "duracion":"2",
@@ -2247,6 +2261,13 @@
                                     "docente":"FLORES VILLARROEL CORINA"
                                 },
                                 {
+                                    "dia":"JU",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFDEP",
+                                    "docente":"FLORES VILLARROEL CORINA"
+                                },
+                                {
                                     "dia":"VI",
                                     "hora":"945",
                                     "duracion":"2",
@@ -2384,6 +2405,13 @@
                                     "hora":"2015",
                                     "duracion":"2",
                                     "aula":"690B",
+                                    "docente":"MONTANO QUIROGA VICTOR HUGO"
+                                },
+                                {
+                                    "dia":"VI",
+                                    "hora":"945",
+                                    "duracion":"2",
+                                    "aula":"INFLAB",
                                     "docente":"MONTANO QUIROGA VICTOR HUGO"
                                 }]
                         },
