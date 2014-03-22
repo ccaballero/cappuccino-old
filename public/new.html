@@ -7,12 +7,12 @@
         <script src="js/modernizr.js"></script>
         <script src="js/holder.js"></script>
         <script src="js/jquery.js"></script>
+        <script src="js/foundation.min.js"></script>
         <script>
             window.onload = function(){
                 $(document).foundation()
             }
         </script>
-        <script src="js/foundation.min.js"></script>
         <title>Cappuchino</title>
     </head>
     <body>
@@ -41,31 +41,84 @@
                                     <li><a href="#">F</a></li>
                                 </ul>
                             </li>
-                            <li class="has-dropdown">
-                                <a href="#">Nivel</a>
-                                <ul class="dropdown">
-                                    <li><a href="#">F</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-dropdown">
-                                <a href="#">Materia</a>
-                                <ul class="dropdown">
-                                    <li><a href="#">F</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-dropdown">
-                                <a href="#">Grupo</a>
-                                <ul class="dropdown">
-                                    <li><a href="#">F</a></li>
-                                </ul>
-                            </li>
                         </ul>
                     </section>
                 </nav>
             </div>
         </header>
         <div class="row">
-
+            <div class="anclas">
+                <section>
+                    <ul class="inline-list">
+                        <li>
+                            <a href="#" data-dropdown="carrera" data-options="is_hover:true">Ing de Sistemas</a>
+                            <ul id="carrera" class="f-dropdown" data-dropdown-content>
+                                <li><a href="#">Ing Civil</a></li>
+                                <li><a href="#">Ing Electromecanica</a></li>
+                                <li><a href="#">Ing Mecanica</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" data-dropdown="nivel" data-options="is_hover:true">nivel 1</a>
+                            <ul id="nivel" class="f-dropdown" data-dropdown-content>
+                                <li><a href="#">nivel 2</a></li>
+                                <li><a href="#">nivel 3</a></li>
+                                <li><a href="#">nivel 4</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" data-dropdown="materia" data-options="is_hover:true">Calculo</a>
+                            <ul id="materia" class="f-dropdown" data-dropdown-content>
+                                <li><a href="#">Estadistica 1</a></li>
+                                <li><a href="#">Algebra</a></li>
+                                <li><a href="#">fisica 100</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" data-dropdown="grupo" data-options="is_hover:true">1 Catari</a>
+                            <ul id="grupo" class="f-dropdown" data-dropdown-content>
+                                <li><a href="#">2 Leti</a></li>
+                                <li><a href="#">5 Montano</a></li>
+                                <li><a href="#">3 Zabalaga</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="inline-list">
+                        <li>
+                                <a href="#" data-dropdown="carrera" data-options="is_hover:true">Ing de Sistemas</a>
+                            <ul id="carrera" class="f-dropdown" data-dropdown-content>
+                                <li><a href="#">Ing Civil</a></li>
+                                <li><a href="#">Ing Electromecanica</a></li>
+                                <li><a href="#">Ing Mecanica</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" data-dropdown="nivel" data-options="is_hover:true">nivel 1</a>
+                            <ul id="nivel" class="f-dropdown" data-dropdown-content>
+                                <li><a href="#">nivel 2</a></li>
+                                <li><a href="#">nivel 3</a></li>
+                                <li><a href="#">nivel 4</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" data-dropdown="materia" data-options="is_hover:true">Calculo</a>
+                            <ul id="materia" class="f-dropdown" data-dropdown-content>
+                                <li><a href="#">Estadistica 1</a></li>
+                                <li><a href="#">Algebra</a></li>
+                                <li><a href="#">fisica 100</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" data-dropdown="grupo" data-options="is_hover:true">1 Catari</a>
+                            <ul id="grupo" class="f-dropdown" data-dropdown-content>
+                                <li><a href="#">2 Leti</a></li>
+                                <li><a href="#">5 Montano</a></li>
+                                <li><a href="#">3 Zabalaga</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+            </div>
         </div>
         <div class="row">
             <div class="large-8 medium-8 columns">
