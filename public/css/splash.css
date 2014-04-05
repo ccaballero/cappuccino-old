@@ -1,0 +1,80 @@
+
+body {
+    background-color: #222222;
+}
+
+#slider {
+    position: relative;
+    overflow: hidden;
+}
+
+.slides,
+.arrow,
+.navigator {
+    position: absolute;
+    overflow: hidden;
+}
+
+.slides {
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 0px 6px #000000;
+}
+
+.arrow {
+    width: 55px;
+    height: 55px;
+    cursor: pointer;
+    background: url('/media/img/d12.png') no-repeat;
+}
+
+.arrow.left,
+.arrow.leftdn {
+    left: -12px;
+    top: 32px;
+}
+
+.arrow.right,
+.arrow.rightdn {
+    right: -12px;
+    bottom: 64px;
+}
+
+.arrow.left { background-position: -3px -33px; }
+.arrow.left:hover { background-position: -123px -33px; }
+.arrow.leftdn { background-position: -243px -33px; }
+
+.arrow.right { background-position: -63px -33px; }
+.arrow.right:hover { background-position: -183px -33px; }
+.arrow.rightdn { background-position: -303px -33px; }
+
+.navigator {
+    bottom: 5px;
+}
+
+.navigator > div {
+    width: 12px;
+    height: 12px;
+}
+
+.navigator > div {
+    filter: alpha(opacity=70);
+    opacity: .7;
+    overflow: hidden;
+    cursor: pointer;
+    border: #000000 1px solid;
+    background-color: gray;
+}
+
+.navigator > div:hover {
+    background-color: #d3d3d3;
+}
+
+.navigator > div.av {
+    background-color: #ffffff;
+}
+
+.navigator > div.dn {
+    background-color: #555555;
+}
+
