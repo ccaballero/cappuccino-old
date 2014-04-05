@@ -8,10 +8,15 @@ jQuery(document).ready(function($){
         if(window.innerWidth){return window.innerWidth}
         else{return document.documentElement.clientWidth}}
 
+    // initial setting of base properties
     prepare=function(){
         section=$('#slider').parent()
-        if(height()<=640){section.css('height',height()-45)}
-        else{section.css({'height':480,'marginTop':((height()-45)-480)/2})}
+
+        if(height()<=420){section.css(
+            {'height':height()-45,'marginTop':0})}
+        else{section.css(
+            {'height':420,'marginTop':((height()-45)-420)/2})}
+
         if(width()<=640){section.css('width',width())}
         else{section.css(
             {'width':640,'marginLeft':'auto','marginRight':'auto'})}
@@ -23,17 +28,25 @@ jQuery(document).ready(function($){
     }
 
     resize=function(){
-        jssor.$GoTo(0)
+        jssor.$Pause()
         section=$('#slider')
-        css1={'width':section.width(),'height':section.height()}
-        css2={'width':section.width(),'height':section.height()-30}
-        section.children().css(css1)
-               .children().css(css1)
-               .children('.slides').css(css2)
-        $('.slides div, .slides img').css(css2)
+
+        if(section.width()<=640){
+            css1={'width':section.width()}
+            css2={'left':((width()-46)/2)}
+            section.children().css(css1)
+                   .children().css(css1)
+                   .children('.slides').css(css1)
+                   .children('div').css(css1)
+            $('.navigator').css(css2)
+            $('.slides').children(':last').css({'left':section.width()})
+        }
+
+        jssor.$SetSlideHeight(section.height()-30)
         jssor.$SetSlideWidth(section.width())
-             .$SetSlideHeight(section.height()-30)
-        $('.slides img').eq(1).parent().css('left',section.width())
+        jssor.$GoTo(0)
+        jssor.$Play()
+
         return this
     }
 

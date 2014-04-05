@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200"
-   height="200"
+   width="150"
+   height="150"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="16.791634"
+     inkscape:cx="106.44267"
      inkscape:cy="101.93225"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1914"
-     inkscape:window-height="1055"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -55,7 +55,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(0,-852.36218)">
+     transform="translate(0,-902.36218)">
     <image
        y="375.93362"
        x="-160"
@@ -69,15 +69,15 @@
      id="layer2"
      inkscape:label="def"
      style="display:inline"
-     transform="translate(0,-852.36218)" />
+     transform="translate(0,-902.36218)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="fce"
-     transform="translate(0,-852.36218)">
+     transform="translate(0,-902.36218)">
     <g
        id="g4025"
-       transform="translate(-2.4981137e-6,-3.2707025)">
+       transform="matrix(0.74499683,0,0,0.74499683,0.50031514,265.41871)">
       <g
          transform="translate(0,4)"
          id="g3975">

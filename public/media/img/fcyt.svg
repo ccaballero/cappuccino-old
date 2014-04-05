@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200"
-   height="200"
+   width="150"
+   height="150"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Documento nuevo 1">
+   sodipodi:docname="fcyt.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="112.03038"
-     inkscape:cy="79.993214"
+     inkscape:cx="-32.547651"
+     inkscape:cy="109.43539"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1914"
-     inkscape:window-height="1055"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,15 +53,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(0,-852.36218)" />
+     transform="translate(0,-902.36218)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="def"
-     transform="translate(0,-852.36218)">
+     transform="translate(0,-902.36218)">
     <g
        id="g3917"
-       transform="translate(0.74661294,0.21186)">
+       transform="matrix(0.60256324,0,0,0.59958085,15.193558,406.47108)">
       <path
          sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
