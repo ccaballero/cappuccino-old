@@ -239,3 +239,14 @@ body {
 .switch-green > .switch-input:checked ~ .switch-label {
   background: #4fb845;
 }
+
+.breadcrumbs {
+    border: none;
+    background: none;
+    display: inline;
+}
+
+.panel {
+    padding: 0.4rem;
+}
+
