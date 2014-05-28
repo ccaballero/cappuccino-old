@@ -246,7 +246,13 @@ body {
     display: inline;
 }
 
+#list {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
 .panel {
     padding: 0.4rem;
+    margin-bottom: 0.2rem;
 }
 
