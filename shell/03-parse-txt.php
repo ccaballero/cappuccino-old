@@ -60,7 +60,7 @@ class ParseTxt {
             }
         }
         if (preg_match(
-            '/Nivel de Estudios:(?P<codigo>[A-Z])/',
+            '/Nivel de Estudios: ?(?P<codigo>[A-Z])/',
                 $content, $output)) {
             $codigo = $output['codigo'];
             if ($nivel == null) {
@@ -74,7 +74,7 @@ class ParseTxt {
                 '/(?P<aux>\(?\*?\)?) ?(?P<codigo>\d{7}) (?P<nombre>.*) (?P<grupo>[0-9]{1,2}[a-zA-Z]?)/',
                     $line, $output) ||
                 preg_match(
-                '/(?P<aux>\(?\*?\)?) ?(?P<codigo>\d{7}) (?P<nombre>.*)/',
+                '/(?P<aux>\(?\*?\)?) ?(?P<codigo>\d{7}) ?(?P<nombre>.*)/',
                     $line, $output)) {
                 $codigo = $output['codigo'];
                 $nombre = $output['nombre'];
@@ -178,7 +178,7 @@ class ParseTxt {
     }
 }
 
-$dir = __DIR__ . '/../public/horarios/FCyT/2-2013/';
+$dir = __DIR__ . '/../public/horarios/FCyT/2-2014/';
 $transform = new ParseTxt($dir);
 $transform->transform();
 

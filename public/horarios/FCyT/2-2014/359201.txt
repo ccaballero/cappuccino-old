@@ -1,0 +1,925 @@
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+Horario
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Nivel de Estudios: A
+Nombre del Docente
+
+2006018 FISICA BASICA I
+
+9
+
+LU 945-1115(624)
+
+TORRICO TROCHE MILKA MONICA
+
+2006018 FISICA BASICA I
+
+9
+
+MA 945-1115(692B)
+
+TORRICO TROCHE MILKA MONICA
+
+2006018 FISICA BASICA I
+
+9
+
+VI 945-1115(693A)
+
+TORRICO TROCHE MILKA MONICA
+
+2008010 GEOMETRIA ANALITICA
+
+1
+
+LU 1545-1715(617)
+
+SORUCO MAITA JOSE ANTONIO
+
+2008010 GEOMETRIA ANALITICA
+
+1
+
+MI 815-945(617B)
+
+SORUCO MAITA JOSE ANTONIO
+
+2008010 GEOMETRIA ANALITICA
+
+1
+
+JU 1115-1245(691C)
+
+SORUCO MAITA JOSE ANTONIO
+
+2008053 ALGEBRA I
+
+5
+
+MA 1545-1715(625D)
+
+CARRASCO CALVO ALVARO HERNANDO
+
+2008053 ALGEBRA I
+
+5
+
+MI 945-1115(617C)
+
+CARRASCO CALVO ALVARO HERNANDO
+
+(*) 2008053 ALGEBRA I
+
+5
+
+VI 1715-1845(692G)
+
+PEREZ FERREL ROBERTO
+
+(*) 2008054 CALCULO I
+2008054 CALCULO I
+
+3
+
+MA 645-815(690D)
+
+GUARACHI ARELLANO RONALD ROLY
+
+3
+
+JU 1845-2015(692A)
+
+RELOS PACO SANTIAGO
+
+2008054 CALCULO I
+
+3
+
+SA 1115-1245(624)
+
+RELOS PACO SANTIAGO
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+Horario
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Nivel de Estudios: B
+Nombre del Docente
+
+2004046 QUIMICA GENERAL
+
+3
+
+LU 815-945(691E)
+
+VEGA ALFARO WILFREDO
+
+2004046 QUIMICA GENERAL
+
+3
+
+MA 1115-1245(691E)
+
+VEGA ALFARO WILFREDO
+
+2004046 QUIMICA GENERAL
+
+3
+
+MI 815-945(691E)
+
+VEGA ALFARO WILFREDO
+
+2006019 FISICA BASICA II
+
+3
+
+LU 645-815(691E)
+
+RUIZ UCUMARI IVAN
+
+2006019 FISICA BASICA II
+
+3
+
+JU 815-945(691E)
+
+RUIZ UCUMARI IVAN
+
+2006019 FISICA BASICA II
+
+3
+
+SA 645-815(691D)
+
+RUIZ UCUMARI IVAN
+
+2008056 CALCULO II
+
+9
+
+LU 1115-1245(693B)
+
+CUPE CLEMENTE GUALBERTO
+
+2008056 CALCULO II
+
+9
+
+JU 1415-1545(692A)
+
+CUPE CLEMENTE GUALBERTO
+
+(*) 2008056 CALCULO II
+
+9
+
+SA 815-945(691D)
+
+AUXILIAR POR DESIGNAR
+
+2008240 ALGEBRA LINEAL Y MATRICIAL
+
+1
+
+LU 1715-1845(693C)
+
+SALINAS PERICON WALTER OSCAR
+
+2008240 ALGEBRA LINEAL Y MATRICIAL
+
+1
+
+MA 1715-1845(625C)
+
+SALINAS PERICON WALTER OSCAR
+
+2008240 ALGEBRA LINEAL Y MATRICIAL
+
+1
+
+JU 1715-1845(691E)
+
+SALINAS PERICON WALTER OSCAR
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+Horario
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Nivel de Estudios: C
+Nombre del Docente
+
+2006020 FISICA BASICA III
+
+4
+
+MA 645-815(692E)
+
+RUIZ UCUMARI IVAN
+
+2006020 FISICA BASICA III
+
+4
+
+MI 815-945(617)
+
+RUIZ UCUMARI IVAN
+
+2006020 FISICA BASICA III
+
+4
+
+JU 645-815(692E)
+
+RUIZ UCUMARI IVAN
+
+2008014 ANALISIS VECTORIAL Y TENSORIAL
+
+1
+
+MA 1415-1545(617)
+
+CUPE CLEMENTE GUALBERTO
+
+2008014 ANALISIS VECTORIAL Y TENSORIAL
+
+1
+
+MI 1545-1715(617)
+
+CUPE CLEMENTE GUALBERTO
+
+(*) 2008014 ANALISIS VECTORIAL Y TENSORIAL
+
+1
+
+SA 945-1115(623)
+
+TOMAS MAMANI SAMUEL
+
+2008029 PROBABILIDAD Y ESTADISTICA
+
+2
+
+MA 1715-1845(692F)
+
+TRUJILLO ARANIBAR WILSON
+
+(*) 2008029 PROBABILIDAD Y ESTADISTICA
+2008029 PROBABILIDAD Y ESTADISTICA
+
+2
+
+MI 1545-1715(692F)
+
+DIAZ ITURRY MIGUEL
+
+2
+
+JU 1545-1715(692F)
+
+TRUJILLO ARANIBAR WILSON
+
+2008058 ECUACIONES DIFERENCIALES
+
+1
+
+LU 945-1115(607)
+
+MULLER SANTA CRUZ HANS CRISTIAN
+
+(*) 2008058 ECUACIONES DIFERENCIALES
+2008058 ECUACIONES DIFERENCIALES
+
+1
+
+MA 945-1115(692C)
+
+TOTORA VELIZ RAMIRO
+
+1
+
+MI 945-1115(607)
+
+MULLER SANTA CRUZ HANS CRISTIAN
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+Horario
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Nivel de Estudios: D
+Nombre del Docente
+
+2004001 RECURSOS NATURALES
+
+1
+
+MI 1845-2015(692A)
+
+ARZABE MAURE JOSE OMAR
+
+2004001 RECURSOS NATURALES
+
+1
+
+JU 1845-2015(612)
+
+ARZABE MAURE JOSE OMAR
+
+(*) 2006031 FISICA BASICA IV
+2006031 FISICA BASICA IV
+
+1
+
+LU 815-945(621A)
+
+VISCARRA VARGAS MARCO ANTONIO
+
+1
+
+LU 945-1115(619)
+
+VISCARRA VARGAS MARCO ANTONIO
+
+2006031 FISICA BASICA IV
+
+1
+
+MI 945-1115(619)
+
+VISCARRA VARGAS MARCO ANTONIO
+
+2006031 FISICA BASICA IV
+
+1
+
+JU 945-1115(619)
+
+VISCARRA VARGAS MARCO ANTONIO
+
+2006089 FISICA COMPUTACIONAL I
+
+1
+
+MA 945-1115(FISCOM)
+
+MOREIRA CALIZAYA RENE
+
+2006089 FISICA COMPUTACIONAL I
+
+1
+
+VI 945-1115(FISCOM)
+
+MOREIRA CALIZAYA RENE
+
+2008156 CALCULO COMPLEJO
+
+1
+
+MA 645-815(692A)
+
+ROJAS ZURITA RAMIRO
+
+2008156 CALCULO COMPLEJO
+
+1
+
+MI 2015-2145(624)
+
+ROJAS ZURITA RAMIRO
+
+2008156 CALCULO COMPLEJO
+
+1
+
+JU 645-815(617C)
+
+ROJAS ZURITA RAMIRO
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+Horario
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Nivel de Estudios: E
+Nombre del Docente
+
+2006033 FISICA TEORICA I
+
+1
+
+MA 945-1115(619)
+
+FLORES FLORES FREDDY
+
+2006033 FISICA TEORICA I
+
+1
+
+VI 1545-1715(619)
+
+FLORES FLORES FREDDY
+
+2006034 ELECTRONICA
+
+1
+
+MA 1245-1415(621)
+
+AGREDA CORRALES LUIS ROBERTO
+
+2006034 ELECTRONICA
+
+1
+
+JU 1845-2015(620)
+
+AGREDA CORRALES LUIS ROBERTO
+
+2006090 FISICA COMPUTACIONAL II
+
+1
+
+LU 1715-1845(FISCOM)
+
+RUIZ UCUMARI IVAN
+
+2006090 FISICA COMPUTACIONAL II
+
+1
+
+MI 1715-1845(FISCOM)
+
+RUIZ UCUMARI IVAN
+
+2008157 TRANSFORMADAS INTEGRALES
+
+1
+
+MA 815-945(692B)
+
+CARRASCO CALVO ALVARO HERNANDO
+
+2008157 TRANSFORMADAS INTEGRALES
+
+1
+
+JU 1715-1845(624)
+
+CARRASCO CALVO ALVARO HERNANDO
+
+2008157 TRANSFORMADAS INTEGRALES
+
+1
+
+VI 1415-1545(612)
+
+CARRASCO CALVO ALVARO HERNANDO
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Horario
+
+Nivel de Estudios: F
+Nombre del Docente
+
+2006001 METODOS MATEMATICOS DE LA FISICA
+
+1
+
+LU 1415-1545(620B)
+
+LUCANO LUCANO MARCELO JAVIER
+
+2006001 METODOS MATEMATICOS DE LA FISICA
+
+1
+
+JU 1415-1545(619)
+
+LUCANO LUCANO MARCELO JAVIER
+
+2006036 FISICA TEORICA II
+
+1
+
+MA 815-945(619)
+
+VASQUEZ CARRILLO MICHAEL HUASCAR
+
+2006036 FISICA TEORICA II
+
+1
+
+VI 815-945(619)
+
+VASQUEZ CARRILLO MICHAEL HUASCAR
+
+2006037 TERMODINAMICA
+
+1
+
+MI 815-945(619)
+
+VASQUEZ CARRILLO MICHAEL HUASCAR
+
+2006037 TERMODINAMICA
+
+1
+
+JU 645-815(619)
+
+VASQUEZ CARRILLO MICHAEL HUASCAR
+
+2006038 LABORATORIO MEDIO
+
+1
+
+MA 945-1115(621A)
+
+TORREZ PELAEZ RAUL WILDER
+
+2006038 LABORATORIO MEDIO
+
+1
+
+VI 815-945(621A)
+
+TORREZ PELAEZ RAUL WILDER
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+Horario
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Nivel de Estudios: G
+Nombre del Docente
+
+2006041 TALLER AVANZADO I
+
+1
+
+MI 815-945(621A)
+
+GUZMAN SAAVEDRA ROCIO
+
+2006041 TALLER AVANZADO I
+
+1
+
+JU 945-1115(621A)
+
+GUZMAN SAAVEDRA ROCIO
+
+2006042 INTRODUCCION A LA FISICA NUCLEAR Y DE
+
+1
+
+MA 1845-2015(619)
+
+GUTIERREZ MARTINEZ VICTOR
+
+2006042 INTRODUCCION A LA FISICA NUCLEAR Y DE
+
+1
+
+MI 1845-2015(619)
+
+GUTIERREZ MARTINEZ VICTOR
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+Horario
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Nivel de Estudios: H
+Nombre del Docente
+
+2006043 MECANICA CUANTICA II
+
+1
+
+MA 1245-1415(619)
+
+ROJAS SALINAS HUGO
+
+2006043 MECANICA CUANTICA II
+
+1
+
+JU 1245-1415(619)
+
+ROJAS SALINAS HUGO
+
+2006044 INTRODUCCION A LA FISICA DEL ESTADO
+
+1
+
+MI 1545-1715(619)
+
+CHOQUE UNO FRANCISCO
+
+2006044 INTRODUCCION A LA FISICA DEL ESTADO
+
+1
+
+JU 1545-1715(619)
+
+CHOQUE UNO FRANCISCO
+
+2006045 TALLER AVANZADO II
+
+1
+
+LU 1545-1715(621A)
+
+MOREIRA CALIZAYA RENE
+
+2006045 TALLER AVANZADO II
+
+1
+
+MI 1545-1715(621A)
+
+MOREIRA CALIZAYA RENE
+
+2006046 MECANICA ESTADISTICA
+
+1
+
+MA 1545-1715(FISCOM)
+
+ANDRADE UZIEDA MARKO JORGE
+
+2006046 MECANICA ESTADISTICA
+
+1
+
+MI 1415-1545(619)
+
+ANDRADE UZIEDA MARKO JORGE
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+Horario
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Nivel de Estudios: I
+Nombre del Docente
+
+2006047 FISICA DEL ESTADO SOLIDO I
+
+1
+
+LU 1245-1415(619)
+
+ROJAS SALINAS HUGO
+
+2006047 FISICA DEL ESTADO SOLIDO I
+
+1
+
+SA 815-945(619)
+
+ROJAS SALINAS HUGO
+
+2006048 OPTICA
+
+1
+
+MA 1415-1545(619)
+
+FUENTES MIRANDA IVAN
+
+2006048 OPTICA
+
+1
+
+VI 1115-1245(619)
+
+FUENTES MIRANDA IVAN
+
+2006051 FISICA ATOMICA Y MOLECULAR
+
+1
+
+LU 1415-1545(619)
+
+FLORES FLORES FREDDY
+
+2006051 FISICA ATOMICA Y MOLECULAR
+
+1
+
+VI 1415-1545(619)
+
+FLORES FLORES FREDDY
+
+2006055 METALURGIA FISICA
+
+1
+
+JU 1845-2015(621)
+
+FERNANDEZ LEON JUAN A.
+
+2006055 METALURGIA FISICA
+
+1
+
+SA 945-1115(619)
+
+FERNANDEZ LEON JUAN A.
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+Horario de Clases por Plan de estudios
+
+2 del 2014
+
+Plan: LICENCIATURA EN FISICA(359201)
+SisMat
+Nombre Materia
+
+Grupo
+
+2006049 TALLER DE GRADO
+
+1
+
+Horario
+JU 945-1115(FISDEP)
+
+Facultad de Ciencias y Tecnología-UMSS
+
+Nivel de Estudios: J
+Nombre del Docente
+TORREZ PELAEZ RAUL WILDER
+
+Si encuentra un (*) en el horario, éste corresponde a Ayudantía, Práctica o Laboratorio
+
+Elaborado por el Centro de Procesamiento de Datos @JcGa - FCyT
+
+Unica impresión OFICIAL de horarios en la Facultad
+
+19/08/2014
+
+

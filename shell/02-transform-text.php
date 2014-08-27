@@ -42,7 +42,7 @@ class TransformText {
     }
 }
 
-$dir = __DIR__ . '/../public/horarios/FCyT/1-2014/';
+$dir = __DIR__ . '/../public/horarios/FCyT/2-2014/';
 $transform = new TransformText($dir);
 $files = $transform->transform();
 
