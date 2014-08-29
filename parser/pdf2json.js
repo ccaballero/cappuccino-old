@@ -1,10 +1,8 @@
 'use strict';
 
 var pdftext=require('pdf-text')
-  , join=require('path').join
-  , path=join(__dirname,'..','data','FCyT','2014-02','419701.pdf')
 
-pdftext(path,function(err,chunks){
+function parseTXT(err,chunks){
     if(err){
         console.log('error:'+err);
         return;
@@ -16,7 +14,7 @@ pdftext(path,function(err,chunks){
       , regex4=/^([0-9]{1,2}[A-Z]?)$/
       , regex5=/^(LU|MA|MI|JU|VI|SA) ([0-9]{3,4})-([0-9]{3,4})\((.*)\)$/
       , regex6=/^([A-Z .]{4,})$/
-      , regex7=/^\(*\)$/
+      , regex7=/^\(\*\)$/
 
     var flag1=false
       , flag2=false
@@ -25,6 +23,7 @@ pdftext(path,function(err,chunks){
     var level=undefined
       , subject=undefined
       , group=undefined
+
     var i1=-1
       , i2=-1
       , i3=-1
@@ -122,16 +121,34 @@ pdftext(path,function(err,chunks){
 
             result.levels[i1].subjects[i2]
                   .groups[i3].schedule[i4].teacher=match6[1];
+
             flag2=false;
             flag3=true;
         }
 
         var match7=regex7.exec(element)
         if(match7&&flag3){
+            var teacher=result.levels[i1].subjects[i2].groups[i3].teacher
+
+           if(teacher instanceof Array){
+               result.levels[i1].subjects[i2]
+                     .groups[i3].teacher = teacher[0];
+           }else{
+               delete result.levels[i1].subjects[i2]
+                     .groups[i3].teacher
+           }
+
             flag3=false;
         }
     });
 
-    console.log(JSON.stringify(result,undefined,4));
-});
+    return result;
+};
+
+exports.parsePDF=function(path,done){
+    pdftext(path,function(err,chunks){
+        var result=parseTXT(err,chunks);
+        done(result);
+    });
+};
 
