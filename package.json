@@ -1,0 +1,22 @@
+{
+  "name": "cappuccino",
+  "version": "0.0.2",
+  "description": "Scheduler organizer for FCyT courses",
+  "private": true,
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccaballero/cappuccino.git"
+  },
+  "author": "Carlos E. Caballero B.",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/ccaballero/cappuccino/issues"
+  },
+  "homepage": "https://github.com/ccaballero/cappuccino",
+  "dependencies": {
+    "pdf-text": "^0.4.0"
+  }
+}

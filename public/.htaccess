@@ -1,6 +1,0 @@
-DirectoryIndex index.html
-
-RewriteEngine on
-
-RewriteCond %{SCRIPT_FILENAME} !-f
-RewriteRule ^(.*)$ index.html?page=$1

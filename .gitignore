@@ -17,3 +17,9 @@ syntax: glob
 *.vrb
 *.synctex.gz
 
+node_modules
+bower_components
+temp
+dist
+.sass-cache
+
