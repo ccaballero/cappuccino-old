@@ -8,7 +8,7 @@ function parseTXT(err,chunks){
         return;
     }
 
-    var regex1=/^([A-Z ]+)\(([0-9]+)\)$/
+    var regex1=/^([A-Z \(\)]+)\(([0-9]+)\)$/
       , regex2=/^ ?([ABCDEFGHIJ]) ?$/
       , regex3=/^([0-9]{7}) ?([A-Z ]+)/
       , regex4=/^([0-9]{1,2}[A-Z]?)$/

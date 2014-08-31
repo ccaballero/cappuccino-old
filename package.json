@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ccaballero/cappuccino",
   "dependencies": {
+    "async": "^0.9.0",
+    "file": "^0.2.2",
     "pdf-text": "^0.4.0"
   }
 }
