@@ -19,6 +19,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "file": "^0.2.2",
-    "pdf-text": "^0.4.0"
+    "pdf-text": "^0.4.0",
+    "request": "^2.40.0"
   }
 }
