@@ -22,4 +22,5 @@ bower_components
 temp
 dist
 .sass-cache
+.tmp
 

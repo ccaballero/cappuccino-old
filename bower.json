@@ -1,0 +1,10 @@
+{
+  "name": "cappuccino",
+  "version": "0.0.2",
+  "dependencies": {
+    "ember": "~1.7.0",
+    "ember-data": "~0.0.14",
+    "font-awesome": "~4.2.0"
+  },
+  "devDependencies": {}
+}
