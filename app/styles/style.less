@@ -1,5 +1,5 @@
 
-body, div, header, section, footer, article, p, ul, li {
+body, div, header, section, footer, article, figure, p, ul, li {
     margin: 0;
     padding: 0;
 }
@@ -12,42 +12,78 @@ body, div, header, section, footer, article, p, ul, li {
 @color1: #502d16;
 @color2: #76421f;
 
+.clear {
+    clear: both;
+}
+
+#background {
+    position: fixed;
+    top: 0;
+    bottom: 2.0rem;
+    left: 0;
+    right: 0;
+
+    opacity: 0.3;
+
+    background-image: url('/images/cappuccino.svg');
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 50% 100%;
+}
+
 #wrapper {
-    .title {
-        text-align: center;
-        background-color: lighten(@color1, 60%);
-        padding: 1.0rem 0;
-        border-bottom: 0.2rem solid @color2;
-
-        img {
-            max-width: 100px;
-            width: 80vw;
-        }
-        h1 {
-            color: @color2;
-            font-size: 2.0rem;
-            text-transform: uppercase;
-        }
-    }
-
     section {
         ul {
             list-style: none;
             li {
                 float: left;
                 figure {
+                    text-align: center;
+                    margin: 1.0rem 0;
+                    padding: 1.0rem 0;
+                    img {
+                        width: 100px;
+                        height: auto;
+                    }
                     figcaption {
                         text-align: center;
                         font-weight: bold;
-                        font-size: 1.3rem;
+                        font-size: 1.6rem;
                     }
                 }
 
-                @media (min-width: 900px) {
-                    
+                @media (min-width: 400px) {
+                    width: 33vw;
                 }
-                @media (min-width: 500px) and (max-width: 899px) {
+                @media (min-width: 300px) and (max-width: 399px) {
+                    width: 50%;
+                }
+                @media (max-width: 299px) {
+                    width: 100%;
+                }
+            }
+        }
+    }
 
+    footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        box-shadow: 0px 0px 5px #000000;
+        background-color: @color1;
+
+        ul {
+            list-style: none;
+            padding: 0.3rem 0.75rem 0.25rem 0.75rem;
+            text-align: right;
+            li {
+                display: inline-block;
+                padding: 0 0.5rem;
+                a {
+                    color: #ffffff;
+                    font-size: 1.4rem;
+                    text-decoration: none;
                 }
             }
         }

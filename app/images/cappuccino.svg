@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="566.92914"
-   height="566.92914"
+   width="416"
+   height="520"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="cappuccino.svg">
   <defs
      id="defs4" />
@@ -24,18 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="574.81897"
-     inkscape:cy="275.90621"
+     inkscape:zoom="1"
+     inkscape:cx="266.40653"
+     inkscape:cy="265.87995"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1360"
-     inkscape:window-height="743"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="778"
+     inkscape:window-height="907"
+     inkscape:window-x="948"
+     inkscape:window-y="90"
+     inkscape:window-maximized="0"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -64,13 +64,15 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="cap">
+     inkscape:label="cap"
+     transform="translate(0,-46.929138)">
     <g
        id="g3896"
        transform="translate(-5.796924,-36.769553)"
-       style="stroke-width:0.35433071;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none" />
     <g
-       id="g3841">
+       id="g3841"
+       transform="matrix(0.98585807,0,0,0.98603828,-70.735435,25.696655)">
       <path
          sodipodi:nodetypes="sssssssscsssssssscs"
          inkscape:connector-curvature="0"
