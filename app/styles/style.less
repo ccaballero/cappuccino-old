@@ -23,7 +23,7 @@ body, div, header, section, footer, article, figure, p, ul, li {
     left: 0;
     right: 0;
 
-    opacity: 0.3;
+    opacity: 0.1;
 
     background-image: url('/images/cappuccino.svg');
     background-repeat: no-repeat;
@@ -33,10 +33,11 @@ body, div, header, section, footer, article, figure, p, ul, li {
 
 #wrapper {
     section {
-        ul {
+        &>ul {
             list-style: none;
-            li {
+            &>li {
                 float: left;
+
                 figure {
                     text-align: center;
                     margin: 1.0rem 0;
@@ -52,10 +53,23 @@ body, div, header, section, footer, article, figure, p, ul, li {
                     }
                 }
 
-                @media (min-width: 400px) {
+                &>ul {
+                    margin-bottom: 2.0rem;
+                    text-align: center;
+                    &>li {
+                        padding: 0.25rem;
+                        a {
+                            text-decoration: none;
+                            color: #000000;
+                            font-size: 1.45rem;
+                        }
+                    }
+                }
+
+                @media (min-width: 500px) {
                     width: 33vw;
                 }
-                @media (min-width: 300px) and (max-width: 399px) {
+                @media (min-width: 300px) and (max-width: 499px) {
                     width: 50%;
                 }
                 @media (max-width: 299px) {
