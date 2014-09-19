@@ -4,5 +4,6 @@ App.Store=DS.Store.extend();
 
 App.Router.map(function(){
     this.route('index',{path:'/'});
+    this.route('aview');
 });
 
