@@ -1,22 +1,17 @@
 <ul>
+    {{#each entry in model}}
     <li>
         <figure>
-            <img src="images/fcyt.svg" />
-            <figcaption>FCyT</figcaption>
+            {{img entry.name}}
+            <figcaption>{{entry.name}}</figcaption>
         </figure>
         <ul>
-            <li>{{#link-to "aview"}}Gestión 2014-02{{/link-to}}</li>
-            <li><a href="">Gestión 2014-01</a></li>
-            <li><a href="">Gestión 2013-02</a></li>
-            <li><a href="">Gestión 2013-01</a></li>
+        {{#each gestion in entry.gestions}}
+            <li><a href="">{{gestion}}</a></li>
+        {{/each}}
         </ul>
     </li>
-    <li>
-        <figure>
-            <img src="images/fce.svg" />
-            <figcaption>FCE</figcaption>
-        </figure>
-    </li>
+    {{/each}}
 </ul>
 <div class="clear"></div>
 
