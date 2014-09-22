@@ -8,6 +8,8 @@ var request=require('request')
   , path=join(__dirname,'..','data','FCyT',gestion)
   , regex=/<a href="(.*)">(.*\.pdf)<\/a>/g
 
+// TODO check if directory exists
+
 request(url,function(error,response,body){
     if(error){throw error}
 
