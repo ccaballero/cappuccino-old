@@ -89,10 +89,11 @@ body, div, header, section, footer, article, figure, p, ul, li {
         bottom: 0;
         left: 0;
         right: 0;
-        box-shadow: 0px 0px 5px #000000;
-        background-color: lighten(@color1, 25%);
+        border-top: 1.0rem dotted @color1;
+        padding-top: 0.5rem;
 
         ul {
+            background-color: @color1;
             list-style: none;
             padding: 0.3rem 0.75rem 0.25rem 0.75rem;
             text-align: right;
