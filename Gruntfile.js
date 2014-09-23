@@ -58,7 +58,10 @@ module.exports = function (grunt) {
                   , paths:['bower_components']
                 }
               , files:{
-                    '.tmp/styles/style.css':'app/styles/style.less'
+                    '.tmp/styles/layout1.css':'app/styles/layout1.less'
+                  , '.tmp/styles/layout2.css':'app/styles/layout2.less'
+                  , '.tmp/styles/layout3.css':'app/styles/layout3.less'
+                  , '.tmp/styles/layout4.css':'app/styles/layout4.less'
                 }
             }
         }

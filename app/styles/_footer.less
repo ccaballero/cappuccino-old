@@ -1,0 +1,54 @@
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    border-top: 0.1rem dashed @color1;
+    padding-top: 0.6rem;
+
+    &>div {
+        border-top: 1.0rem dotted @color1;
+        padding-top: 0.6rem;
+
+        &>div {
+            background-color: @color1;
+            box-shadow: 0 0.2rem 0.5rem #000000 inset;
+        }
+    }
+
+    ul {
+        list-style: none;
+        padding: 0.3rem 0.75rem 0.25rem 0.75rem;
+        text-align: right;
+        li {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            a {
+                color: #ffffff;
+                font-size: 1.2rem;
+                text-decoration: none;
+                padding: 0 0.25rem;
+                border-radius: 0.4rem;
+
+                transition-duration: 1s;
+
+                &:hover {
+                    color: @color1;
+                    background-color: lighten(@color1, 40%);
+                    padding: 0 1.0rem;
+                }
+            }
+        }
+    }
+
+    ul.left {
+        float: left;
+    }
+
+    ul.right {
+        float: right;
+    }
+}
+

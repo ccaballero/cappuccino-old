@@ -1,21 +1,23 @@
-<ul>
-    {{#each entry in model}}
-    <li>
-        <figure>
-            {{img entry.name}}
-            <figcaption>{{entry.name}}</figcaption>
-        </figure>
-        <ul>
-        {{#each gestion in entry.gestions}}
-            <li>
-                {{#link-to 'schedule' entry.name gestion}}
-                    {{gestion}}
-                {{/link-to}}
-            </li>
+<section id="index">
+    <ul>
+        {{#each entry in model}}
+        <li>
+            <figure>
+                {{img entry.name}}
+                <figcaption>{{entry.name}}</figcaption>
+            </figure>
+            <ul>
+            {{#each gestion in entry.gestions}}
+                <li>
+                    {{#link-to 'schedule' entry.name gestion}}
+                        {{gestion}}
+                    {{/link-to}}
+                </li>
+            {{/each}}
+            </ul>
+        </li>
         {{/each}}
-        </ul>
-    </li>
-    {{/each}}
-</ul>
-<div class="clear"></div>
+    </ul>
+    <div class="clear"></div>
+</section>
 

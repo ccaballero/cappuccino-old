@@ -5,6 +5,13 @@ Ember.Handlebars.helper('img',function(str){
     return new Ember.Handlebars.SafeString(
         '<img src="/images/'+str.toLowerCase()+'.svg" />');
 });
+Ember.Handlebars.helper('s_career',function(str){
+    console.log(str);
+    return new Ember.Handlebars.SafeString(
+        '<a href="">('+str.code+')'+
+        str.name.toUpperCase().slice(15,17)+
+        str.name.toLowerCase().slice(17)+'</a>');
+});
 
 App.Store=DS.Store.extend();
 

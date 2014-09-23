@@ -1,40 +1,13 @@
 
-body, div, header, section, footer, article, figure, p, ul, li {
-    margin: 0;
-    padding: 0;
-}
-
-* {
-    font-family: Baskerville, Times New Roman, Times, serif;
-    font-size: 11px;
-}
-
-@color1: #502d16;
-@color2: #76421f;
-
-.clear {
-    clear: both;
-}
-
-#background {
-    position: fixed;
-    top: 0;
-    bottom: 2.0rem;
-    left: 0;
-    right: 0;
-
-    opacity: 0.1;
-
-    background-image: url('/images/cappuccino.svg');
-    background-repeat: no-repeat;
-    background-size: 50vh;
-    background-position: 50% 100%;
-
-    z-index: -100;
-}
-
 #wrapper {
-    section {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: center;
+
+    section#index {
         &>ul {
             list-style: none;
             &>li {
@@ -83,54 +56,24 @@ body, div, header, section, footer, article, figure, p, ul, li {
             }
         }
     }
-
-    footer {
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        border-top: 1.0rem dotted @color1;
-        padding-top: 0.5rem;
-
-        ul {
-            background-color: @color1;
-            list-style: none;
-            padding: 0.3rem 0.75rem 0.25rem 0.75rem;
-            text-align: right;
-            box-shadow: 0 0.2rem 0.5rem #000000 inset;
-            li {
-                display: inline-block;
-                padding: 0 0.5rem;
-                a {
-                    color: #ffffff;
-                    font-size: 1.4rem;
-                    text-decoration: none;
-                }
-            }
-        }
-
-        ul.responsive {
-            @media (min-height: 508px) {
-                display: none;
-            }
-        }
-
-        ul.ritual {
-            @media (max-height: 507px) {
-                display: none;
-            }
-        }
-
-        @media (max-height: 508px) {
-            border: none;
-        }
-    }
 }
 
 section.schedule {
     min-width: 320px;
     max-width: 800px;
     margin: 0 auto;
+
+/*@media (min-width: 500px) {
+@media (min-width: 300px) and (max-width: 499px) {
+@media (max-width: 299px) {*/
+
+    @media (min-width: 1080px) {
+        max-width: none;
+    }
+    @media (min-width: 960px) {
+        order: 0;
+        flex: 1 1 auto;
+    }
 
     @media (min-height: 508px) {
         height: 460px;
@@ -146,4 +89,5 @@ section.schedule {
 }
 
 @import 'mode.a.less';
+@import 'list.less';
 
