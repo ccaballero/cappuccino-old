@@ -1,9 +1,7 @@
 #a {
-    position: fixed;
-    top: 0;
-    bottom: 4.2rem;
-    left: 0;
-    right: 0;
+    position: relative;
+    width: 100%;
+    height: 100%;
 
     display: flex;
     flex-direction: row;
@@ -38,10 +36,7 @@
             height: 4.762%;
             font-size: 1.2rem;
 
-/*            @media (min-width: 361px) and (max-width: 600px) {
-                font-size: 0.9rem;
-            }*/
-            @media (max-width: 640px) {
+            @media (max-width: 800px) {
                 font-size: 0.8rem;
             }
         }
@@ -58,6 +53,8 @@
             justify-content: center;
             align-items: center;
             align-content: center;
+
+            overflow: hidden;
         }
 
         div.d {

@@ -97,7 +97,7 @@ body, div, header, section, footer, article, figure, p, ul, li {
             list-style: none;
             padding: 0.3rem 0.75rem 0.25rem 0.75rem;
             text-align: right;
-            box-shadow: 0 0.25rem 0.5rem #000000 inset;
+            box-shadow: 0 0.2rem 0.5rem #000000 inset;
             li {
                 display: inline-block;
                 padding: 0 0.5rem;
@@ -108,6 +108,40 @@ body, div, header, section, footer, article, figure, p, ul, li {
                 }
             }
         }
+
+        ul.responsive {
+            @media (min-height: 508px) {
+                display: none;
+            }
+        }
+
+        ul.ritual {
+            @media (max-height: 507px) {
+                display: none;
+            }
+        }
+
+        @media (max-height: 508px) {
+            border: none;
+        }
+    }
+}
+
+section.schedule {
+    min-width: 320px;
+    max-width: 800px;
+    margin: 0 auto;
+
+    @media (min-height: 508px) {
+        height: 460px;
+    }
+
+    @media (max-height: 508px) {
+        position: fixed;
+        top: 0;
+        bottom: 2.0rem;
+        left: 0;
+        right: 0;
     }
 }
 
