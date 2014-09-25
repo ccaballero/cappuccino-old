@@ -20,11 +20,21 @@ section.schedule {
         div.c { width: 15%; }
         div.s { width: 5%; }
 
-        &>div:nth-child(1) {
-            width: 5%;
+        @media (min-width: 901px) {
+            &>div:nth-child(1) {
+                width: 5%;
+            }
+            &>div:nth-child(2) {
+                width: 5%;
+            }
         }
-        &>div:nth-child(2) {
-            width: 5%;
+        @media (max-width: 900px) {
+            &>div:nth-child(1) {
+                width: 10%;
+            }
+            &>div:nth-child(2) {
+                display: none;
+            }
         }
 
         &>div {
