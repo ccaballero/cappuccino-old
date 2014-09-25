@@ -2,33 +2,43 @@ section.list {
     order: 0;
     flex: 0 1 auto;
 
-    background-color: fade(@color1, 20%);
+    max-width: 20vw;
+
+    background-color: fade(@color1, 10%);
     margin-top: 0.5rem;
-    padding: 0.6rem 0 0.6rem 0.6rem;
     box-sizing: border-box;
+
+    padding: 0.6rem 0 0.6rem 0.6rem;
     border-radius: 1.0rem 0 0 1.0rem;
 
     ul {
         list-style: none;
+        float: left;
+        padding: 0.5rem 0rem;
+
         border-radius: 0.75rem 0 0 0.75rem;
+        border: 1px solid fade(@color1, 15%);
+        border-right: none;
         background-color: fade(@color1, 15%);
 
         li {
-            padding: 0.3rem 0.5rem;
+            float: left;
+            width: 100%;
+            transition-duration: 0.5s;
+
             &:hover {
                 background-color: fade(@color1, 40%);
+                transform: translateX(-0.5rem);
             }
-        }
-
-        li:nth-child(0) {
-            padding-top: 2.6rem;
         }
     }
 
     a {
         color: @color1;
         text-decoration: none;
-        font-size: 1.1rem;
+        float: left;
+        padding: 0.4rem 0.8rem;
+        font-size: 1.0rem;
     }
 }
 
