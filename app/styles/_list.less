@@ -26,19 +26,19 @@ section.list {
             width: 100%;
             transition-duration: 0.5s;
 
+            span {
+                color: @color1;
+                text-decoration: none;
+                float: left;
+                padding: 0.4rem 0.8rem;
+                font-size: 1.0rem;
+            }
+
             &:hover {
                 background-color: fade(@color1, 40%);
                 transform: translateX(-0.5rem);
             }
         }
-    }
-
-    a {
-        color: @color1;
-        text-decoration: none;
-        float: left;
-        padding: 0.4rem 0.8rem;
-        font-size: 1.0rem;
     }
 }
 

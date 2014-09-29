@@ -1,7 +1,11 @@
 <section class="list">
     <ul>
     {{#each career in model}}
-        <li>{{s_career career}}</li>
+        <li>
+        {{#view "pick1" tagName="span" fuck=true}}
+            {{render_career career}}
+        {{/view}}
+        </li>
     {{/each}}
     </ul>
 </section>

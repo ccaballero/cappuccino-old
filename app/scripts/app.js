@@ -5,11 +5,11 @@ Ember.Handlebars.helper('img',function(str){
     return new Ember.Handlebars.SafeString(
         '<img src="/images/'+str.toLowerCase()+'.svg" />');
 });
-Ember.Handlebars.helper('s_career',function(str){
+Ember.Handlebars.helper('render_career',function(str){
     return new Ember.Handlebars.SafeString(
-        '<a href="">('+str.code+')'+
+        '('+str.code+')'+
         str.name.toUpperCase().slice(15,17)+
-        str.name.toLowerCase().slice(17)+'</a>');
+        str.name.toLowerCase().slice(17));
 });
 
 App.Store=DS.Store.extend();
@@ -33,7 +33,8 @@ App.IndexRoute=Ember.Route.extend({
 
 App.ScheduleRoute=Ember.Route.extend({
     setupController:function(controller,model){
-        this.controllerFor('application').set('context',this.get('f'));
+        var label=this.get('f')+' ('+this.get('g')+')';
+        this.controllerFor('application').set('context',label);
         controller.set('model',model);
     },
     model:function(params){
@@ -46,6 +47,19 @@ App.ScheduleRoute=Ember.Route.extend({
         this.set('g',g);
 
         return Ember.$.getJSON('/data/'+f+'/'+g+'.json');
+    },
+    actions:{
+        level1:function(){
+            console.log('asdf');
+        }
+    }
+});
+
+App.Pick1View=Ember.View.extend({
+    click:function(event,a){
+        console.log(event);
+        console.log(a);
+        this.get('controller').send('level1');
     }
 });
 
