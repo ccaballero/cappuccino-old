@@ -1,18 +1,30 @@
-/*Handlebars*/
-var App=window.App=Ember.Application.create();
+//Ember.LOG_BINDINGS = true;
 
+window.App=window.App=Ember.Application.create({
+//    LOG_ACTIVE_GENERATION: true
+//  , LOG_VIEW_LOOKUPS: true
+});
+
+/*Models*/
+App.Store=DS.Store.extend();
+App.Career=Em.Object.extend({
+    id: null
+  , name: null
+  , loaded: false
+  , levels: []
+});
+
+/*Handlebars*/
 Ember.Handlebars.helper('img',function(str){
     return new Ember.Handlebars.SafeString(
         '<img src="/images/'+str.toLowerCase()+'.svg" />');
 });
 Ember.Handlebars.helper('render_career',function(str){
     return new Ember.Handlebars.SafeString(
-        '('+str.code+')'+
+        '('+str.id+')'+
         str.name.toUpperCase().slice(15,17)+
         str.name.toLowerCase().slice(17));
 });
-
-App.Store=DS.Store.extend();
 
 App.Router.map(function(){
     this.route('schedule',{
@@ -26,40 +38,44 @@ App.ApplicationController=Ember.ObjectController.extend({
 
 App.IndexRoute=Ember.Route.extend({
     model:function(){
-        // TODO convert in store
-        return Ember.$.getJSON('/data/summary.json');
+        return Ember.$.getJSON('/data/summary.json')
     }
 });
 
 App.ScheduleRoute=Ember.Route.extend({
-    setupController:function(controller,model){
+    /*setupController:function(controller,model){
         var label=this.get('f')+' ('+this.get('g')+')';
         this.controllerFor('application').set('context',label);
         controller.set('model',model);
-    },
+    },*/
     model:function(params){
-        // TODO convert in store
-        // TODO need validators
-        var f=params.f
-          , g=params.g;
-        
-        this.set('f',f);
-        this.set('g',g);
+        var r1=/^[A-Za-z]+$/
+          , r2=/^[0-9]{4}-[0-9]{2}$/
+          , careers=[]
 
-        return Ember.$.getJSON('/data/'+f+'/'+g+'.json');
+        if(r1.test(params.f) && r2.test(params.g)){
+            return Ember.$.getJSON('/data/'+params.f+'/'+params.g+'.json')
+                .then(function(data){
+                    data.forEach(function(i){
+                        careers.push(App.Career.create({
+                            id:i.code
+                          , name:i.name
+                        }));
+                    });
+                    return careers;
+                });
+        }else{
+            alert('Invalid Parameters');
+            this.transitionTo('/');
+            return null;
+        }
     },
     actions:{
-        level1:function(){
-            console.log('asdf');
+        pick1:function(model){
+            model.set('loaded',true);
+            //model.set('levels',Ember.$.getJSON('/data/summary.json'));
+            console.log(model);
         }
-    }
-});
-
-App.Pick1View=Ember.View.extend({
-    click:function(event,a){
-        console.log(event);
-        console.log(a);
-        this.get('controller').send('level1');
     }
 });
 

@@ -2,9 +2,10 @@
     <ul>
     {{#each career in model}}
         <li>
-        {{#view "pick1" tagName="span" fuck=true}}
-            {{render_career career}}
-        {{/view}}
+            <a {{action "pick1" career}}>
+                {{#if career.loaded}}&#8862;{{/if}}
+                {{render_career career}}
+            </a>
         </li>
     {{/each}}
     </ul>
