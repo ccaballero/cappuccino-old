@@ -25,6 +25,9 @@ Ember.Handlebars.helper('render_career',function(str){
         str.name.toUpperCase().slice(15,17)+
         str.name.toLowerCase().slice(17));
 });
+Ember.Handlebars.helper('render_level',function(str){
+    return new Ember.Handlebars.SafeString('Nivel '+str.code);
+});
 
 App.Router.map(function(){
     this.route('schedule',{
@@ -33,7 +36,7 @@ App.Router.map(function(){
 });
 
 App.ApplicationController=Ember.ObjectController.extend({
-    context: ''
+    context:''
 });
 
 App.IndexRoute=Ember.Route.extend({
@@ -43,17 +46,19 @@ App.IndexRoute=Ember.Route.extend({
 });
 
 App.ScheduleRoute=Ember.Route.extend({
-    /*setupController:function(controller,model){
+    setupController:function(controller,model){
         var label=this.get('f')+' ('+this.get('g')+')';
         this.controllerFor('application').set('context',label);
         controller.set('model',model);
-    },*/
+    },
     model:function(params){
         var r1=/^[A-Za-z]+$/
           , r2=/^[0-9]{4}-[0-9]{2}$/
           , careers=[]
 
         if(r1.test(params.f) && r2.test(params.g)){
+            this.set('f',params.f);
+            this.set('g',params.g);
             return Ember.$.getJSON('/data/'+params.f+'/'+params.g+'.json')
                 .then(function(data){
                     data.forEach(function(i){
@@ -61,6 +66,7 @@ App.ScheduleRoute=Ember.Route.extend({
                             id:i.code
                           , name:i.name
                         }));
+                        careers.sort(function(a,b){return +(a.id)-+(b.id)});
                     });
                     return careers;
                 });
@@ -72,9 +78,13 @@ App.ScheduleRoute=Ember.Route.extend({
     },
     actions:{
         pick1:function(model){
-            model.set('loaded',true);
-            //model.set('levels',Ember.$.getJSON('/data/summary.json'));
-            console.log(model);
+            Ember.$.getJSON(
+                '/data/'+this.get('f')+'/'+this.get('g')+'/'+model.id+'.json')
+                .then(function(data){
+                    model.set('levels',data.levels);
+                    model.set('loaded',true);
+                    Ember.$(model).addClass('picked');
+                });
         }
     }
 });

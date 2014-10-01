@@ -6,6 +6,17 @@
                 {{#if career.loaded}}&#8862;{{/if}}
                 {{render_career career}}
             </a>
+            {{#if career.levels}}
+                <ul>
+                {{#each level in career.levels}}
+                    <li>
+                        <a>
+                            {{render_level level}}
+                        </a>
+                    </li>
+                {{/each}}
+                </ul>
+            {{/if}}
         </li>
     {{/each}}
     </ul>
