@@ -78,13 +78,17 @@ App.ScheduleRoute=Ember.Route.extend({
     },
     actions:{
         pick1:function(model){
-            Ember.$.getJSON(
-                '/data/'+this.get('f')+'/'+this.get('g')+'/'+model.id+'.json')
-                .then(function(data){
-                    model.set('levels',data.levels);
-                    model.set('loaded',true);
-                    Ember.$(model).addClass('picked');
-                });
+            if(!model.get('loaded')){
+                Ember.$.getJSON(
+                    '/data/'+this.get('f')+'/'+this.get('g')+
+                    '/'+model.id+'.json')
+                    .then(function(data){
+                        model.set('expanded',true);
+                        model.set('levels',data.levels);
+                        model.set('loaded',true);
+                    });
+            }
+            model.set('expanded',!model.get('expanded'));
         }
     }
 });

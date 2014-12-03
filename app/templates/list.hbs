@@ -3,10 +3,10 @@
     {{#each career in model}}
         <li>
             <a {{action "pick1" career}}>
-                {{#if career.loaded}}&#8862;{{/if}}
+                {{#if career.loaded}}&#8251;{{/if}}
                 {{render_career career}}
             </a>
-            {{#if career.levels}}
+            {{#if career.expanded}}
                 <ul>
                 {{#each level in career.levels}}
                     <li>

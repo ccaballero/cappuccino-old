@@ -3,11 +3,12 @@ section.list {
     flex: 0 1 auto;
 
     max-width: 240px;
-    max-height: 86vh;
-    overflow: auto;
+    /*max-height: 86vh;*/
+    overflow: hidden;
 
     background-color: fade(@color1, 10%);
     margin-top: 0.5rem;
+    margin-bottom: 5.0rem;
     box-sizing: border-box;
 
     padding: 0.6rem 0 0.6rem 0.6rem;
@@ -17,6 +18,8 @@ section.list {
         list-style: none;
         float: left;
         padding: 0.5rem 0rem;
+        width: 100%;
+        box-sizing: border-box;
 
         border-radius: 0.75rem 0 0 0.75rem;
         border: 1px solid fade(@color1, 15%);
@@ -34,6 +37,7 @@ section.list {
                 float: left;
                 padding: 0.4rem 0.8rem;
                 font-size: 1.0rem;
+                width: 100%;
             }
 
             &:hover {
