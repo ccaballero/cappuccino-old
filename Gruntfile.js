@@ -108,7 +108,7 @@ module.exports = function (grunt) {
                     '.tmp/scripts/*.js'
                   , '.tmp/styles/*.css'
                   , '.tmp/*.html'
-                  , 'app/*.html'
+                  , 'app/**/*.html'
                 ]
             }
         }
