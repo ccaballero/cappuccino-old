@@ -21,7 +21,6 @@ section.list {
         width: 100%;
         box-sizing: border-box;
 
-        border-radius: 0.75rem 0 0 0.75rem;
         border: 1px solid fade(@color1, 15%);
         border-right: none;
         background-color: fade(@color1, 15%);
@@ -41,9 +40,16 @@ section.list {
             }
 
             &:hover {
-                background-color: fade(@color1, 40%);
-                transform: translateX(-0.5rem);
+                background-color: fade(@color1, 25%);
+                transform: translateX(0.5rem);
             }
+        }
+    }
+
+    &>ul>li {
+        border-bottom: 1px solid fade(@color1, 25%);
+        &:nth-child(3) {
+            border-top: 1px solid fade(@color1, 25%);
         }
     }
 }
