@@ -5,13 +5,14 @@
 
 body {
     background-color: #ffffff;
+    font-size: 16pt;
 }
 
 .slide {
     border: 1px solid #000000;
     border-radius: 10px;
-    font-size: 16px;
-    height: 400px;
+    font-size: 1.2rem;
+    height: 420px;
 }
 
 .full {
@@ -27,10 +28,12 @@ h1 {
     font-size: 3.0em;
     margin-bottom: 5%;
     line-height: 1.1em;
+    color: #76421f;
 }
 
 p, li, blockquote, dt {
-    font-size: 1.5em;
+    font-size: 1.8rem;
+    line-height: 2.5rem;
 }
 
 dd {
