@@ -11,6 +11,7 @@ App.Career=Em.Object.extend({
     id: null
   , name: null
   , loaded: false
+  , expanded: false
   , levels: []
 });
 
@@ -40,18 +41,28 @@ App.ApplicationController=Ember.ObjectController.extend({
 });
 
 App.IndexRoute=Ember.Route.extend({
-    model:function(){
+    setupController:function(controller,model){
+        this.controllerFor('application').set('context','');
+        controller.set('model',model);
+    }
+  , model:function(){
         return Ember.$.getJSON('/data/summary.json')
+    }
+});
+
+App.ScheduleController=Ember.ObjectController.extend({
+    selected:{
+        career:''
     }
 });
 
 App.ScheduleRoute=Ember.Route.extend({
     setupController:function(controller,model){
-        var label=this.get('f')+' ('+this.get('g')+')';
-        this.controllerFor('application').set('context',label);
+        this.controllerFor('application')
+            .set('context',this.get('f')+' ('+this.get('g')+')');
         controller.set('model',model);
-    },
-    model:function(params){
+    }
+  , model:function(params){
         var r1=/^[A-Za-z]+$/
           , r2=/^[0-9]{4}-[0-9]{2}$/
           , careers=[]
@@ -75,20 +86,25 @@ App.ScheduleRoute=Ember.Route.extend({
             this.transitionTo('/');
             return null;
         }
-    },
-    actions:{
+    }
+  , actions:{
         pick1:function(model){
             if(!model.get('loaded')){
                 Ember.$.getJSON(
                     '/data/'+this.get('f')+'/'+this.get('g')+
                     '/'+model.id+'.json')
                     .then(function(data){
-                        model.set('expanded',true);
                         model.set('levels',data.levels);
                         model.set('loaded',true);
                     });
             }
+
             model.set('expanded',!model.get('expanded'));
+            if(model.get('expanded')){
+                this.set('controller.selected.career',model.id);
+            }else{
+                this.set('controller.selected.career','');
+            }
         }
     }
 });
