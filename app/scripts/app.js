@@ -29,6 +29,10 @@ Ember.Handlebars.helper('render_career',function(str){
 Ember.Handlebars.helper('render_level',function(str){
     return new Ember.Handlebars.SafeString('Nivel '+str.code);
 });
+Ember.Handlebars.helper('filter_only',function(current,options){
+    console.log('you picked is:'+current);
+    return '';
+});
 
 App.Router.map(function(){
     this.route('schedule',{
