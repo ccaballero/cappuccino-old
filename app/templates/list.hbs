@@ -1,8 +1,8 @@
 <section class="list">
     {{selected.career}}
+    --> {{show_career}}
     <ul>
     {{#each career in model}}
-        {{#filter_only model.id}}
         <li>
             <a {{action "pick1" career}}>
                 {{#if career.loaded}}
@@ -26,7 +26,6 @@
                 </ul>
             {{/if}}
         </li>
-        {{/filter_only}}
     {{/each}}
     </ul>
 </section>
