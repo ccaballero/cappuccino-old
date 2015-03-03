@@ -10,10 +10,10 @@ function parseTXT(err,chunks){
 
     var regex1=/^([A-Z \(\)]+)\(([0-9]+)\)$/
       , regex2=/^ ?([ABCDEFGHIJ]) ?$/
-      , regex3=/^([0-9]{7}) ?([A-Z ]+)/
+      , regex3=/^([0-9]{7}) ?([A-Z¥\. ]+)/
       , regex4=/^([0-9]{1,2}[A-Z]?)$/
       , regex5=/^(LU|MA|MI|JU|VI|SA) ([0-9]{3,4})-([0-9]{3,4})\((.*)\)$/
-      , regex6=/^([A-Z .]{4,})$/
+      , regex6=/^([A-Z¥ \.]{4,})$/
       , regex7=/^\(\*\)$/
 
     var flag1=false
@@ -132,8 +132,10 @@ function parseTXT(err,chunks){
 
            if(teacher instanceof Array){
                result.levels[i1].subjects[i2]
-                     .groups[i3].teacher = teacher[0];
+                     .groups[i3].teacher=teacher[0];
            }else{
+               result.levels[i1].subjects[i2]
+                     .groups[i3].auxiliar=teacher;
                delete result.levels[i1].subjects[i2]
                      .groups[i3].teacher
            }
