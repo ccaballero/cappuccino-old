@@ -29,6 +29,15 @@ var pdf2json=require('./pdf2json').parsePDF
     }, 100)
 
 q.drain=function(){
+    summary=summary.sort(function(a,b){
+        if(a.name>b.name){
+            return 1;
+        }
+        if(a.name<b.name){
+            return -1
+        }
+        return 0;
+    });
     fs.writeFile(join(path,'..',gestion+'.json'),JSON.stringify(summary),
     function(error){
         if(error){throw error}
