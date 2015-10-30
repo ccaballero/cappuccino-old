@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tools {
+    display: none;
+}
+
+th,td {
+    border: 1px solid #000000;
+}
+
+.color1 { background-color: hsla(  0, 100%, 50%, 0.25); }
+.color2 { background-color: hsla( 40, 100%, 50%, 0.25); }
+.color3 { background-color: hsla( 80, 100%, 50%, 0.25); }
+.color4 { background-color: hsla(120, 100%, 50%, 0.25); }
+.color5 { background-color: hsla(160, 100%, 50%, 0.25); }
+.color6 { background-color: hsla(200, 100%, 50%, 0.25); }
+.color7 { background-color: hsla(240, 100%, 50%, 0.25); }
+.color8 { background-color: hsla(280, 100%, 50%, 0.25); }
+.color9 { background-color: hsla(320, 100%, 50%, 0.25); }

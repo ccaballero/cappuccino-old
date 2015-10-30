@@ -78,6 +78,7 @@ module.exports = function (grunt) {
                         return [
                             connect.static('.tmp')
                           , connect.static('app')
+                          , connect.static('media')
                           , connect().use('/vendor',
                                 connect.static('bower_components'))
                           , connect().use('/data',
